@@ -7,7 +7,7 @@ permalink: /about/
 
 Sustainability Matters aims to highlight sustainability-related news and make practical sense of it all. It is intended to inform and educate on the relevance of sustainability in our day to day lives so that we, as ordinary folks, can make informed decisions and take action to make the world a healthier, safer and more sustainable place to live in.
 
-**So, what is Sustainability?**
+**What is Sustainability?**
 
 The million dollar question. Believe it or not, there is no formal definition of sustainability. However, the use of the word sustainability has evolved from environmental matters to include an array of themes from human rights and diversity to corporate ethics and governance.
 
@@ -15,4 +15,4 @@ When we talk about sustainability, we are not just talking about recycling. In f
 
 **Who is Sustainability Matters?**
 
-Sustainability Matters was founded by [Sheila Oviedo](https://www.linkedin.com/in/sheilaoviedo) with a lot of help from [Marcel Schoffelmeer](https://www.linkedin.com/in/marcel-schoffelmeer-3520a63/). [Frances Fairhead](https://www.linkedin.com/in/frances-fairhead-8387a740/) is a contributing writer.  
+Sustainability Matters was founded by [Sheila Oviedo](https://www.linkedin.com/in/sheilaoviedo) with a lot of help from [Marcel Schoffelmeer](https://www.linkedin.com/in/marcel-schoffelmeer-3520a63/). [Frances Fairhead](https://www.linkedin.com/in/frances-fairhead-8387a740/) is a contributing writer. The making of this site is powered by [Kenya AA coffee](https://www.pinterest.com/pin/634022453762392056/) and [Trader Joe's Mango & Cream Bars](https://www.pinterest.com/pin/411938697146385225/).  
