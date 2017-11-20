@@ -11,11 +11,13 @@ Sustainability Matters aims to highlight sustainability-related news and make pr
 
 The million dollar question. Believe it or not, there is no formal definition of sustainability. However, the use of the word sustainability has evolved from environmental matters to include an array of themes from human rights and diversity to corporate ethics and governance.
 
-When we talk about sustainability, we are not just talking about recycling. In fact, we may not even talk about recycling at all. We monitor a range of environmental, social and governance topics that contribute to a sustainable and resilient world. We take our cue from the [UN World Commission on Environment and Development](http://www.un-documents.net/our-common-future.pdf), and the mission of the [Principles for Responsible Investment](https://www.unpri.org/about).
+When we talk about sustainability, we are not simply talking about recycling. We monitor a range of environmental, social and governance topics that contribute to a sustainable and resilient world. We have a broad definition of sustainability, as defined by the [UN World Commission on Environment and Development](http://www.un-documents.net/our-common-future.pdf), and the [Principles for Responsible Investment](https://www.unpri.org/about).
+
+Hence, you will see diverse topics such as labor issues, privacy and information security, diversity, ethics, in addition to climate being covered in this site. Indeed, the breadth of what can be considered a "sustainability issue" can be overwhelming, but our mission is to simplify them and connect them to our daily lives. The rest is up to you.
 
 **How does Sustainability Matters work?**
 
-Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site at 0600 Eastern Standard Time. 
+Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site at 0600 Eastern Standard Time.
 
 **Who is Sustainability Matters?**
 
