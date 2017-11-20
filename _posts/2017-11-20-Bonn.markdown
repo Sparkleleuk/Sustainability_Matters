@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bored Shitless in Bonn"
-date:   2017-11-20 06:00:00 -0500
+date:   2017-11-22 06:00:00 -0500
 categories: Climate
 ---
 **Bonn Climate Talks**
@@ -14,4 +14,4 @@ We are just three years away from 2020, the year that countries agreed to cut em
 
 *This may sound depressing but...*
 
-There is a silver lining. [China and India](http://climateactiontracker.org/news/287/Improvement-in-warming-outlook-as-India-and-China-move-ahead-but-Paris-Agreement-gap-still-looms-large.html), the other two top emitters, are actually poised to meet their commitments on time or earlier. Aggressive climate policies by both countries have already had an impact on emissions projections. 
+There is a silver lining. [China and India](http://climateactiontracker.org/news/287/Improvement-in-warming-outlook-as-India-and-China-move-ahead-but-Paris-Agreement-gap-still-looms-large.html), the other two top emitters, are actually poised to meet their commitments on time or earlier. Aggressive climate policies by both countries have already had an impact on emissions projections.
