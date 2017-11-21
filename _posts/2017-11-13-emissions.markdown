@@ -7,7 +7,7 @@ categories: [Climate, Corporate Responsibility]
 
 **Carbon emissions on the rise again**
 
-A new report released today revealed that burning of fossil fuels is likely to hit a new high this year. The [Global Carbon Project](https://www.scientificamerican.com/article/global-carbon-emissions-are-rising-again-after-3-flat-years/). The Project estimates that by the end of 2017, approximately 37 billion tons of carbon dioxide will be emitted from burning fossil fuels, primarily caused by an expected 3.5% increase in China’s emissions.
+A new report released today revealed that burning of fossil fuels is likely to hit a new high this year. The [Global Carbon Project](https://www.scientificamerican.com/article/global-carbon-emissions-are-rising-again-after-3-flat-years/) estimates that by the end of 2017, approximately 37 billion tons of carbon dioxide will be emitted from burning fossil fuels, primarily caused by an expected 3.5% increase in China’s emissions.
 
 *Why does this matter?*
 
