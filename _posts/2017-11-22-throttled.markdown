@@ -11,7 +11,7 @@ The chairman of the US Federal Communications Commission (FCC) announced on Nove
 
 *Why should we care?*
 
-If the repeal is passed, it will mark the end of the internet as we know it. In the US, which is dominated by a handful of service providers, companies like Verizon and Comcast can, in theory, block or reduce access to certain websites unless content owners or subscribers pay higher fees. Price structures will be affected as service providers will be free to charge subscribers additional fees for in-demand content (say, Netflix or Facebook). Or they can charge premium content owners (like YouTube or Amazon) higher fees to get access to more bandwidth.  Meanwhile, small businesses and startups will be severely disadvantaged, and so will low-income subscribers.
+If the repeal is passed, it will mark the end of the internet as we know it. In the US, which is dominated by a handful of service providers, companies like Verizon and Comcast can, in theory, block or reduce access to certain websites unless content owners or subscribers pay higher fees. Price structures will be affected as service providers will be free to charge subscribers additional fees for in-demand content (say, Netflix or Facebook). Or they can charge premium content owners (like YouTube or Amazon) higher fees to get access to more bandwidth.  Meanwhile, small businesses and startups will be severely disadvantaged, and so will low-income subscribers. [This](https://boingboing.net/2017/10/28/warning-taken-as-suggestion.html) illustrates what happens in a non-neutral environment.
 
 *Who wins?*
 
@@ -28,9 +28,9 @@ Interested in net neutrality and the internet? Politico has a cool [primer](http
 
 Uber [admitted](https://www.uber.com/newsroom/2016-data-incident/) on November 21 that in late 2016, "two individuals outside the company" stole personal information of approximately 57 million Uber users, including 600,000 drivers. Uber said hackers stole names, addresses and phone numbers of customers, and driver's license information. Uber CEO Dara Khosrowshahi said he "recently learned" of the data breach and that the company is notifying drivers whose data was stolen and providing them with free credit monitoring and identity theft protection, among other actions.
 
-*If you're an Uber user...*
+*If you're an Uber user, and you most likely are...*
 
-This should concern you. The theft of customer and driver data is worrisome in itself, but that it took Uber one year to disclose it makes the breach even worse. It makes you wonder about the extent of the damage and the company's readiness to plug cybersecurity holes. It also makes you wonder, *what other skeletons can the company be hiding in its closet?*
+This should concern you. The theft of customer and driver data is worrisome in itself, but that it took Uber one year to disclose it makes the breach even worse. It makes you wonder about the extent of the damage and the company's readiness to plug cybersecurity holes. For example, we don't know how long it took for Uber to detect the breach. The longer it takes to detect a breach, the more damage is inflicted on a system. It also makes you wonder, *what other skeletons can the company be hiding in its closet?*
 
 *The wall of shame*
 
