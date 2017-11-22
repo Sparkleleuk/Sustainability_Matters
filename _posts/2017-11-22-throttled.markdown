@@ -34,8 +34,8 @@ This should concern you. The theft of customer and driver data is worrisome in i
 
 *The wall of shame*
 
-Uber has been rocked by [one scandal after another](http://money.cnn.com/2017/05/05/technology/uber-crises/index.html?iid=EL). Female workers have accused the company of tolerating sexual harassment, opening a pandora's box of gender-related issues in Silicon Valley. Then its former CEO, Travis Kalanick, was discovered to have written ["sex rules"](https://www.recode.net/2017/6/8/15765514/2013-miami-letter-uber-ceo-kalanick-employees-sex-rules-company-celebration) for a company party in 2013. Then, it was investigated for using its Greyball software to evade regulators. Then, it was embroiled in a dispute with Google over alleged theft of Google's self-driving cars. With a data breach to add to its wall of shame, the company's reputation is taking a beating.
+Uber has been rocked by [one scandal after another](http://money.cnn.com/2017/05/05/technology/uber-crises/index.html?iid=EL). Female workers have accused the company of tolerating sexual harassment, opening a pandora's box of gender-related issues in Silicon Valley. Then its former CEO, Travis Kalanick, was discovered to have written ["sex rules"](https://www.recode.net/2017/6/8/15765514/2013-miami-letter-uber-ceo-kalanick-employees-sex-rules-company-celebration) for a company party in 2013. Then it was investigated for using its Greyball software to evade regulators. Then it was embroiled in a dispute with Google over alleged theft of Google's self-driving cars. With a data breach added to its wall of shame, Uber's reputation is taking a beating.
 
 *Dear Uber*
 
-We love how you disrupted the taxi industry, bruh. But trust, once broken, takes time to rebuild. In the meantime, we've downloaded the Lyft app. 
+We love how you disrupted the taxi industry, bruh. But trust, once broken, takes time to rebuild. In the meantime, we've downloaded the Lyft app.
