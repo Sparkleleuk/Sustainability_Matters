@@ -28,11 +28,11 @@ Wanna learn more about net neutrality and the internet? Politico has a cool [pri
 
 Uber [admitted](https://www.uber.com/newsroom/2016-data-incident/) on November 21 that in late 2016, "two individuals outside the company" stole personal information of approximately 57 million Uber users, including 600,000 drivers. Uber said hackers stole names, addresses and phone numbers of customers, and driver's license information. Uber CEO Dara Khosrowshahi said he "recently learned" of the data breach and that the company is notifying drivers whose data was stolen and providing them with free credit monitoring and identity theft protection, among other actions.
 
-*You know this matters, don't you?*
+*If you're an Uber user...*
 
-If you are or have been an Uber user, this should concern you. The theft of customer and driver data is worrisome in itself, but that it took Uber one year to disclose it makes the breach even worse. It makes you wonder about the extent of the damage and the company's readiness to plug cybersecurity holes. It also makes you wonder, *what other skeletons can the company be hiding in its closet?*
+This should concern you. The theft of customer and driver data is worrisome in itself, but that it took Uber one year to disclose it makes the breach even worse. It makes you wonder about the extent of the damage and the company's readiness to plug cybersecurity holes. It also makes you wonder, *what other skeletons can the company be hiding in its closet?*
 
-Uber has been rocked by [one scandal after the other](http://money.cnn.com/2017/05/05/technology/uber-crises/index.html?iid=EL). Female workers have accused the company of tolerating sexual harassment, opening a pandora's box of gender-related issues in Silicon Valley. Then its former CEO, Travis Kalanick, was discovered to have written ["sex rules"](https://www.recode.net/2017/6/8/15765514/2013-miami-letter-uber-ceo-kalanick-employees-sex-rules-company-celebration) for a company party in 2013. Then, it was investigated for using its Greyball software to evade regulators. Then, it was embroiled in a dispute with Google over alleged theft of Google's self-driving cars.
+Uber has been rocked by [one scandal after another](http://money.cnn.com/2017/05/05/technology/uber-crises/index.html?iid=EL). Female workers have accused the company of tolerating sexual harassment, opening a pandora's box of gender-related issues in Silicon Valley. Then its former CEO, Travis Kalanick, was discovered to have written ["sex rules"](https://www.recode.net/2017/6/8/15765514/2013-miami-letter-uber-ceo-kalanick-employees-sex-rules-company-celebration) for a company party in 2013. Then, it was investigated for using its Greyball software to evade regulators. Then, it was embroiled in a dispute with Google over alleged theft of Google's self-driving cars. With a data breach to add to its wall of shame, the company's reputation is taking a beating. 
 
 *Dear Uber*
 
