@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Making practical sense of sustainability news. Because we all have a stake in a sustainable and resilient world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Sustainability_Matters
+twitter_username: sustymatters
 github_username:
 
 

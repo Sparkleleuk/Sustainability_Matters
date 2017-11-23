@@ -19,7 +19,7 @@ Indeed, the breadth of what is considered a sustainability issue can be overwhel
 
 **How does Sustainability Matters work?**
 
-Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site by 0700 Eastern Standard Time.
+Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site by midnight Eastern Standard Time.
 
 **Who is Sustainability Matters?**
 
