@@ -2,7 +2,7 @@
 layout: post
 title:  "Smog"
 date:   2017-11-22 21:02:44 -0500
-categories: [Pollution, Green_Bonds]
+categories: [Pollution, GreenBonds]
 ---
 
 **Dirty fuel gets lower tax in India**

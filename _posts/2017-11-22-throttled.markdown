@@ -2,7 +2,7 @@
 layout: post
 title:  "Throttled"
 date:   2017-11-21 18:02:44 -0500
-categories: [Human_Rights, Privacy, Corporate_Responsibility]
+categories: [HumanRights, Privacy, CorporateResponsibility]
 ---
 
 **Net neutrality rules at risk**
