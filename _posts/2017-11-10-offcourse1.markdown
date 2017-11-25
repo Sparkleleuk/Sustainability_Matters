@@ -2,7 +2,7 @@
 layout: post
 title:  "Off-Course"
 date:   2017-11-10 22:02:44 -0500
-categories: [Climate, Ethics, CorporateResponsibility]
+categories: [Climate, Ethics, CSR]
 ---
 
 **So close yet so far**

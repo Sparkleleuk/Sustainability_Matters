@@ -2,7 +2,7 @@
 layout: post
 title:  "Drill, Baby, Drill"
 date:   2017-11-14 22:02:44 -0500
-categories: [Climate, CorporateResponsibility]
+categories: [Climate, CSR]
 ---
 
 **The Arctic Ocean is open for business**

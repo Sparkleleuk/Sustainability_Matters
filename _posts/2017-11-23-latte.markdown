@@ -2,7 +2,7 @@
 layout: post
 title:  "Latte, anyone?"
 date:   2017-11-23 09:02:44 -0500
-categories: [CorporateResponsibility, Waste]
+categories: [CSR, Waste]
 ---
 
 **Its cups runneth over**

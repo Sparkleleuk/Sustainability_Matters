@@ -2,7 +2,7 @@
 layout: post
 title:  "Unsustainable Finance"
 date:   2017-11-16 08:00:00 -0500
-categories: [Finance, CorporateResponsibility, Ethics]
+categories: [Finance, CSR, Ethics]
 ---
 **Less is not more**
 
