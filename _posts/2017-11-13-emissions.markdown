@@ -2,7 +2,7 @@
 layout: post
 title:  "A New High"
 date:   2017-11-13 22:02:44 -0500
-categories: [Climate, Corporate Responsibility]
+categories: [Climate, Corporate_Responsibility]
 ---
 
 **Carbon emissions on the rise again**
