@@ -8,13 +8,13 @@ categories: [Labor, Climate]
 
 An estimated 2,500 Amazon workers in Germany and several more in Italy [walked out of their jobs](https://techcrunch.com/2017/11/24/amazon-german-italian-workers-protest-on-black-friday-dubbed-strike-friday/) on November 24 to demand for better wages and working conditions in the Amazon fulfillment centers. Protestors came from facilities in Bad Hersfeld, Leipzig, Rheinberg, Werne, Graben and Koblenz, in Germany, and a warehouse in Piacenza in northern Italy. Amazon is accused of endangering the health and well-being of thousands of employees because of its fast-paced fulfillment of customer orders through "Amazon prime". Amazon responded that if offers competitive salaries and "very attractive" benefits to employees.
 
-**Why does this matter?**
+*Why does this matter?*
 
 Today, one of the retail industry's holiest days, many of us checked for Amazon sales before we've even changed out of our pajamas, whipping out credit cards before we've even had breakfast. Amazon's share price [jumped 2%](https://www.bloomberg.com/news/articles/2017-11-24/jeff-bezos-fortune-hits-100-billion-on-black-friday-stock-surge?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social) in anticipation of strong sales through the long shopping weekend in the US. But Amazon's rapid fire fulfillment of our orders comes with a social cost. Media reports over the last five years have documented various labor issues from [brutal performance monitoring](http://highline.huffingtonpost.com/articles/en/life-and-death-amazon-temp/) of its workers in warehouses, to a [punishing working culture](https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html?action=click&contentCollection=DealBook&module=RelatedCoverage&region=EndOfArticle&pgtype=article) in its corporate offices. The online retailer is planning to [hire more than 100,000 workers](https://www.amazon.com/p/feature/onsg5ynd2pet3t3) with the opening of more fulfillment centers in the US, but is also [increasing its stable of robots](https://www.seattletimes.com/business/amazon/amazons-robot-army-grows/) in its existing warehouses. One day, these robots will eventually replace the low-wage human.
 
-**Why does this matter to us?**
+*Why does this matter to us?*
 
-Without doubt, Amazon has made our lives a lot easier, although it has made our patience a lot shorter. With one click of a button, we are able to order everything from gadgets to toilet paper, and have them delivered the next day. And for free! Food is even delivered on the same day. But there is a growing negative social impact of such excellent customer service. For every Alexa that is delivered the next day is a harried worker who is unable to take a bathroom break. Instant gratification has a cost.
+Without doubt, Amazon has made our lives a lot easier, although it has made our patience a lot shorter. With one click of a button, we are able to order everything from gadgets to toilet paper, and have them delivered the next day. And for free! Food is even delivered on the same day. But there is a growing negative social impact of such excellent customer service. For every Alexa that is delivered the next day, there is a harried worker who is unable to take a bathroom break. Instant gratification has a cost.
 
 * * *
 
@@ -24,10 +24,10 @@ Without doubt, Amazon has made our lives a lot easier, although it has made our 
 
 For 300 days this year, Costa Rica ran on 100% renewable energy, beating its 2015 record of 299 days, and 271 days in 2016. According to Grupo ICE, the Costa Rican Institute of Electricity, the Central American country receives 99.62% of its electricity from hydropower (78.26%), wind (10.29%), geothermal energy (10.23%), and biomass and solar (0.84%). Costa Rica has committed to become the first country to be carbon neutral by 2021.
 
-**Is this really good news?**
+*Is this really good news?*
 
 To a large extent, yes. Costa Rica is debunking common beliefs that developing countries need coal to develop. A country rich in natural resources, it is using all these resources to reduce its carbon footprint. And the country's economy has not been shabby; [GDP growth](http://www.oecd.org/eco/outlook/economic-forecast-summary-costa-rica-oecd-economic-outlook-june-2017.pdf) has consistently between 3 to 4% in the last three years.
 
-**What's the catch?**
+*What's the catch?*
 
 Costa Rica's hydropower capacity may in part be due to extreme weather patterns that have been [attributed to climate change](https://www.theguardian.com/commentisfree/2015/mar/30/truth-behind-costa-rica-renewable-energy-reservoirs-climate-change). Maintaining this capacity would then be problematic during periods of drought, which can also be a consequence of climate change.

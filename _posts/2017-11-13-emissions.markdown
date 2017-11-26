@@ -29,4 +29,6 @@ An Africa-American employee of Tesla, the electric car maker, has accused the co
 
 Who doesn't want to work for Tesla? Tesla is one of the sexiest companies to work for because of its ground-breaking work on electric cars. But employee issues tarnish the company's reputation and begs the question, is Tesla really sustainable? Earlier this year, another Tesla factory worker also filed a lawsuit alleging racial discrimination, while a female employee sued for harassment in 2016. Also last year, the company was accused of using labor from other states for its Reno, Nevada site, prompting [employees to walk out](https://www.bloomberg.com/news/articles/2016-02-29/about-100-workers-walk-out-at-tesla-battery-plant-building-site) of their jobs in protest.
 
-Relative to the company's size, these complaints will not impact the company as much. But if accusations become more pervasive, they may end up compromising Tesla's ability to retain and attract talent, which is important for the company to continue to innovate and produce high quality cars.
+*Our take*
+
+Relative to the company's size, these complaints will not impact the company as much. But if accusations become more pervasive, they may end up compromising Tesla's long-term ability to retain and attract talent, which is important for the company to continue to innovate and produce high quality cars.
