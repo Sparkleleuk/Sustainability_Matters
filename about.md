@@ -5,9 +5,9 @@ permalink: /about/
 ---
 **What is Sustainability Matters?**
 
-Sustainability Matters is an information service that provides a diverse set of readers quick and easy-to-read access to sustainability-related news and analysis. It is intended to inform and educate readers of the relevance of sustainability to our day to day lives so that we, as ordinary folks, can make informed decisions and take action to make the world a healthier, safer and more sustainable place to live in.
+Sustainability Matters is an information service that provides a quick and easy-to-read access to sustainability-related news and analysis. It is intended to inform and educate readers of the relevance of sustainability to our day to day lives so that we, as ordinary folks, can make informed decisions and take action to make the world a healthier, safer and more sustainable place to live in.
 
-If you are interested in sustainability news but find it difficult or are too busy to find them, or you have some familiarity with sustainability and understand that this is relevant to you, try us out. You might just learn a thing or two in less than five minutes of reading a day.  
+Sustainability Matters is not an aggregator or a curator of sustainability news. Instead, we select news stories that have broad relevance, then we provide a succinct analysis of what the story means and why the issue matters. If you are interested in sustainability news but find it difficult or are too busy to find them, or you have some familiarity with sustainability and understand that this is relevant to you, try us out. You might just learn a thing or two in less than five minutes of reading a day.  
 
 **What is Sustainability?**
 
