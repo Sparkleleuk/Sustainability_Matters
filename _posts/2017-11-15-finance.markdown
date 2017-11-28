@@ -8,11 +8,11 @@ categories: [Finance, CSR, Ethics]
 
 A [New York Times investigation](https://www.nytimes.com/2017/11/15/business/bank-regulation.html) has revealed that under the Trump administration, banking regulations are slowly being relaxed. "The regulator, the Office of the Comptroller of the Currency (OCC), which oversees the nation’s biggest banks, has made it easier for Wall Street to offer high-interest, payday-style loans. It has softened a policy for punishing banks suspected of discriminatory lending," the Times reported. The OCC is now headed by [Keith A. Noreika](https://www.propublica.org/article/trumps-new-bank-regulator-lawyer-who-helped-banks-charge-more-fees), a lawyer who used to work for a Washington DC firm that represented and lobbied on behalf of banks.
 
-*#TB2008*
+*Why does this matter?*
 
 Because when banks sneeze, the economy catches a cold, and we, ordinary folks, end up in a hospital ward. The [Dodd-Frank Wall Street Reform and Consumer Protection Act](http://www.cftc.gov/idc/groups/public/@swaps/documents/file/hr4173_enrolledbill.pdf) that was passed into law in 2010, was the single most important piece of legislation that came out of the global financial crisis of 2007-2008. It is far from perfect but it instituted rules to protect the assets of ordinary customers and protect unsuspecting customers from going into massive debt or losing money from banking activities. Remember how banks and mortgage companies went after low-income borrowers for subprime mortgage loans? These borrowers found themselves in hot water when interest rates finally increased, leading to what we now call the Great Recession. And we all know what that meant. People lost their jobs, families lost their homes, new grads couldn't find work, the value of our investments tanked, we as taxpayers had to bail out banks. It felt like the world was ending, although we didn't really understand why.
 
-*Why does this matter?*
+*What does this mean to us?*
 
 The provisions of Dodd-Frank are now being relaxed by a banking regulator, which could, in the long run, once again destabilize the banking system, putting the US and perhaps the global economy at risk. Without strict consumer protection rules, banks are once again free to market new products that may generate profits, but may not necessarily be suitable for customers. Think of products that customers cannot really afford or products that are too complex for us, ordinary folks, to understand. Think of the alphabet soup of complicated products that helped [bring down the global economy](https://www.economist.com/news/schoolsbrief/21584534-effects-financial-crisis-are-still-being-felt-five-years-article) in 2008: ABS, MBS, CDS.
 
