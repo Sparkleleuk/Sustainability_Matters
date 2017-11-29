@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-**What is Sustainability Matters?**
+### What is Sustainability Matters?
 
 Sustainability Matters is an information service that provides a quick and easy-to-read access to sustainability-related news and analysis. It is intended to inform and educate readers of the relevance of sustainability to our day to day lives so that we, as ordinary folks, can make informed decisions and take action to make the world a healthier, safer and more sustainable place to live in.
 
 Sustainability Matters is not an aggregator or a curator of sustainability news. Instead, we select news stories that have broad relevance, then we provide a succinct analysis of what the story means and why the issue matters. If you are interested in sustainability news but find it difficult or are too busy to find them, or you have some familiarity with sustainability and understand that this is relevant to you, try us out. You might just learn a thing or two in less than five minutes of reading a day.  
 
-**What is Sustainability?**
+### What is Sustainability?
 
 The million dollar question. Believe it or not, there is no formal definition of sustainability. However, the use of the word has evolved from environmental matters to include an array of themes from human rights and diversity to corporate ethics and governance.
 
@@ -17,10 +17,10 @@ At Sustainability Matters, we are not simply talking about recycling; we monitor
 
 Indeed, the breadth of what is considered a sustainability issue can be overwhelming, while the scope of some topics can be complex. Our mission is to bring these issues to you in a way that is simple and easy to understand. We strongly believe that everybody has a stake in a sustainable and just world, and knowing about these issues is a step towards taking concrete action.   
 
-**How does Sustainability Matters work?**
+### How does Sustainability Matters work?
 
-Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site by midnight Eastern Standard Time. Every Saturday, we will send you a recap of the week's highlights in a weekly newsletter that goes straight to your inbox. 
+Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site by midnight Eastern Standard Time. Every Saturday, we will send you a recap of the week's highlights in a weekly newsletter that goes straight to your inbox.
 
-**Who is Sustainability Matters?**
+### Who is Sustainability Matters?
 
-Sustainability Matters was founded by [Sheila Oviedo](https://www.linkedin.com/in/sheilaoviedo) with plenty of help from [Marcel Schoffelmeer](https://www.linkedin.com/in/marcel-schoffelmeer-3520a63/). The making of this site is powered by [Kenya AA coffee](https://www.pinterest.com/pin/634022453762392056/) and [Trader Joe's Mango & Cream Bars](https://www.pinterest.com/pin/411938697146385225/).  
+Sustainability Matters was founded by [Sheila Oviedo](https://www.linkedin.com/in/sheilaoviedo) with plenty of help from [Marcel Schoffelmeer](https://www.linkedin.com/in/marcel-schoffelmeer-3520a63/). The making of this site was powered by [Kenya AA coffee](https://www.pinterest.com/pin/634022453762392056/) and [Trader Joe's Mango & Cream Bars](https://www.pinterest.com/pin/411938697146385225/).  
