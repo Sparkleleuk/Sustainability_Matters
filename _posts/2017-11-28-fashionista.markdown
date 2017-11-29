@@ -20,7 +20,7 @@ We love to shop, and boy do we love cheap, fashionable clothes. But these clothe
 
 ### Wells Fargo may have also duped corporate clients
 
-Employees of Wells Fargo, one of the largest US banks, was reported to have overcharged clients of its foreign exchange (forex) business to inflate their bonuses. The Wall Street Journal reported that just 10% of its fee agreements with forex clients were accurately priced.
+Employees of Wells Fargo, one of the largest US banks, were reported to have overcharged clients of the bank's foreign exchange (forex) business to inflate their bonuses. The Wall Street Journal reported that just 10% of its fee agreements with forex clients were accurately priced.
 
 #### What is the forex business?
 
