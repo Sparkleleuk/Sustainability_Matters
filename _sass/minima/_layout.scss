@@ -224,6 +224,7 @@
 
     @include media-query($on-laptop) {
       @include relative-font-size(1.75);
+
     }
   }
 

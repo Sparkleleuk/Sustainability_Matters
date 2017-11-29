@@ -4,42 +4,42 @@ title:  "Unsustainable Finance"
 date:   2017-11-16 08:00:00 -0500
 categories: [Finance, CSR, Ethics]
 ---
-**Less is not more**
+### Less is not more
 
 A [New York Times investigation](https://www.nytimes.com/2017/11/15/business/bank-regulation.html) has revealed that under the Trump administration, banking regulations are slowly being relaxed. "The regulator, the Office of the Comptroller of the Currency (OCC), which oversees the nation’s biggest banks, has made it easier for Wall Street to offer high-interest, payday-style loans. It has softened a policy for punishing banks suspected of discriminatory lending," the Times reported. The OCC is now headed by [Keith A. Noreika](https://www.propublica.org/article/trumps-new-bank-regulator-lawyer-who-helped-banks-charge-more-fees), a lawyer who used to work for a Washington DC firm that represented and lobbied on behalf of banks.
 
-*Why does this matter?*
+#### Why does this matter?
 
 Because when banks sneeze, the economy catches a cold, and we, ordinary folks, end up in a hospital ward. The [Dodd-Frank Wall Street Reform and Consumer Protection Act](http://www.cftc.gov/idc/groups/public/@swaps/documents/file/hr4173_enrolledbill.pdf) that was passed into law in 2010, was the single most important piece of legislation that came out of the global financial crisis of 2007-2008. It is far from perfect but it instituted rules to protect the assets of ordinary customers and protect unsuspecting customers from going into massive debt or losing money from banking activities. Remember how banks and mortgage companies went after low-income borrowers for subprime mortgage loans? These borrowers found themselves in hot water when interest rates finally increased, leading to what we now call the Great Recession. And we all know what that meant. People lost their jobs, families lost their homes, new grads couldn't find work, the value of our investments tanked, we as taxpayers had to bail out banks. It felt like the world was ending, although we didn't really understand why.
 
-*What does this mean to us?*
+#### What does this mean to us?
 
 The provisions of Dodd-Frank are now being relaxed by a banking regulator, which could, in the long run, once again destabilize the banking system, putting the US and perhaps the global economy at risk. Without strict consumer protection rules, banks are once again free to market new products that may generate profits, but may not necessarily be suitable for customers. Think of products that customers cannot really afford or products that are too complex for us, ordinary folks, to understand. Think of the alphabet soup of complicated products that helped [bring down the global economy](https://www.economist.com/news/schoolsbrief/21584534-effects-financial-crisis-are-still-being-felt-five-years-article) in 2008: ABS, MBS, CDS.
 
-*The final question*
+#### The final question
 
 Should we worried about reduced regulation? Yes, we should.
 
 * * *
 
-***DO YOU KNOW...***
+**DO YOU KNOW...**
 
-**Banks may have delayed foreclosures for political influence**
+### Banks may have delayed foreclosures for political influence
 
 A [new study](https://promarket.org/us-banks-try-manipulate-dodd-frank-debate-delaying-mortgage-foreclosures/) by a think tank at the University of Chicago found that banks may have delayed home foreclosures in 2009-2010 in the electoral districts of the House Financial Services Committee members at the height of the congressional deliberations of the Dodd Frank Act. The study, released by the [Stigler Center](https://research.chicagobooth.edu/stigler/), noted that foreclosures in these districts were carried out half a month later than the average time for typical foreclosure starts.
 
-*What does this still matter?*
+#### Why does this still matter?
 
 Yes, this was nearly eight years ago, but in light of our earlier post, this is an indication that banks may have tried to influence the formation of an important piece of legislation. According to the study authors, delaying the foreclosures may have been intended to delay the impact of the home foreclosures on constituents and would make congressmen more lenient towards the banks. We have no way of knowing if this tactic indeed led committee members to be more lenient, but note that the final version of the Dodd Frank Act has been criticized to be a watered down version of the original bill. And because the Office of the Comptroller of the Currency has eased the implementation of the law's provisions as the New York Times reported (see above), we may be back to where we started pre-Great Recession.
 
 * * *
 
-***NICE TO HAVE...***
+**NICE TO HAVE...**
 
-**Citigroup's environmental fund**
+### Citigroup's environmental fund
 
 Citigroup [announced](https://blog.citigroup.com/2017/11/sustainable-growth-at-citi/) that from 2014 to 2017, it has financed $53.3 billion worth of environmental projects, resulting in additional renewable energy capacity, increased jobs supported and avoidance of 3.7 million metric tons of GHG emissions. The bulk of its environmental investments went into renewable energy projects.
 
-*What does this mean?*
+#### What does this mean?
 
 Citigroup allocated $100 billion to finance environmental projects, of which 50% has already been spent and the bank has been able to show positive environmental impacts from its financing activities. Many of the largest global banks have allocated funds for such investments, facilitating the flow of capital into environmental activities. $100 billion sounds like an awful lot of money - and it is - but it is barely 6% of Citi's total assets of $1.792 trillion in 2016. Still small fry for one of the world's largest financial institutions. We love the effort but hope to see more of it.

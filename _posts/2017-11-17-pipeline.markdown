@@ -5,24 +5,23 @@ date:   2017-11-17 06:00:00 -0500
 categories: Biodiversity
 ---
 
-
-**Dakota pipeline leak**
+### Dakota pipeline leak
 
 A total of 210,000 gallons or 5,000 barrels of oil [leaked](http://www.cnn.com/2017/11/16/us/keystone-pipeline-leak/index.html) on November 16 from the Keystone Pipeline in South Dakota. The pipeline operator, TransCanada said the cause of the leak is under investigation and the pipeline, which runs from Alberta, Canada through Oklahoma to Illinois in the United States, has been temporarily closed. The leak occurred in the town of Amherst. It is not yet known if the the leak contaminated waterways and wildlife.
 
-*Why does this matter?*
+#### Why does this matter?
 
 Oil leaks are never pretty and while this was a relatively small incident (BP 130 million gallons or 3.19 million barrels in the Gulf of Mexico in 2010), it still puts nearby towns in South and North Dakota at risk of contamination. The Keystone pipeline is different from TransCanada's more controversial Keystone XL pipeline but the leak makes TransCanada even more unpopular in the US. Keystone XL is being opposed because it infringes on the rights of Native Americans. The leak simply adds fuel to the fire.
 
 * * *
 
-***ISN'T IT IRONIC...***
+**ISN'T IT IRONIC...**
 
-**Oil producer plans to divest from oil companies**
+### Oil producer plans to divest from oil companies
 
 Norway, Europe's biggest oil producer, is thinking of [divesting](https://www.nytimes.com/2017/11/16/business/energy-environment/norway-fund-oil.html?hpw&rref=business&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0) from oil and gas companies. The Norwegian central bank recommended that the Norwegian sovereign wealth fund, one of the world's largest pension funds in terms of assets, divest from the oil industry as part of its campaign to control climate change. This follows the fund's divestment of mining firms and coal-based utilities, which commenced in 2015.
 
-*What does this mean?*
+#### What does this mean?
 
 With $1 trillion in assets, the Norwegian sovereign wealth fund is one of the world's largest institutional investors and its investment decision can move markets and thus, the value of our investments. Ironically, this fund was formed from Norway's oil revenues, making its divestment plan even more significant. The plan reflects both an investment approach as well as the country's values. Like our pension funds, the Norwegian sovereign wealth fund holds investments for years. Its plan to divest from oil and gas firms reflects its lack of confidence in the industry's ability to remain profitable in the future due to escalating risks such as climate change. Many investors are starting to believe that oil and gas firms will, in the long run, lose money from [stranded assets](https://www.greenbiz.com/blog/2014/03/24/exxon-stranded-assets-and-new-math).
 
@@ -30,13 +29,13 @@ Norway is also one of the strongest proponents of mitigating climate change and 
 
 * * *
 
-***FOOD FOR THOUGHT...***
+**FOOD FOR THOUGHT...**
 
-**Can carbon increase food supply?**
+### Can carbon increase food supply?
 
 Researchers are investigating whether [carbon farming](https://www.huffingtonpost.com/entry/taking-climate-friendly-farming-to-scale_us_5a065850e4b0ee8ec369418d?utm_hp_ref=sustainability) is a viable solution to food insecurity while mitigating climate change. Carbon farming practices include using fertilizer, leaving crop residue instead of tilling, and planting cover crop. This restores soil health by adding nutrients and increasing water retention. Moreover, the process of photosynthesis moves carbon from the atmosphere to the soil, thereby increasing the rate of carbon removed from the air. As a bonus, farmers benefit from getting carbon credits to offset their emissions.
 
-*Why does it matter?*
+#### Why does it matter?
 
 This is especially promising for people living in areas where access to healthy, nutritious food is limited due to poor farming practices. It can even benefit people where food is still abundant but the quality of soil is starting to decline due to intensive farming practices. If carbon farming succeeds, it can increase soil productivity by up to 50% after four years, improving food quality.
 

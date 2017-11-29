@@ -5,32 +5,32 @@ date:   2017-11-22 21:02:44 -0500
 categories: [Pollution, Finance]
 ---
 
-**Dirty fuel gets lower tax in India**
+### Dirty fuel gets lower tax in India
 
 Amidst an ongoing public health crisis due to extremely high pollution levels, the Indian government has made one the dirtiest source of energy more accessible under a new tax structure.  [Petroleum coke](https://www.epa.gov/sites/production/files/2015-07/documents/emission-factors_2014.pdf), one of the highest emitters of carbon emissions, is now taxed at a lower rate than other forms of energy like natural gas. Bloomberg [reported](https://www.bloomberg.com/news/articles/2017-11-22/smog-choked-india-is-giving-the-filthiest-fuel-a-tax-advantage) that under the new nationwide tax system, petcoke has a tax rate of 18%, while natural gas taxes could accrue to up to 30% because of numerous other levies. The CEO of Adani Gas Ltd., one of India's largest energy companies, said the tax structure discourages the use of natural gas and promotes the use of dirty fuels.
 
-*Why does this matter?*
+#### Why does this matter?
 
 As you read this, India is experiencing one of the worst periods of [toxic smog](https://www.nytimes.com/2017/11/08/world/asia/india-air-pollution.html) that has caused respiratory ailments, road accidents, school closures and even [flight cancellations](https://thewire.in/195106/delhi-air-pollution-public-health-emergency-says-ima-kejriwal-suggests-shutting-schools-days/) over the last few weeks. India experiences heightened levels of pollution at about the same time annually, but this year was exceptional with the pollution level hitting 30 times above World Health Organization thresholds, roughly equivalent to smoking two packs of cigs per day. While this annual occurrence has been blamed on farmers burning the stubble of the previous year's crop, this tax structure could exacerbate the problem because it encourages the use of a cheap but dirty energy source that spews emissions like it's nobody's business. The silver lining is New Delhi, the capital, continues to [ban](https://economictimes.indiatimes.com/news/politics-and-nation/supreme-court-upholds-ban-on-petroleum-coke-in-new-delhi-area/articleshow/61751665.cms) the use of petcoke. Let's see what happens when the pollution levels go down.
 
-*Not just an Indian problem*
+#### Not just an Indian problem
 
 It's not just India that is choking on smog. The [State of Global Air Initiative has](https://www.stateofglobalair.org/air) found that a large part of Africa, the Indian Sub-Continent and the Asia-Pacific have significantly higher levels of pollution. The same area has the [poorest air quality](https://www.stateofglobalair.org/air/current). Pollution of course, is linked to respiratory diseases and serious ailments like lung cancers, as well as early death. We are all in this together, for richer and for poorer, in sickness and in health.
 
 * * *
 
-***DO YOU KNOW...***
+**DO YOU KNOW...**
 
-**Bonds are getting greener**
+### Bonds are getting greener
 
 Global green bond deals hit a record high of $100 billion last week, according to the [Climate Bond Initiatives](https://www.climatebonds.net/). As of last week, total issuances for 2017 amounted to $103.3 billion, which is already higher than last year's $81.6 billion.
 
-*What are green bonds?*
+#### What are green bonds?
 
 They are debt securities issued by companies to fund projects that have positive environmental impacts. Bonds work the same way as a bank loan. Companies borrow money from investors by issuing bonds. Investors lend the money and hold on to the bonds for a certain period of time. By the maturity period, the company repays the principal plus interest. It's a safe way of investing because returns are guaranteed. Unless the company goes into trouble and is unable to pay its debt, but that's another story.
 
 Examples of green bonds include Apple's $1 billion worth of green bonds issued this year to fund renewable energy projects for its campuses. Toyota Motors issued green bonds to support the sale of low-emission vehicles, while Mexico City issued green bonds to finance water infrastructure and public transport network improvements.
 
-*The bottomline*
+#### The bottomline
 
 Green bonds are a way for companies to create positive environmental impacts and do their share in reducing their carbon footprint. We think the "green" label can be misused sometimes, especially by companies whose core business activities are inherently damaging to the environment (an oil company issuing a "green" bond sounds funny). But if investors are willing to invest, so are we.
