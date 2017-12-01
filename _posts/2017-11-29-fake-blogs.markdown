@@ -15,7 +15,7 @@ The researchers compared 45 science-based blogs against 45 denier blogs and foun
 
 #### Sounds familiar?
 
-We must admit the strategy of questioning future predictions is more sophisticated than President Trump's tweets. A number of corporations and think-tanks have been known to have supported such anti-climate websites, including Exxon Mobil, the Koch brothers (who recently bought into Time Inc.) and the Heartland Foundation, to name a few. With big money backing anti-climate misinformation,  we think its only going to become more sophisticated over time. Misinformation will become every more subtle, it will probably require a PhD to even distinguish a science-based report from a denier. Or maybe not. Maybe all it takes is the curiosity and patience to learn and understand the real issues. Maybe all it takes is reading up on sustainability every day. Did we just make a plug for Sustainability Matters?
+We must admit the strategy of questioning future predictions is more sophisticated than President Trump's tweets. A number of corporations and think-tanks, including Exxon Mobil, the Koch brothers (who recently bought into Time Inc.), and the Heartland Foundation, to name a few, have been known to have supported such anti-climate websites. With big money backing anti-climate misinformation, we think it's only going to become more sophisticated over time. Misinformation will become even more subtle, it will probably require a PhD to even distinguish a science-based report from a denier. Or maybe not. Maybe all it takes is the curiosity and patience to learn and understand the real issues. Maybe all it takes is reading up on sustainability every day. Did we just make a plug for Sustainability Matters?
 
 * * *
 
