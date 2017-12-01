@@ -19,7 +19,7 @@ Indeed, the breadth of what is considered a sustainability issue can be overwhel
 
 ### How does Sustainability Matters work?
 
-Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site by midnight Eastern Standard Time. Every Saturday, we will send you a recap of the week's highlights in a weekly newsletter that goes straight to your inbox. If you are a subscriber, please whitelist Sustainability Matters by adding our email address to your contact list. This way, our weekly newsletter does not go to your spam or clutter boxes, or doe not get blocked by firewall. 
+Every week day, we will highlight and analyze a maximum of three relevant and interesting sustainability-related news. The analysis will be posted on this site by midnight Eastern Standard Time. Every Saturday, we will send you a recap of the week's highlights in a weekly newsletter that goes straight to your inbox. If you are a subscriber, please whitelist Sustainability Matters by adding our email address to your contact list. This way, our weekly newsletter does not go to your spam or clutter boxes, or does not get blocked by firewall. 
 
 ### Who is Sustainability Matters?
 
