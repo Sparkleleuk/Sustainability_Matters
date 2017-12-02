@@ -15,12 +15,14 @@
             {% endif %}
             </li>
             {% if site.email %}
+            <p> welcomes comments and suggestions. Please reach out by email. </p>
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+        <p> Follow us </p>
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -32,8 +34,10 @@
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
+          <p> #sustainabilitymatters </p>
           {% endif %}
-          
+
+
         </ul>
       </div>
 

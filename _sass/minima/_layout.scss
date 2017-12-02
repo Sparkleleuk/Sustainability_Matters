@@ -41,6 +41,10 @@
     margin-bottom: 20px;
   }
 
+  .share-home {
+    align-content: center;
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
