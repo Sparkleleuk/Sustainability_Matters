@@ -1,3 +1,4 @@
 User-agent: *
 Sitemap: http://www.sustainabilitymatters.info/
 Sitemap: http://www.sustainabilitymatters.info/about/
+Disallow: 
