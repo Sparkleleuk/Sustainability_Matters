@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rare Earth"
+title:  "A Rare Proposal"
 date:   2017-12-07 22:00:00 -0500
 categories: [Environment]
 ---
@@ -23,4 +23,4 @@ Rare earth minerals, which are in high demand. But the worldwide supply is decli
 
 #### Our take
 
-While we love our smartphones to bits, the scale of the environmental damage caused by rare earth mining is disturbing. And so is Prince's proposal. 
+While we love our smartphones to bits, the scale of the environmental damage caused by rare earth mining is disturbing. And so is Prince's proposal.
