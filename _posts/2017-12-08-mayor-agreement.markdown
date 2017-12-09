@@ -32,7 +32,7 @@ States and cities have significant influence over climate action as many environ
 
 Since a wildfire broke out in Ventura County early this week, more fires have erupted in southern California. Fires broke out in San Diego, Riverside, and Los Angeles suburbs. As of Friday morning, there were six wildfires in the state.
 
-The fire in Ventura continues to have the biggest damage, with 132,000 acres burned and 50,000 people evacuated as of this morning. The wildfires are being intensified by the Santa Ana winds from inland desert regions that pass through the Santa Ana canyons in the late fall and winter. These winds are strong and hot, and can fan fires that are difficult to contain.
+The fire in Ventura continues to have the biggest damage, with 132,000 acres burned and 50,000 people evacuated as of this morning. The wildfires are being intensified by the [Santa Ana winds](http://www.cnn.com/2017/12/06/weather/santa-ana-winds-explained/index.html) from inland desert regions that pass through the Santa Ana canyons in the late fall and winter. These winds are strong and hot, and can fan fires that are difficult to contain.
 
 #### Our take
 
