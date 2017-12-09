@@ -16,7 +16,7 @@
 title: Sustainability Matters
 email: sustainabilityinfoservice@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Helping you understand the sustainability impacts of today's news. Because we all have a stake in a sustainable and resilient world.
+  Helping you understand the sustainability impacts of today's events. Because we all have a stake in a sustainable and resilient world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sustainabilitymatters.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sustymatters
