@@ -16,7 +16,7 @@ Very important. Allegations of sexual assault and misconduct against a sitting p
 
 #### Option 1: Investigate Trump
 
-If it agrees to investigate Trump, it will have to deal with [other legislators](http://thehill.com/homenews/house/364025-congress-reeling-from-sexual-harassment-deluge) who have been accused of sexual harassment but remained in office. And with Alabama senatorial candidate Roy Moore being endorsed by many Republicans despite facing similar allegations, an investigation into Trump will leave Congress in a very uncomfortable position.
+If it agrees to investigate Trump, it will have to deal with [other legislators](http://thehill.com/homenews/house/364025-congress-reeling-from-sexual-harassment-deluge) who have been accused of sexual harassment but remain in office. And with Alabama senatorial candidate Roy Moore being endorsed by many Republicans despite facing similar allegations, an investigation into Trump will leave Congress in a very uncomfortable position.
 
 #### Option 2: Ignore
 
