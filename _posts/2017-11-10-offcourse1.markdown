@@ -5,6 +5,8 @@ date:   2017-11-10 22:02:44 -0500
 categories: [Climate, Ethics, CSR]
 ---
 
+**CLIMATE**
+
 ### So close yet so far
 
 We fell off the wagon in meeting climate goals. According to a consortium of three environmental think-tanks, carbon emissions by countries that signed on to the [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) are still far from meeting the goals that they pledged in 2015. The [Climate Action Tracker](http://climateactiontracker.org/) noted that in particular, the United States, Russia, Saudi Arabia, Chile, Ukraine and Turkey are “critically insufficient” in meeting their climate goals. Note that US President Donald J. Trump is also planning to withdraw from the Paris Agreement. Meanwhile, other large economies such as China, Japan, Canada and South Korea were found to be “highly insufficient”.
@@ -27,7 +29,7 @@ The higher the temperatures, the more $$$ we spend. This is a no-win situation.
 
 * * *
 
-**SERIOUSLY?**
+**ETHICS**
 
 ### Tax us not
 
@@ -39,12 +41,12 @@ Tax avoidance deprives countries - even rich ones - of revenues that are used to
 
 * * *
 
-**DO YOU KNOW...**
+**LABOR...**
 
 ### “Climate Leave” is a thing
 
 That’s right. Fog Creek Software, a New York City-based company that builds tools for programmers, is offering [five days of paid leave for employees impacted by weather disruptions](https://medium.com/make-better-software/climate-leave-paid-time-off-for-extreme-weather-disruptions-c5691fd346c3). The company learned its lesson from Hurricane Sandy that hit New York in 2012 when it had to manually support its operations through a city-wide blackout. Moreover, some of its employees were forced to evacuate their homes and the company had no policy to support them.
 
-#### Do we need this? 
+#### Do we need this?
 
 We probably do. Extreme weather appears to be the new norm and certainly beyond anybody’s control, much like illness for which most salaried employees get paid days off. So why not have a corporate policy for it indeed? This year alone, we saw five successive hurricanes hit the continental US and territories. If the trend of extreme weather changes continues, we are likely to see more of weather disruptions over the course of our working lives. It would be a relief not to worry about being absent from work and not getting paid through these upheavals.

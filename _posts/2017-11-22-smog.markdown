@@ -5,6 +5,8 @@ date:   2017-11-22 21:02:44 -0500
 categories: [Pollution, Finance]
 ---
 
+**POLLUTION**
+
 ### Dirty fuel gets lower tax in India
 
 Amidst an ongoing public health crisis due to extremely high pollution levels, the Indian government has made one the dirtiest source of energy more accessible under a new tax structure.  [Petroleum coke](https://www.epa.gov/sites/production/files/2015-07/documents/emission-factors_2014.pdf), one of the highest emitters of carbon emissions, is now taxed at a lower rate than other forms of energy like natural gas. Bloomberg [reported](https://www.bloomberg.com/news/articles/2017-11-22/smog-choked-india-is-giving-the-filthiest-fuel-a-tax-advantage) that under the new nationwide tax system, petcoke has a tax rate of 18%, while natural gas taxes could accrue to up to 30% because of numerous other levies. The CEO of Adani Gas Ltd., one of India's largest energy companies, said the tax structure discourages the use of natural gas and promotes the use of dirty fuels.
@@ -19,7 +21,7 @@ It's not just India that is choking on smog. The [State of Global Air Initiative
 
 * * *
 
-**DO YOU KNOW...**
+**GREEN BONDS**
 
 ### Bonds are getting greener
 

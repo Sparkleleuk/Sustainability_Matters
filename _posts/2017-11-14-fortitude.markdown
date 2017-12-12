@@ -5,6 +5,8 @@ date:   2017-11-14 22:02:44 -0500
 categories: [Climate, CSR]
 ---
 
+**CLIMATE**
+
 ### The Arctic Ocean is open for business
 
 An alliance of climate activists, including Greenpeace and the former director of Nasa’s Goddard institute for space studies, James Hansen, is [suing Norway](https://www.theguardian.com/environment/2016/oct/18/norway-faces-climate-lawsuit-over-oil-exploration-plans) for reopening the Arctic Ocean to oil drilling. The two groups are invoking Article 112 of Norway's constitutional environmental law that guarantees citizens' right to a "healthy, diverse and productive environment". The Norwegian government has handed out oil exploration licenses to at least 13 oil companies including Chevron and Statoil for drilling in the Barents Sea.
@@ -19,7 +21,7 @@ For countries in North America and Europe, the Arctic Ocean is particularly impo
 
 * * *
 
-**DO YOU KNOW...**
+**CORPORATE RESPONSIBILITY**
 
 ### BMW to go fully renewable
 

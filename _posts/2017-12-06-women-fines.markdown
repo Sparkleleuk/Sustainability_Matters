@@ -5,6 +5,8 @@ date:   2017-12-06 20:00:00 -0500
 categories: [Diversity, Pollution]
 ---
 
+**DIVERSITY**
+
 ### It's raining women
 
 Well, not yet. But recent reports indicate that more women are running for public office in the US, and women are finally getting more seats in corporate boards.
@@ -26,10 +28,10 @@ The largest investment managers are finally supporting for shareholder resolutio
 Diversity has proven to be [critical to success](http://www.sustainabilitymatters.info/climate/diversity/2017/11/30/drilling-diversity.html) in politics or business because it allows governments and organizations to integrate new points of view. Diversity of insights allows organizations and governments to better manage risk, anticipate and quickly adapt to change, and innovate. Diversity also ensures that the government or business is inclusive in that every stakeholder’s concerns are heard and considered in decision-making. After all, how can a company provide good maternity benefits if there are no women in its board? The topic wouldn’t simply come up, would it?
 
 * * *
+<br />
+**POLLUTION**
 
-**CRIME AND PUNISHMENT**
-
-### Polluters in China pay up
+### Crime and punishment: Polluters in China pay up
 
 China’s environment ministry announced today that fines collected from companies that have violated environmental regs for the first 10 months of the year jumped by 48% in 2017 from last year. The ministry collected fines totalling 1.02 billion yuan ($154 million) this year for violations like illegal dumping of waste, exceeding emissions caps or tampering with monitoring equipment, reported the [South China Morning Post](http://www.scmp.com/news/china/policies-politics/article/2123085/steep-rise-fines-chinese-polluters). Chinese companies or individuals are levied a daily fine until they rectify their behavior.
 

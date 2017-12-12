@@ -4,6 +4,7 @@ title:  "Fake Blogs"
 date:   2017-11-29 19:00:00 -0500
 categories: [Climate, Ethics]
 ---
+**CLIMATE**
 
 ### Fake news meets the polar bear
 

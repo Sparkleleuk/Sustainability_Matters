@@ -4,6 +4,8 @@ title:  "Fashionista"
 date:   2017-11-28 19:00:00 -0500
 categories: [Waste, Finance, Ethics]
 ---
+**WASTE**
+
 ### Project sustainable runway
 
 A new report by a British charity, the Ellen MacArthur Foundation, has found that the fashion industry is adding to global pollution because of the production of large volumes of cheap and dispensable clothing that are hardly used after a year, and end up getting burned or dumped in landfills. The report noted, "If nothing changes, by 2050 the fashion industry will use up a quarter of the world's carbon budget." It stated that clothes release half a million tons of microfibers, "equivalent to more than 50 billion plastic bottles". The authors offer a vision of sustainable fashion that includes the phaseout of microfibers and similar substances, the production of high quality clothing to encourage longer usage, improving recycling systems, and increasing the use of renewable resources.
@@ -16,9 +18,9 @@ We love to shop, and boy do we love cheap, fashionable clothes. But these clothe
 
 * * *
 
-**NOT AGAIN**
+**ETHICS**
 
-### Wells Fargo may have also duped corporate clients
+### Not again: Wells Fargo may have also duped corporate clients
 
 Employees of Wells Fargo, one of the largest US banks, were reported to have overcharged clients of the bank's foreign exchange (forex) business to inflate their bonuses. The Wall Street Journal reported that just 10% of its fee agreements with forex clients were accurately priced.
 

@@ -4,6 +4,7 @@ title:  "Defiance"
 date:   2017-12-08 19:00:00 -0500
 categories: Climate
 ---
+**CLIMATE**
 
 ### Mayors defy Trump on climate
 
@@ -12,8 +13,11 @@ Mayors from 50 US cities signed this week a [formal agreement](https://www.npr.o
 [Highlights](https://www.usatoday.com/story/news/2017/12/04/chicago-climate-charter-explained-what-cities-say-theyll-do-reduce-greenhouse-gases/919372001/) of the agreement include:
 
 * Reduction of greenhouse gas emissions by an aggregate of at least 26% to 28% below the 2005 level by 2025;
+
 * Monitoring and public reporting by each city on the progress of individual commitments;
+
 * Inclusive climate policy development; and
+
 * “Just transition” for those impacted by changing climate policies.
 
 #### What does this mean?
@@ -25,7 +29,7 @@ One of President’s Trump’s first controversial pronouncements in office was 
 States and cities have significant influence over climate action as many environmental regulations are set at state level. State-level regulations can even exceed federal regulations. An example would be California, which has more stringent environmental standards than the US federal government. So even if Trump announces a withdrawal from the Paris Agreement, many of us will continue to see environmental regulations and initiatives. Love them or hate them, our cities are going to get more bike lanes.
 
 * * *
-
+<br />
 **CALIFORNIA WILDFIRE UPDATE**
 
 ### Still burning

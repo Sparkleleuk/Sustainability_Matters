@@ -4,6 +4,7 @@ title:  "Drill, Baby, Drill Some More"
 date:   2017-11-30 19:00:00 -0500
 categories: [Climate, Diversity]
 ---
+**CLIMATE**
 
 ### There will be blood
 

@@ -5,6 +5,8 @@ date:   2017-12-05 20:00:00 -0500
 categories: Climate
 ---
 
+**CLIMATE**
+
 ### Wildfire hits southern California
 
 A fast-moving wildfire swept through Ventura county in southern California today, destroying homes and property, and prompting the evacuation of approximately 27,000 people. Approximately 50,000 acres of land have been burned and at least 150 structures have been damaged, the [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-school-fire-20171204-story.html) reported. California Gov. Jerry Brown has declared a state of emergency in Ventura, which mandates the release of additional funds and government personnel for the affected area.

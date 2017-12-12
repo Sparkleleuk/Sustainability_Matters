@@ -4,6 +4,9 @@ title:  "Unsustainable Finance"
 date:   2017-11-16 08:00:00 -0500
 categories: [Finance, CSR, Ethics]
 ---
+
+**FINANCIAL REGULATION**
+
 ### Less is not more
 
 A [New York Times investigation](https://www.nytimes.com/2017/11/15/business/bank-regulation.html) has revealed that under the Trump administration, banking regulations are slowly being relaxed. "The regulator, the Office of the Comptroller of the Currency (OCC), which oversees the nation’s biggest banks, has made it easier for Wall Street to offer high-interest, payday-style loans. It has softened a policy for punishing banks suspected of discriminatory lending," the Times reported. The OCC is now headed by [Keith A. Noreika](https://www.propublica.org/article/trumps-new-bank-regulator-lawyer-who-helped-banks-charge-more-fees), a lawyer who used to work for a Washington DC firm that represented and lobbied on behalf of banks.
@@ -22,7 +25,7 @@ Should we worried about reduced regulation? Yes, we should.
 
 * * *
 
-**DO YOU KNOW...**
+**ETHICS**
 
 ### Banks may have delayed foreclosures for political influence
 
@@ -34,7 +37,7 @@ Yes, this was nearly eight years ago, but in light of our earlier post, this is 
 
 * * *
 
-**NICE TO HAVE...**
+**CORPORATE RESPONSIBILITY**
 
 ### Citigroup's environmental fund
 
