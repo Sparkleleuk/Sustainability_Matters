@@ -24,3 +24,7 @@ Every week day, we will highlight and analyze a maximum of three relevant and in
 ### Who is Sustainability Matters?
 
 Sustainability Matters was founded by [Sheila Oviedo](https://www.linkedin.com/in/sheilaoviedo) with plenty of help from [Marcel Schoffelmeer](https://www.linkedin.com/in/marcel-schoffelmeer-3520a63/). We The making of this site was powered by [Kenya AA coffee](https://www.pinterest.com/pin/634022453762392056/) and [Trader Joe's Mango & Cream Bars](https://www.pinterest.com/pin/411938697146385225/).
+
+### Disclaimer
+
+Sustainability Matters is an independent service and is not affiliated with any firm, political entity or civil society group. The creator of this project takes full responsibility for analysis and opinions in this site and newsletters. 
