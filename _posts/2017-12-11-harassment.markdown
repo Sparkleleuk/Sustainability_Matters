@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#MeToo goes to the White House"
+title:  "#MeToo Goes to the White House"
 date:   2017-12-11 20:00:00 -0500
 categories: [Human Rights]
 ---
