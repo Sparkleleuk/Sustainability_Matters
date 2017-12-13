@@ -25,7 +25,7 @@ Oil, gas and coal still account for roughly 70% of [energy consumption](http://e
 
 ### Facebook changes tax structure
 
-Facebook has [announced](https://www.politico.eu/article/facebook-tax-digital-europe-revenue-sales-corporate-ireland-david-wehner/) that it is will start booking sales in the country where a sale is made, and would stop routing sales to lower tax zones, such as Ireland. Facebook CFO said the new structure “will provide more transparency to governments and policy makers...who have called for greater visibility over the revenue associated with locally-supported sales in their countries.”
+Facebook has [announced](https://www.politico.eu/article/facebook-tax-digital-europe-revenue-sales-corporate-ireland-david-wehner/) that it is will start booking sales in the country where a sale is made, and would stop routing sales to lower tax zones, such as Ireland. Facebook CFO Dave Wehner said in a [blog post](https://newsroom.fb.com/news/2017/12/moving-to-a-local-selling-model/) the new structure “will provide more transparency to governments and policy makers around the world who have called for greater visibility over the revenue associated with locally-supported sales in their countries.”
 
 #### The tax man is coming
 
