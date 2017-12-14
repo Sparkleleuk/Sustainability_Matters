@@ -23,6 +23,7 @@ The telecom industry. The rest of us lose.
 Interested in net neutrality and the internet? Politico has a cool [primer](https://www.politico.com/story/2017/11/20/net-neutrality-repeal-fcc-251824?utm_source=WTF+Just+Happened+Today%3F&utm_campaign=92e576e32c-EMAIL_CAMPAIGN_11_15_2017&utm_medium=email&utm_term=0_9813b73b1a-92e576e32c-166133257) on how this debate started.
 
 * * *
+<br />
 
 **PRIVACY**
 
