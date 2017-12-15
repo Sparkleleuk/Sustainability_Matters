@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Where dreams come true, or not?"
+date:   2017-12-14 19:00:00 -0500
+categories: [Ethics, Privacy]
+---
+
+**ETHICS**
+
+### Disney's mega-merger with 21st Century Fox
+
+Walt Disney Co. today announced it is acquiring parts of 21st Century Fox for $52.4 billion. The acquisition [covers](https://www.cnbc.com/2017/12/14/disney-to-buy-21st-century-fox-assets.html) Fox's film studios, networks Nat Geo and FX, Asian pay-TV operator Star TV, and stakes in Sky, Endemol Shine Group and Hulu, as well as regional sports networks. The deal [does not cover](http://variety.com/2017/biz/news/disney-fox-merger-deal-52-4-billion-merger-1202631242/) Fox television stations, such as Fox Broadcasting Co., Fox Sports, Fox News, Fox Television Stations and other assets, which will spin off to another company.
+
+#### Why is this important?
+
+This is one of the biggest mergers in the media and entertainment industry and could mean a lot of cost savings for both companies, which would make shareholders happy. But more importantly for the rest of us, this merger creates another media behemoth that wants to compete with Netflix and Amazon for streaming services. Earlier this year, Disney [announced](https://www.cnbc.com/2017/08/08/disney-will-pull-its-movies-from-netflix-and-start-its-own-streaming-services.html) it was pulling out its movies from Netflix and will start its own streaming business, starting with ESPN streaming in 2018.
+
+#### What's nagging us with this deal?
+
+The merger gives us more streaming options, but raises anti-competition concerns as it gives Disney an even bigger foothold in the entertainment market. It also further shuts out independent media producers. Moreover, Disney, a generally wholesome brand associated with princes and castles is acquiring a company that recently had to pay $90 million [to settle](https://www.reuters.com/article/us-fox-settlement/21st-century-fox-in-90-million-settlement-tied-to-sexual-harassment-scandal-idUSKBN1DK2NI) sexual misconduct claims against Fox newsroom bigwigs, Roger Ailes and Bill O'Reilly. The company has also faced and settled similar allegations in the past. As parent company of Fox News, 21st Century Fox had also been implicated in [allegations](https://www.mediamatters.org/stories-and-interests/phone-hacking-scandal) that its news channel spreads fake news. And then there was the infamous [phone hacking scandal](http://www.bbc.com/news/uk-24894403) by News of the World, which was then owned by Fox's owner Robert Murdoch. Perhaps this merger was also meant to wash away Fox's blemishes and start afresh?
+
+#### And finally the bigger impact
+
+The Disney-Fox merger adds another media giant in the what may become a constrained internet space for everybody but for the biggest players. Hours after the merger was announced, the US Federal Communications Commission (FCC) [repealed](https://www.washingtonpost.com/news/the-switch/wp/2017/12/14/the-fcc-is-expected-to-repeal-its-net-neutrality-rules-today-in-a-sweeping-act-of-deregulation/?utm_term=.815cfc49ac1b) net neutrality rules. The competition for premium access to streaming services will likely become even more fierce, further reducing opportunities for smaller media. Or subscribers may be forced to pay even more to be able to access our favorite channels. But net neutrality advocates are suing the FCC, so the saga continues.
+
+<hr />
+<br />
+**BEFORE YOU GO**
+
+#### We've been watching...
+
+Bloomberg's [video report](https://www.bloomberg.com/news/features/2017-12-14/how-to-rebuild-puerto-rico) on Puerto Rico's slow recovery from Hurricane Maria and meet some of the good samaritans help rebuild the island in their own way.
