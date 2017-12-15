@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Where dreams come true, or not?"
+title:  "Where dreams come true?"
 date:   2017-12-14 19:00:00 -0500
 categories: [Ethics, Privacy]
 ---
