@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Instant Gratification"
+excerpt: "Thousands of Amazon workers in Germany staged a protest on Black Friday to demand for better working conditions. Costa Rica went 100% renewable for 300 days of the year."
 date:   2017-11-24 17:00:00 -0500
 categories: [Labor, Climate]
 ---

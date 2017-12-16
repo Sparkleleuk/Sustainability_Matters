@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A New High"
+excerpt: "A report by the Global Carbon Project showed that carbon emissions are rising again after three years of flat growth. Tesla is being accused of tolerating racism in manufacturing facilities."
 date:   2017-11-13 22:02:44 -0500
 categories: [Climate, CSR]
 ---

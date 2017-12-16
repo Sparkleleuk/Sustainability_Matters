@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fake Blogs"
+excerpt: "Climate deniers have been using polar bears to spread misinformation on climate change. More and more mutual funds support calls for transparency in political spending."
 date:   2017-11-29 19:00:00 -0500
 categories: [Climate, Ethics]
 ---

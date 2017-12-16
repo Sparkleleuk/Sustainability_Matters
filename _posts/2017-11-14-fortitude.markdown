@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Drill, Baby, Drill"
+excerpt: "Environmental activists are suing Norway for reopening the Arctic Ocean to oil drilling. BMW announced it will go 100% renewable for its operations."
 date:   2017-11-14 22:02:44 -0500
 categories: [Climate, CSR]
 ---

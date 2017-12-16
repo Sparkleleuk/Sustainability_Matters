@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "#MeToo Goes to the White House"
+excerpt: "Three women urge Congress to investigate Trump for sexual misconduct; demand leaves Congress in a bind." 
 date:   2017-12-11 20:00:00 -0500
 categories: [Human Rights]
 ---

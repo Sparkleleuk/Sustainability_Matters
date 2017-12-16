@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "A Long Winter "
+title:  "A Long Winter"
+excerpt: "Explosion in gas facility in Austria threatens gas supply in Europe. Facebook will stop using low tax zones like Ireland. US appeals court upholds mining ban in Grand Canyon area."
 date:   2017-12-12 19:00:00 -0500
 categories: [Ethics, Environment]
 ---

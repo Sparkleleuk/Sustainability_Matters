@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Off-Course"
+excerpt: "A consortium of three environmental think-tanks said that countries that signed on to the Paris Agreement are still far from meeting the goals that they pledged. A new investigation called Paradise Papers revealed that companies and ultra-wealthy individuals are using tax havens to avoid paying taxes at home."
 date:   2017-11-10 22:02:44 -0500
 categories: [Climate, Ethics, CSR]
 ---
@@ -9,7 +10,7 @@ categories: [Climate, Ethics, CSR]
 
 ### So close yet so far
 
-We fell off the wagon in meeting climate goals. According to a consortium of three environmental think-tanks, carbon emissions by countries that signed on to the [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) are still far from meeting the goals that they pledged in 2015. The [Climate Action Tracker](http://climateactiontracker.org/) noted that in particular, the United States, Russia, Saudi Arabia, Chile, Ukraine and Turkey are “critically insufficient” in meeting their climate goals. Note that US President Donald J. Trump is also planning to withdraw from the Paris Agreement. Meanwhile, other large economies such as China, Japan, Canada and South Korea were found to be “highly insufficient”.
+We fell off the wagon in meeting climate goals. According to a consortium of three environmental think-tanks, countries that signed on to the [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) are still far from meeting the goals that they pledged in 2015. The [Climate Action Tracker](http://climateactiontracker.org/) noted that in particular, the United States, Russia, Saudi Arabia, Chile, Ukraine and Turkey are “critically insufficient” in meeting their climate goals. Note that US President Donald J. Trump is also planning to withdraw from the Paris Agreement. Meanwhile, other large economies such as China, Japan, Canada and South Korea were found to be “highly insufficient”.
 
 Wanna geek out on the country ratings? Check out the [tracker](http://climateactiontracker.org/countries.html), it is actually quite cool.
 

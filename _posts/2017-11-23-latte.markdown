@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Latte, anyone?"
+excerpt: "Starbucks is being criticized for using non-recyclable cups and utensils despite its commitment to use sustainable cups."
 date:   2017-11-23 09:02:44 -0500
 categories: [CSR, Waste]
 ---

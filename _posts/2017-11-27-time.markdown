@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Time for a Change"
+excerpt: "Time sold itself to Meredith Corporation with investment from the Koch brothers. A Swedish power plant has been using unsold H&M clothes to generate energy."
 date:   2017-11-27 20:00:00 -0500
 categories: [Media, Renewables, CSR]
 ---

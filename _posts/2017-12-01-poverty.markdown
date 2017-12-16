@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Poor Little Rich America"
+excerpt: "UN Special Rapporteur makes rare tour of the US to investigate poverty and inequality in the world's richest country."
 date:   2017-12-01 19:00:00 -0500
 categories: Poverty
 ---

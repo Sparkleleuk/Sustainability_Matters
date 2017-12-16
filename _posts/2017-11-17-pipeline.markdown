@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Leak"
+excerpt: "A total of 210,000 gallons of oil leaked from the Keystone pipeline in South Dakota. Norway plans to divest from oil companies. Researchers are investigating whether carbon farming is a viable solution to food insecurity."
 date:   2017-11-17 06:00:00 -0500
 categories: Biodiversity
 ---
@@ -9,7 +10,7 @@ categories: Biodiversity
 
 ### Dakota pipeline leak
 
-A total of 210,000 gallons or 5,000 barrels of oil [leaked](http://www.cnn.com/2017/11/16/us/keystone-pipeline-leak/index.html) on November 16 from the Keystone Pipeline in South Dakota. The pipeline operator, TransCanada said the cause of the leak is under investigation and the pipeline, which runs from Alberta, Canada through Oklahoma to Illinois in the United States, has been temporarily closed. The leak occurred in the town of Amherst. It is not yet known if the the leak contaminated waterways and wildlife.
+A total of 210,000 gallons or 5,000 barrels of oil [leaked](http://www.cnn.com/2017/11/16/us/keystone-pipeline-leak/index.html) on November 16 from the Keystone pipeline in South Dakota. The pipeline operator, TransCanada said the cause of the leak is under investigation and the pipeline, which runs from Alberta, Canada through Oklahoma to Illinois in the United States, has been temporarily closed. The leak occurred in the town of Amherst. It is not yet known if the the leak contaminated waterways and wildlife.
 
 #### Why does this matter?
 

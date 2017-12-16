@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Unsustainable Finance"
+excerpt: "The Office of the Comptroller of the Currency has reportedly eased regulations for banks. Banks may have delayed foreclosures in 2008 to influence the creation of the Dodd-Frank Act."
 date:   2017-11-16 08:00:00 -0500
 categories: [Finance, CSR, Ethics]
 ---

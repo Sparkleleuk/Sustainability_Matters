@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Defiance"
+excerpt: "US mayors pledge to meet Paris climate targets, defying Trump. Southern California continues to burn."
 date:   2017-12-08 19:00:00 -0500
 categories: Climate
 ---

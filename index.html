@@ -2,8 +2,8 @@
 title: " "
 layout: default
 image:
-  twitter: "/public/wtfjht-t.jpg"
-  facebook: "/public/wtfjht-f.jpg"
+  twitter:
+  facebook:
 
 seo:
   name: Sustainability Matters
@@ -66,7 +66,6 @@ target="_top">
 </svg></a>
 </div>
 
-
 <ul class="post-list">
   {% for post in paginator.posts %}
     <li>
@@ -75,18 +74,16 @@ target="_top">
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
-
+      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
     </li>
-  {% endfor %}
+    {% endfor %}
+</ul>
 
-  <div class="pagination">
+<div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Previous | </a>
     {% endif %}
-
-
     {% if paginator.next_page %}
-
       <a href="{{ paginator.next_page_path }}" class="next">Next &raquo;</a>
     {% endif %}
   </div>

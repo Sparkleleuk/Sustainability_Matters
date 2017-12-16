@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "In Sickness and in Health"
+excerpt: "Will CVS-Aetna merger improve access to healthcare? Trumps cuts size of two national monuments in Utah."
 date:   2017-12-04 20:00:00 -0500
 categories: [Healthcare, Biodiversity]
 ---
