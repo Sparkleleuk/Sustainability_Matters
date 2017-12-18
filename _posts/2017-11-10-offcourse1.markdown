@@ -3,7 +3,7 @@ layout: post
 title:  "Off-Course"
 excerpt: "A consortium of three environmental think-tanks said that countries that signed on to the Paris Agreement are still far from meeting the goals that they pledged. A new investigation called Paradise Papers revealed that companies and ultra-wealthy individuals are using tax havens to avoid paying taxes at home."
 date:   2017-11-10 22:02:44 -0500
-categories: [Climate, Ethics, CSR]
+categories: [Environment, Ethics, CSR]
 ---
 
 **CLIMATE**

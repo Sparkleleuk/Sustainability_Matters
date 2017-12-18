@@ -3,7 +3,7 @@ layout: post
 title:  "Burning"
 excerpt: "Wildfire hits Ventura County in southern California."
 date:   2017-12-05 20:00:00 -0500
-categories: Climate
+categories: Environment
 ---
 
 **CLIMATE**

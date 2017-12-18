@@ -3,7 +3,7 @@ layout: post
 title:  "Drug Nation"
 excerpt: "A US government report said that opioid crisis cost the US economy 6x more than initially thought. Nebraska approved a controversial oil pipeline but ordered the pipeline through another route."
 date:   2017-11-21 07:00:00 -0500
-categories: [Healthcare, Climate]
+categories: [Healthcare, Environment]
 ---
 **HEALTHCARE**
 

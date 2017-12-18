@@ -3,7 +3,7 @@ layout: post
 title:  "Smog"
 excerpt: "The Indian government has made one of the dirtiest sources of energy more accessible under a new structure amidst an ongoing public health crisis. Green bonds hit a record of $100 billion in 2017."
 date:   2017-11-22 21:02:44 -0500
-categories: [Pollution, Finance]
+categories: [Environment, Finance]
 ---
 
 **POLLUTION**

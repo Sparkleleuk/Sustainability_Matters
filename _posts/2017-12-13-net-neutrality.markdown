@@ -3,7 +3,7 @@ layout: post
 title:  "Rigged"
 excerpt: "At least 2 million public comments to the FCC's net neutrality public feedback process are fake, says New York AG. At least 225 global investors push for highest emitters to disclose climate risk in One Planet Summit."
 date:   2017-12-13 20:00:00 -0500
-categories: [Privacy, Climate]
+categories: [Ethics, Environment, Human Rights]
 ---
 
 **NET NEUTRALITY UPDATE**

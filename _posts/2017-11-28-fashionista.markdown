@@ -3,7 +3,7 @@ layout: post
 title:  "Fashionista"
 excerpt: "The fashion industry is adding to global pollution because of large volumes of cheap and dispensible clothing. Employees of Wells Fargo were reported to have overcharged forex clients."
 date:   2017-11-28 19:00:00 -0500
-categories: [Waste, Finance, Ethics]
+categories: [Environment, Finance, Ethics]
 ---
 **WASTE**
 

@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### What is Sustainability Matters?
 
-Sustainability Matters is an information site and newsletter service that provides helps readers understand the sustainability impacts of government policies, corporate actions and general current events. It is intended to inform and educate readers of the relevance of sustainability to our day to day lives so that we, as ordinary folks, can make informed decisions and take action to make the world a healthier, safer and more sustainable place to live in.
+Sustainability Matters is an information service and newsletter that provides helps readers understand the sustainability impacts of government policies, corporate actions and general current events. It is intended to inform and educate readers of the relevance of sustainability to our day to day lives so that we, as ordinary folks, can make informed decisions and take action to make the world a healthier, safer and more sustainable place to live in.
 
 Sustainability Matters is not an aggregator or a curator of sustainability news. Instead, we select news stories that have broad relevance, then we provide a succinct analysis of what the story means and why the issue matters. If you are interested in sustainability news but find it difficult or are too busy to find them, or you have some familiarity with sustainability and understand that this is relevant to you, try us out. You might just learn a thing or two in less than five minutes of reading a day.  
 
@@ -16,7 +16,6 @@ Every week day, we will highlight and analyze a maximum of three relevant and in
 ### Who is Sustainability Matters?
 
 Sustainability Matters was founded by [Sheila Oviedo](https://www.linkedin.com/in/sheilaoviedo) with plenty of help from [Marcel Schoffelmeer](https://www.linkedin.com/in/marcel-schoffelmeer-3520a63/). We The making of this site was powered by [Kenya AA coffee](https://www.pinterest.com/pin/634022453762392056/) and [Trader Joe's Mango & Cream Bars](https://www.pinterest.com/pin/411938697146385225/).
-
 
 ### Disclaimer
 

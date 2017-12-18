@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Drill, Baby, Drill Some More"
-excerpt: "US Congress approves two bills allowing precious metal mining and oil drilling in Minnesota and Alaska."
+excerpt: "US Congress approves two bills allowing precious metal mining and oil drilling in Minnesota and Alaska. New study finds women and ethnic minorities still underrepresented in tech management."
 date:   2017-11-30 19:00:00 -0500
-categories: [Climate, Diversity]
+categories: [Environment, Diversity]
 ---
 **CLIMATE**
 

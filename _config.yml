@@ -22,7 +22,6 @@ url: "http://www.sustainabilitymatters.info" # the base hostname & protocol for 
 twitter_username: sustymatters
 github_username:
 
-
 # Build settings
 markdown: kramdown
 # theme: minima

@@ -3,7 +3,7 @@ layout: post
 title:  "Of Women and Fines"
 excerpt: "More women are running for public office in the US. Environmental fine payments in China grow by nearly 50%."
 date:   2017-12-06 20:00:00 -0500
-categories: [Diversity, Pollution]
+categories: [Diversity, Environment]
 ---
 
 **DIVERSITY**

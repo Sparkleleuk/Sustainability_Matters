@@ -3,7 +3,7 @@ layout: post
 title:  "A Rare Proposal"
 excerpt: "Private security group planned to mine rare earth minerals in Afghanistan for the US."
 date:   2017-12-07 22:00:00 -0500
-categories: [Environment]
+categories: [Environment, Ethics]
 ---
 
 **ENVIRONMENT**

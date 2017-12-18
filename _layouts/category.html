@@ -1,0 +1,21 @@
+---
+layout: page
+---
+<style>
+ul {
+  list-style-type: none;
+  text-indent: 0;
+}
+
+</style>
+
+{% for post in site.categories[page.category] %}
+<ul>
+  <li>
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }} <br />
+    </a>
+    {{ post.excerpt }}
+  </li>
+</ul>
+{% endfor %}
