@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Excluded"
+excerpt: "Trump administration's National Security Strategy drops climate change as a national security threat."
+date:   2017-12-18 19:00:00 -0500
+categories: [Environment]
+---
+
+**CLIMATE**
+
+### Climate gets a downgrade
+
+President Trump today unveiled his government's National Security Strategy (NSS) and this time, it does not include climate change as a national security threat. The NSS focused on America's economic security and highlighted "rogue states", terrorism, cybersecurity, and immigration enforcement as threats. The NSS also highlighted "energy dominance" and how the US would tap into its [domestic sources of energy](http://www.cnn.com/2017/12/18/politics/5-things-to-know-about-trumps-national-security-strategy/index.html), including fossil fuels.
+
+#### Environment was not altogether dropped
+
+The NSS stated as part of the section on "energy dominance" that the administration "[recognizes the importance of environmental stewardship](http://abcnews.go.com/Politics/wireStory/trump-unveil-america-national-security-strategy-51855311)" and that "climate policies will continue to shape the global energy system." The US will "remain a global leader in reducing traditional pollution, as well as greenhouse gases, while expanding our economy."
+
+#### What does this mean?
+
+The NSS sets the national security agenda and priorities of the administration. Trump's NSS reverses [President Obama's NSS](https://climateandsecurity.org/2015/02/06/the-national-security-strategy-a-climate-security-perspective/) that had listed climate change as a national security threat, which is kinda consistent with this government's lukewarm support for climate action. Trump has threatened to pull the US out of the Paris Agreement, reduced the size of national monuments, and supported coal mining and oil exploration in protected areas. References to climate change in the website of the Environmental Protection Agency (EPA) have also been [removed](http://www.cnn.com/2017/12/08/politics/epa-climate-change-references/index.html). The NSS confirms the obvious, that climate is not a priority for this administration.
+
+#### What happens next?
+
+The Trump government has been busy [rolling back](https://www.nytimes.com/interactive/2017/10/05/climate/trump-environment-rules-reversed.html?rref=collection%2Fsectioncollection%2Fclimate&action=click&contentCollection=climate&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront&_r=0) a number of environmental regulations, so expect more of these regs to go away in the next three years. The US withdrawal from the Paris Agreement is also almost certain, although cities and states are [pushing back](http://www.sustainabilitymatters.info/climate/2017/12/08/mayor-agreement.html).  
+
+* * *
+\\
+**BEFORE YOU GO**
+
+#### What we've been reading
+
+A [report](https://www.itu.int/en/ITU-D/Climate-Change/Pages/Global-E-waste-Monitor-2017.aspx) that tracks the volume of e-wastes generated globally (it's increasing). The United Nations-backed report states that the volume of e-wastes generated in 2016 is equivalent to 4,500 Eiffel towers (yikes). Most of them are not recycled or properly disposed, which threatens the environment and our health. Now, do we really need that Alexa? Hmmm...

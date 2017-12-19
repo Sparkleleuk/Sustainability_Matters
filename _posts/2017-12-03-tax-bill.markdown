@@ -3,7 +3,7 @@ layout: post
 title:  "Special Edition: Tax Matters"
 excerpt: "US Senate tax plan passes with reversal of four climate policies."
 date:   2017-12-03 20:00:00 -0500
-categories: Climate
+categories: Environment
 ---
 
 **CLIMATE**

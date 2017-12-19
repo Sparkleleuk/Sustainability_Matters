@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Throttled"
-excerpt: "The FCC announced a plan to repeal net neutrality rules. Uber admitted that customer and driver information were stolen in a hack in late 2016." 
+excerpt: "The FCC announced a plan to repeal net neutrality rules. Uber admitted that customer and driver information were stolen in a hack in late 2016."
 date:   2017-11-21 18:02:44 -0500
-categories: [Privacy, CSR]
+categories: [Ethics, CSR]
 ---
 
 **NET NEUTRALITY**

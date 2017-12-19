@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sustainability
+title: "Defining Sustainability"
 permalink: /sustainability/
 ---
 
