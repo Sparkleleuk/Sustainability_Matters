@@ -3,9 +3,8 @@ layout: post
 title:  "Defiance"
 excerpt: "US mayors pledge to meet Paris climate targets, defying Trump. Southern California continues to burn."
 date:   2017-12-08 19:00:00 -0500
-categories: Environment
+categories: [Environment]
 ---
-**CLIMATE**
 
 ### Mayors defy Trump on climate
 
@@ -31,9 +30,7 @@ States and cities have significant influence over climate action as many environ
 
 * * *
 <br />
-**CALIFORNIA WILDFIRE UPDATE**
-
-### Still burning
+### California wildfires: Still burning
 
 Since a wildfire broke out in Ventura County early this week, more fires have erupted in southern California. Fires broke out in San Diego, Riverside, and Los Angeles suburbs. As of Friday morning, there were six wildfires in the state.
 

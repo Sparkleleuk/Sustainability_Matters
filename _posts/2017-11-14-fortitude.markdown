@@ -6,8 +6,6 @@ date:   2017-11-14 22:02:44 -0500
 categories: [Environment, CSR]
 ---
 
-**CLIMATE**
-
 ### The Arctic Ocean is open for business
 
 An alliance of climate activists, including Greenpeace and the former director of Nasa’s Goddard institute for space studies, James Hansen, is [suing Norway](https://www.theguardian.com/environment/2016/oct/18/norway-faces-climate-lawsuit-over-oil-exploration-plans) for reopening the Arctic Ocean to oil drilling. The two groups are invoking Article 112 of Norway's constitutional environmental law that guarantees citizens' right to a "healthy, diverse and productive environment". The Norwegian government has handed out oil exploration licenses to at least 13 oil companies including Chevron and Statoil for drilling in the Barents Sea.
@@ -21,9 +19,7 @@ The Arctic Ocean is one of the last frontiers for oil and is estimated to contai
 For countries in North America and Europe, the Arctic Ocean is particularly important because it contributes to the inflow and outflow of water from and into the Atlantic and Pacific Oceans. This is to say that if the Arctic Ocean is contaminated, much of that will eventually flow our way.
 
 * * *
-
-**CORPORATE RESPONSIBILITY**
-
+<br />
 ### BMW to go fully renewable
 
 BMW, the Germany luxury car maker, has announced that by 2020, it will use [renewable energy](https://www.bloomberg.com/news/articles/2017-11-14/bmw-dumps-coal-for-cow-pies-in-pledge-for-100-renewable-power) for all its 31 production sites in 14 countries. To meet that target, BMW is tapping various sources of green power including a biomass plant in South Africa, which runs on cow dung and chicken droppings.

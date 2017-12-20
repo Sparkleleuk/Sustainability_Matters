@@ -5,7 +5,6 @@ excerpt: "A US government report said that opioid crisis cost the US economy 6x 
 date:   2017-11-21 07:00:00 -0500
 categories: [Healthcare, Environment]
 ---
-**HEALTHCARE**
 
 ### Opioids are a bigger problem than we thought
 
@@ -20,10 +19,8 @@ This goes to show that the opioid problem has broad and far-reaching consequence
 There is no quick and easy fix to this problem, but one critical area to look at is the pharmaceutical industry. A [60 Minute-Washington Post investigation](https://www.washingtonpost.com/graphics/2017/investigations/dea-drug-industry-congress/?utm_term=.61914d869669) found that the industry is responsible for fueling opioid use by influencing legislation in its favor. We think there is no better way to solve the drug problem than going after the source.
 
 * * *
-
-**ENVIRONMENT**
-
-### Controversial pipeline approved
+<br />
+### Controversial oil pipeline approved
 
 The Public Service Commission of the state of Nebraska [approved](https://www.bloomberg.com/news/articles/2017-11-20/transcanada-wins-approval-to-construct-keystone-xl-in-nebraska-ja8e1psp) on November 20 the controversial Keystone XL pipeline operated by TransCanada Corp. The Commission voted 3-2 in favor of Keystone XL, but required an alternative route for the pipeline. The approval comes barely a week after another TransCanada pipeline spilled approximately 5,000 barrels of oil in South Dakota.
 

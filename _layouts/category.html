@@ -12,6 +12,8 @@ ul {
 {% for post in site.categories[page.category] %}
 <ul>
   <li>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ post.date | date: date_format }}</span><br>
     <a href="{{ post.url | absolute_url }}">
       {{ post.title }} <br />
     </a>

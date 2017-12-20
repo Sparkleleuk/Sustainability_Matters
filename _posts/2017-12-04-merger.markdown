@@ -6,8 +6,6 @@ date:   2017-12-04 20:00:00 -0500
 categories: [Healthcare, Environment]
 ---
 
-**HEALTHCARE**
-
 ### CVS and Aetna's marriage of convenience
 
 Over the weekend, US pharmacy chain CVS bought insurance provider Aetna to create a one-stop healthcare shop for customers. The $69 billion [acquisition](https://www.usatoday.com/story/money/2017/12/03/cvs-buying-aetna-deal-valued-69-billion-reports/917685001/) is said to be a preemptive move to counter Amazon's foray into the healthcare business. The deal is still subject to anti-trust clearance.
@@ -21,10 +19,8 @@ If the deal clears regulatory hurdles, the short-term impact is convenience. Get
 Some think there could be discounts as CVS and Aetna are large enough to negotiate drug prices with pharmaceutical companies. But pricing is ultimately a decision by the pharma industry and unless this industry budges, drug prices will remain the same. CVS and Aetna also hope they can reduce long-term health care costs by reducing the chances of emergency room visits by monitoring and patient data tracking. We hope so too.
 
 * * *
-
-**ENVIRONMENT**
-
-### Protected no more: Trump cuts size of two national monuments
+<br />
+### Trump cuts size of two national monuments
 
 President Trump today signed two presidential proclamations [reducing](http://www.cnn.com/2017/12/04/politics/utah-monuments-trump-weir/index.html) the size of two national monuments in Utah. The Trump administration reduced the size of the Bears Ears National Monument by more than 80% from 1.35 million acres to 228,337 acres, and reduced the Grand Staircase-Escalante monument by 45% from 1.9 million acres to 1 million acres. Thousands of people in Salt Lake City  [protested](http://www.sltrib.com/news/politics/2017/12/04/thousands-of-protesters-in-utah-decry-hatch-trump-and-the-revision-of-national-monuments/) the proclamations. Five Native American tribes have announced [plans to sue](https://www.washingtonpost.com/politics/trump-scales-back-two-huge-national-monuments-in-utah-drawing-praise-and-protests/2017/12/04/758c85c6-d908-11e7-b1a8-62589434a581_story.html?utm_term=.e4c3a66ba664) the government for these actions.
 

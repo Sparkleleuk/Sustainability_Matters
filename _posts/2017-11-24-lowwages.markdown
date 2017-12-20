@@ -5,7 +5,6 @@ excerpt: "Thousands of Amazon workers in Germany staged a protest on Black Frida
 date:   2017-11-24 17:00:00 -0500
 categories: [Labor, Environment]
 ---
-**LABOR**
 
 ### Black Friday protest by Amazon workers
 
@@ -20,9 +19,7 @@ Today, one of the retail industry's holiest days, many of us checked for Amazon 
 Without doubt, Amazon has made our lives a lot easier, although it has made our patience a lot shorter. With one click of a button, we are able to order everything from gadgets to toilet paper, and have them delivered the next day. And for free! Food is even delivered on the same day. But there is a growing negative social impact of such excellent customer service. For every Alexa that is delivered the next day, there is a harried worker who is unable to take a bathroom break. Instant gratification has a cost.
 
 * * *
-
-**RENEWABLES**
-
+<br />
 ### Costa Rica goes 100% renewable for record 300 days
 
 For 300 days this year, Costa Rica ran on 100% renewable energy, beating its 2015 record of 299 days, and 271 days in 2016. According to Grupo ICE, the Costa Rican Institute of Electricity, the Central American country receives 99.62% of its electricity from hydropower (78.26%), wind (10.29%), geothermal energy (10.23%), and biomass and solar (0.84%). Costa Rica has committed to become the first country to be carbon neutral by 2021.

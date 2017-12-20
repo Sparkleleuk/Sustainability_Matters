@@ -5,7 +5,6 @@ excerpt: "US Congress approves two bills allowing precious metal mining and oil 
 date:   2017-11-30 19:00:00 -0500
 categories: [Environment, Diversity]
 ---
-**CLIMATE**
 
 ### There will be blood
 
@@ -24,9 +23,7 @@ The silver lining to these congressional debates is the House has [passed](http:
 If you live in Alaska and Minnesota, these measures should concern you. If you live elsewhere, they still matter because everything in connected, what gets dumped somewhere eventually ends up in our backyards. Or in our [food](https://oceanservice.noaa.gov/facts/oilimpacts.html). Heard about the [lobster with a Pepsi "tattoo"](https://news.nationalgeographic.com/2017/11/lobster-claw-pepsi-soda-can-new-brunswick-spd/)? Damage to the environment by man-made waste is irreparable and irremediable. Meaning, once it’s gone, we can never have it back. Yes, the EPA can help clean leaks, but frankly, cleaning up a major contamination [costs more](http://blog.meltblowntechnologies.com/how-much-it-costs-to-clean-up-an-oil-spill) than $50 million.
 
 * * *
-
-**DIVERSITY**
-
+<br />
 ### It's still a white man's world
 
 A study by a non-profit group has found that while there have been improvements in diversity of executive leadership in Silicon Valley, ethnic minorities are still underrepresented relative to their share of the workforce in technology companies. The [Ascend Foundation](http://www.ascendleadership.org/), which promotes Asians in business, found that “race is an increasingly more significant impediment than gender to climbing the management ladder.” The group noted that Asian women were least likely to be promoted to managerial or executive positions even if they are most likely to be hired. African-Americans and Hispanics have declined in their percentage share of the professional workforce. Meanwhile, white men and women are “twice as likely as Asians to become executives and hold almost three times the number of executive jobs.”

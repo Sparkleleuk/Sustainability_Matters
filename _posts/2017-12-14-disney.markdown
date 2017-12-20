@@ -3,10 +3,8 @@ layout: post
 title:  "Where Dreams Come True"
 excerpt: "Disney to buy many assets of 21st Century Fox as net neutrality rules are repealed."
 date:   2017-12-14 19:00:00 -0500
-categories: [Ethics]
+categories: [Ethics, Environment]
 ---
-
-**ETHICS**
 
 ### Disney's mega-merger with 21st Century Fox
 
@@ -26,9 +24,9 @@ The merger gives us more streaming options, but raises anti-competition concerns
 The Disney-Fox merger adds another media giant in the what may become a constrained internet space for everybody but for the biggest players. Hours after the merger was announced, the US Federal Communications Commission (FCC) [repealed](https://www.washingtonpost.com/news/the-switch/wp/2017/12/14/the-fcc-is-expected-to-repeal-its-net-neutrality-rules-today-in-a-sweeping-act-of-deregulation/?utm_term=.815cfc49ac1b) net neutrality rules. The competition for premium access to streaming services will likely become even more fierce, further reducing opportunities for smaller media. Or subscribers may be forced to pay even more to be able to access our favorite channels. But net neutrality advocates are suing the FCC, so the saga continues. <br />
 
 * * *
-\\
-**BEFORE YOU GO**
+<br />
+**BEFORE YOU GO...**
 
-#### We've been watching...
+#### **We've been watching**
 
 Bloomberg's [video report](https://www.bloomberg.com/news/features/2017-12-14/how-to-rebuild-puerto-rico) on Puerto Rico's slow recovery from Hurricane Maria and read some of the good samaritans helping rebuild the island in their own way.

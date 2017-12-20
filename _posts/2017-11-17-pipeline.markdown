@@ -6,9 +6,7 @@ date:   2017-11-17 06:00:00 -0500
 categories: Environment
 ---
 
-**BIODIVERSITY**
-
-### Dakota pipeline leak
+### Dakota oil pipeline leak
 
 A total of 210,000 gallons or 5,000 barrels of oil [leaked](http://www.cnn.com/2017/11/16/us/keystone-pipeline-leak/index.html) on November 16 from the Keystone pipeline in South Dakota. The pipeline operator, TransCanada said the cause of the leak is under investigation and the pipeline, which runs from Alberta, Canada through Oklahoma to Illinois in the United States, has been temporarily closed. The leak occurred in the town of Amherst. It is not yet known if the the leak contaminated waterways and wildlife.
 
@@ -17,9 +15,7 @@ A total of 210,000 gallons or 5,000 barrels of oil [leaked](http://www.cnn.com/2
 Oil leaks are never pretty and while this was a relatively small incident (BP 130 million gallons or 3.19 million barrels in the Gulf of Mexico in 2010), it still puts nearby towns in South and North Dakota at risk of contamination. The Keystone pipeline is different from TransCanada's more controversial Keystone XL pipeline but the leak makes TransCanada even more unpopular in the US. Keystone XL is being opposed because it infringes on the rights of Native Americans. The leak simply adds fuel to the fire.
 
 * * *
-
-**CLIMATE**
-
+<br />
 ### Irony: Oil producer plans to divest from oil companies
 
 Norway, Europe's biggest oil producer, is thinking of [divesting](https://www.nytimes.com/2017/11/16/business/energy-environment/norway-fund-oil.html?hpw&rref=business&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well&_r=0) from oil and gas companies. The Norwegian central bank recommended that the Norwegian sovereign wealth fund, one of the world's largest pension funds in terms of assets, divest from the oil industry as part of its campaign to control climate change. This follows the fund's divestment of mining firms and coal-based utilities, which commenced in 2015.
@@ -31,7 +27,7 @@ With $1 trillion in assets, the Norwegian sovereign wealth fund is one of the wo
 Norway is also one of the strongest proponents of mitigating climate change and relative to other developed countries, has aggressively committed to becoming [carbon neutral](https://www.theguardian.com/environment/2016/jun/15/norway-pledges-to-become-climate-neutral-by-2030) by 2030. Whether it achieves this goal remains to be seen. But from this point of view, its decision to divest from mining firms and coal-based utilities in 2015, and now its plan to divest from oil and gas firms align with its national values as these industries are associated with high carbon emissions.
 
 * * *
-
+<br />
 **FOOD FOR THOUGHT...**
 
 ### Can carbon increase food supply?

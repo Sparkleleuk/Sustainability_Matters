@@ -6,9 +6,7 @@ date:   2017-12-13 20:00:00 -0500
 categories: [Ethics, Environment, Human Rights]
 ---
 
-**NET NEUTRALITY UPDATE**
-
-### Fake comments drive FCC vote
+### Fake comments drive FCC's net neutrality vote
 
 New York Attorney General Eric Schneiderman today said that at least 2 million public comments sent to the Federal Communications Commission (FCC) on its plan to repeal net neutrality rules are fake. In a [tweet](https://twitter.com/AGSchneiderman/status/941025240129441792), Schneiderman also called on the FCC to delay tomorrow's scheduled vote in light of evidence that comments were made from stolen identities of Americans. He noted that some comments were from relatives who had passed away or from elderly veterans. Schneiderman also noted that the FCC has refused to cooperate with the investigation.
 
@@ -22,8 +20,6 @@ We are not a fan of this plan for [reasons we have pointed out in the past](http
 
 <hr />
 <br />
-**CLIMATE**
-
 ### Investor power in One Planet Summit
 
 A group of 225 global investors with a combined assets under management of $26.3 trillion has pledged to closely keep an eye on the heaviest corporate emitters of carbon. At the close of the [One Planet Summit](https://www.oneplanetsummit.fr/en/) in Paris on December 12, the investor group, which included one of largest pension funds in the US, the California Public Employees' Retirement System, said it will publish an annual assessment of how these companies are reducing emissions. Companies that refuse to cooperate will face [increased pressure](https://af.reuters.com/article/africaTech/idAFL8N1OC3SM) through public statements and shareholder resolutions.  

@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "#MeToo Goes to the White House"
-excerpt: "Three women urge Congress to investigate Trump for sexual misconduct; demand leaves Congress in a bind." 
+excerpt: "Three women urge Congress to investigate Trump for sexual misconduct; demand leaves Congress in a bind."
 date:   2017-12-11 20:00:00 -0500
 categories: [Human Rights]
 ---
-**HUMAN RIGHTS**
-
 ### Harassment claims dog Trump
 
 At least three women claiming to have been harassed by President Trump today urged the US Congress to investigate him for inappropriate behavior before he was president. The three are among [multiple women](https://www.theguardian.com/us-news/ng-interactive/2017/nov/30/donald-trump-sexual-misconduct-allegations-full-list) who have accused Trump of sexual misconduct. They came out with their allegations in the 2016 presidential campaign but their claims were dismissed. At least 56 female lawmakers today [wrote](http://thehill.com/homenews/house/364387-nearly-60-female-lawmakers-call-for-probe-into-sexual-allegations-against) a letter to the House Oversight Committee to open an investigation. The White House has [denied](https://www.theguardian.com/us-news/2017/oct/27/donald-trump-sexual-harassment-claims-women-lying-white-house) the allegations.
@@ -34,7 +32,8 @@ Because you wouldn't want to have your mother treated this way, would you?
 * * *
 <br />
 **BEFORE YOU GO...**
-#### **What we've been watching**
+
+#### **We've been watching**
 
 National Geographic's [video of a starving polar bear](https://news.nationalgeographic.com/2017/12/polar-bear-starving-arctic-sea-ice-melt-climate-change-spd/) in Baffin Island is difficult to watch, but the message is loud and clear. This is what climate change looks like, and it's not pretty.
 

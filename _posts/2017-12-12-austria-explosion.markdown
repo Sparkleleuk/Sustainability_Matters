@@ -6,8 +6,6 @@ date:   2017-12-12 19:00:00 -0500
 categories: [Ethics, Environment]
 ---
 
-**ENVIRONMENT**
-
 ### Explosion in Austrian natural gas facility
 
 A gas plant in Austria today caught fire and [exploded](https://www.theguardian.com/world/2017/dec/12/italy-declares-state-emergency-gas-explosion-austria), endangering gas supply to southern Europe. The explosion resulted in the death of one person and the injury of at least 18 others. Authorities attributed the incident to a technical problem. The explosion occurred in Baumgarten, a major European gas hub north of Vienna.
@@ -22,8 +20,6 @@ Oil, gas and coal still account for roughly 70% of [energy consumption](http://e
 
 <hr />
 <br />
-**ETHICS**
-
 ### Facebook changes tax structure
 
 Facebook has [announced](https://www.politico.eu/article/facebook-tax-digital-europe-revenue-sales-corporate-ireland-david-wehner/) that it is will start booking sales in the country where a sale is made, and would stop routing sales to lower tax zones, such as Ireland. Facebook CFO Dave Wehner said in a [blog post](https://newsroom.fb.com/news/2017/12/moving-to-a-local-selling-model/) the new structure “will provide more transparency to governments and policy makers around the world who have called for greater visibility over the revenue associated with locally-supported sales in their countries.”
@@ -38,8 +34,6 @@ At face value, Facebook’s announcement suggests that the company will be payin
 
 <hr />
 <br />
-**ENVIRONMENT**
-
 ### Stay on mining ban in Grand Canyon
 
 A federal appeals court today [upheld](https://www.reuters.com/article/us-usa-mining-grandcanyon/u-s-court-upholds-grand-canyon-uranium-mining-ban-but-allows-mine-nearby-idUSKBN1E62LO) a ban imposed by former President Obama on mining in the Grand Canyon area. The Ninth Circuit Court of Appeals in San Francisco rules that “Withdrawal of the area from new mining claims for a limited period will permit more careful, longer-term study of the uncertain effects of uranium in the area and better-informed decision making in the future.” However, the court allowed the opening a uranium mine operated by Energy Fuels near the south rim.

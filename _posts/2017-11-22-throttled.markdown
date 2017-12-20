@@ -6,8 +6,6 @@ date:   2017-11-21 18:02:44 -0500
 categories: [Ethics, CSR]
 ---
 
-**NET NEUTRALITY**
-
 ### Net neutrality rules at risk
 
 The chairman of the US Federal Communications Commission (FCC) announced on November 21 that the Commission plans to [repeal](https://www.nytimes.com/2017/11/21/technology/fcc-net-neutrality.html) net neutrality rules, a set of rules that ensure equal access of web content regardless of fees paid by the user, or of internet service provider. FCC chairman Ajit Pai said the federal government "will stop micromanaging the internet". The FCC will require internet service providers to [disclose](https://www.reuters.com/article/us-usa-internet-exclusive/u-s-fcc-chief-plans-to-ditch-u-s-net-neutrality-rules-idUSKBN1DL21A?utm_source=WTF+Just+Happened+Today%3F&utm_campaign=92e576e32c-EMAIL_CAMPAIGN_11_15_2017&utm_medium=email&utm_term=0_9813b73b1a-92e576e32c-166133257) their rules for blocking access. The proposal is scheduled to be deliberated by the five-member Commission on December 14.
@@ -25,9 +23,6 @@ Interested in net neutrality and the internet? Politico has a cool [primer](http
 
 * * *
 <br />
-
-**PRIVACY**
-
 ### It's a secret: Uber was hacked, and didn't tell anyone
 
 Uber [admitted](https://www.uber.com/newsroom/2016-data-incident/) on November 21 that in late 2016, "two individuals outside the company" stole personal information of approximately 57 million Uber users, including 600,000 drivers. Uber said hackers stole names, addresses and phone numbers of customers, and driver's license information. Uber CEO Dara Khosrowshahi said he "recently learned" of the data breach and that the company is notifying drivers whose data was stolen and providing them with free credit monitoring and identity theft protection, among other actions.

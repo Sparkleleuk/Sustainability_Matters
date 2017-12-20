@@ -6,8 +6,6 @@ date:   2017-11-13 22:02:44 -0500
 categories: [Environment, CSR]
 ---
 
-**CLIMATE**
-
 ### Carbon emissions on the rise again
 
 A new report released today revealed that burning of fossil fuels is likely to hit a new high this year. The [Global Carbon Project](https://www.scientificamerican.com/article/global-carbon-emissions-are-rising-again-after-3-flat-years/) estimates that by the end of 2017, approximately 37 billion tons of carbon dioxide will be emitted from burning fossil fuels, primarily caused by an expected 3.5% increase in China’s emissions.
@@ -21,9 +19,7 @@ A new report released today revealed that burning of fossil fuels is likely to h
 We don’t have to wait for 2100 to feel the pain of a much warmer earth.
 
 * * *
-
-**LABOR**
-
+<br />
 ### Is Tesla racist?
 
 An Africa-American employee of Tesla, the electric car maker, has accused the company of [tolerating racist behavior](https://www.bloomberg.com/news/articles/2017-11-13/tesla-a-hotbed-for-racist-behavior-black-workers-claim-in-suit) in its production facilities. The employee is filing a proposed class action lawsuit on behalf of approximately 100 African-American employees who have been subjected to harassment in the production floor.

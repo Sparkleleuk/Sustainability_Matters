@@ -6,9 +6,7 @@ date:   2017-11-10 22:02:44 -0500
 categories: [Environment, Ethics, CSR]
 ---
 
-**CLIMATE**
-
-### So close yet so far
+### Paris Agreement: So close yet so far
 
 We fell off the wagon in meeting climate goals. According to a consortium of three environmental think-tanks, countries that signed on to the [Paris Agreement](http://unfccc.int/paris_agreement/items/9485.php) are still far from meeting the goals that they pledged in 2015. The [Climate Action Tracker](http://climateactiontracker.org/) noted that in particular, the United States, Russia, Saudi Arabia, Chile, Ukraine and Turkey are “critically insufficient” in meeting their climate goals. Note that US President Donald J. Trump is also planning to withdraw from the Paris Agreement. Meanwhile, other large economies such as China, Japan, Canada and South Korea were found to be “highly insufficient”.
 
@@ -29,9 +27,7 @@ Depending on where you live, you will feel the impacts of global warming in diff
 The higher the temperatures, the more $$$ we spend. This is a no-win situation.
 
 * * *
-
-**ETHICS**
-
+<br />
 ### Tax us not
 
 A global consortium of journalists have revealed that the world’s richest families and corporations continue to be siphoning money to tax havens to avoid paying taxes at home. The [Paradise Papers](https://www.icij.org/investigations/paradise-papers/) investigation revealed that companies like Apple, Nike, and Uber as well as ultra-wealthy individuals have been using offshore accounts to avoid getting taxed in the US.
@@ -41,12 +37,12 @@ A global consortium of journalists have revealed that the world’s richest fami
 Tax avoidance deprives countries - even rich ones - of revenues that are used to fund welfare programs, infrastructure projects, and other things that citizens are entitled to. If companies do not pay their share of taxes, then governments cannot afford to pay for public services that we all use and for social services that benefit lower and middle-income families, We all use government services and public infrastructure. Even the company executives and ultra-rich individuals need roads and bridges to drive their cars on, cops and firemen to respond to emergencies. But all these cost money and if companies don’t pay taxes, we pay the price through reduced budgets for things we all need and (gulp) higher personal taxes. Listen, we all love our iphones but if we spend $1,000 for one, we’d rather see some of that money benefit us.
 
 * * *
-
-**LABOR...**
+\\
+**DO YOU KNOW...**
 
 ### “Climate Leave” is a thing
 
-That’s right. Fog Creek Software, a New York City-based company that builds tools for programmers, is offering [five days of paid leave for employees impacted by weather disruptions](https://medium.com/make-better-software/climate-leave-paid-time-off-for-extreme-weather-disruptions-c5691fd346c3). The company learned its lesson from Hurricane Sandy that hit New York in 2012 when it had to manually support its operations through a city-wide blackout. Moreover, some of its employees were forced to evacuate their homes and the company had no policy to support them.
+Fog Creek Software, a New York City-based company that builds tools for programmers, is offering [five days of paid leave for employees impacted by weather disruptions](https://medium.com/make-better-software/climate-leave-paid-time-off-for-extreme-weather-disruptions-c5691fd346c3). The company learned its lesson from Hurricane Sandy that hit New York in 2012 when it had to manually support its operations through a city-wide blackout. Moreover, some of its employees were forced to evacuate their homes and the company had no policy to support them.
 
 #### Do we need this?
 

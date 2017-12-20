@@ -6,8 +6,6 @@ date:   2017-12-07 22:00:00 -0500
 categories: [Environment, Ethics]
 ---
 
-**ENVIRONMENT**
-
 ### Private security group planned to mine rare earth minerals in Afghanistan
 
 The founder of the infamous Blackwater private security group offered his services to the Trump administration in Afghanistan, with a plan to secure and extract rare earth minerals. Buzzfeed [published](https://www.buzzfeed.com/aramroston/private-war-erik-prince-has-his-eye-on-afghanistans-rare?utm_term=.hm4MDJVZjo#.ysKApgkzZ8) the [presentation](https://www.documentcloud.org/documents/4322811-The-Prince-Pitch.html) by Erik Prince, which he had reportedly used to pitch his services to administration officials in DC. The slide deck outlined a plan not just for the exit of US military personnel from Afghanistan but also to mine rare earth minerals, which are used for various industrial products including batteries of electric cars and components of smartphones, among other products. The presentation noted that Helmand province alone has two types of "extremely" high grade rare earth elements.

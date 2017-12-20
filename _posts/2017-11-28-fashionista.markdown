@@ -5,7 +5,6 @@ excerpt: "The fashion industry is adding to global pollution because of large vo
 date:   2017-11-28 19:00:00 -0500
 categories: [Environment, Finance, Ethics]
 ---
-**WASTE**
 
 ### Project sustainable runway
 
@@ -18,9 +17,7 @@ The full 150-page report can be accessed in the [Foundation's website](https://w
 We love to shop, and boy do we love cheap, fashionable clothes. But these clothes are also choking the planet and straining natural resources. The report confirms what previous [studies](https://www.theguardian.com/environment/2016/jun/20/microfibers-plastic-pollution-oceans-patagonia-synthetic-clothes-microbeads) have found: that significant quantities of fibers from clothes have been accumulating in shorelines as well as in freshwater, where they can be eaten by small fishes and other marine life. The toxins, in turn, could end up in bigger fishes that prey on smaller fishes, and eventually end up ingested by the top of the food chain: us. More sushi, anyone?
 
 * * *
-
-**ETHICS**
-
+<br />
 ### Not again: Wells Fargo may have also duped corporate clients
 
 Employees of Wells Fargo, one of the largest US banks, were reported to have overcharged clients of the bank's foreign exchange (forex) business to inflate their bonuses. The Wall Street Journal reported that just 10% of its fee agreements with forex clients were accurately priced.

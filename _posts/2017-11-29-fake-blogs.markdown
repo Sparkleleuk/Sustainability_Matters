@@ -5,7 +5,6 @@ excerpt: "Climate deniers have been using polar bears to spread misinformation o
 date:   2017-11-29 19:00:00 -0500
 categories: [Environment, Ethics]
 ---
-**CLIMATE**
 
 ### Fake news meets the polar bear
 
@@ -20,10 +19,8 @@ The researchers compared 45 science-based blogs against 45 denier blogs and foun
 We must admit the strategy of questioning future predictions is more sophisticated than President Trump's tweets. A number of corporations and think-tanks, including Exxon Mobil, the Koch brothers (who recently bought into Time Inc.), and the Heartland Foundation, to name a few, have been known to have supported such anti-climate websites. With big money backing anti-climate misinformation, we think it's only going to become more sophisticated over time. Misinformation will become even more subtle, it will probably require a PhD to even distinguish a science-based report from a denier. Or maybe not. Maybe all it takes is the curiosity and patience to learn and understand the real issues. Maybe all it takes is reading up on sustainability every day. Did we just make a plug for Sustainability Matters?
 
 * * *
-
-**POLITICAL SPENDING**
-
-### Some passives are getting more active
+<br />
+### Some passives are getting more active on political spending transparency
 
 More and more mutual funds are supporting calls for increased transparency on corporate political spending. According to the [Center for Political Accountability](http://politicalaccountability.net/about/about-us), support for its shareholder resolutions asking companies to disclose political spending increased to 48% in 2017 from 43% in 2016, according to a [statement](http://files.politicalaccountability.net/reports/cpa-reports/mutual-fund-support-for-political-spending-disclosure-jumps-in-first-year-of-trump-presidency/Mutual_Fund_Report_2017_.pdf).
 
