@@ -63,15 +63,15 @@ layout: default
     {% include disqus_comments.html %}
   {% endif %}
 
-  <div class="post-categories">
+  <div class="site.categories">
     {% if post %}
       {% assign categories = post.categories %}
     {% else %}
       {% assign categories = page.categories %}
     {% endif %}
-    <p><strong>Categories:</strong></p>
+    <p><strong>Category:</strong></p>
     {% for category in categories %}
-    <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+    <a href="{{ site.baseurl }}/category/#{{category|slugize}}">{{category}}</a>
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </div>
