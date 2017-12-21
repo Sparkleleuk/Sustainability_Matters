@@ -8,7 +8,7 @@ categories: [Environment, CSR]
 
 ### Tax cut savings: Companies pay it forward, for now
 
-The Federal Tax Cuts and Jobs Act was approved by both chambers of Congress, with legislators voting for the bill strictly along party lines. Among the highlights of the new bill, which is almost certain to be signed into law by President Trump, is a reduction of the corporate tax rate from 35% to 20%. Companies such as AT&T, Wells Fargo, Fifth Third Bancorp, Boeing, and Comcast immediately [announced](https://www.bloomberg.com/news/articles/2017-12-20/wells-fargo-at-t-try-to-prove-unpopular-tax-cut-goes-to-workers?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social) that they are planning to use the corporate tax cuts to increase bonuses, salaries, and investments in employee training.
+The Federal Tax Cuts and Jobs Act was approved by both chambers of Congress, with legislators voting on the bill strictly along party lines. Among the highlights of the new bill, which is almost certain to be signed into law by President Trump, is a reduction of the corporate tax rate from 35% to 20%. Companies such as AT&T, Wells Fargo, Fifth Third Bancorp, Boeing, and Comcast immediately [announced](https://www.bloomberg.com/news/articles/2017-12-20/wells-fargo-at-t-try-to-prove-unpopular-tax-cut-goes-to-workers?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social) that they are planning to use the corporate tax cuts to increase bonuses, salaries, and investments in employee training.
 
 #### Why are they doing this?
 
