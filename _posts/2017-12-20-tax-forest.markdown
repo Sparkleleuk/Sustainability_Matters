@@ -8,7 +8,7 @@ categories: [Environment, CSR]
 
 ### Tax cut savings: Companies pay it forward, for now
 
-The Federal Tax Cuts and Jobs Act was approved by both chambers of Congress, with legislators voting for the bill strictly along party lines. Among the highlights of the new bill, which is almost certain to be signed into law by President Trump, is a reduction in the corporate tax rate from 35% to 20%. Companies such as AT&T, Wells Fargo, Fifth Third Bancorp, Boeing, and Comcast immediately [announced](https://www.bloomberg.com/news/articles/2017-12-20/wells-fargo-at-t-try-to-prove-unpopular-tax-cut-goes-to-workers?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social) that they are planning to use the corporate tax cuts to increase bonuses, salaries, and investments in employee training.
+The Federal Tax Cuts and Jobs Act was approved by both chambers of Congress, with legislators voting for the bill strictly along party lines. Among the highlights of the new bill, which is almost certain to be signed into law by President Trump, is a reduction of the corporate tax rate from 35% to 20%. Companies such as AT&T, Wells Fargo, Fifth Third Bancorp, Boeing, and Comcast immediately [announced](https://www.bloomberg.com/news/articles/2017-12-20/wells-fargo-at-t-try-to-prove-unpopular-tax-cut-goes-to-workers?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social) that they are planning to use the corporate tax cuts to increase bonuses, salaries, and investments in employee training.
 
 #### Why are they doing this?
 
@@ -28,7 +28,7 @@ We'll take the dough (it's Christmas after all), but we can't thank the tax bill
 <br />
 ### Earth lost a 10% of wilderness since 1992
 
-A [study by the University of Queensland](https://www.theguardian.com/environment/2017/dec/21/losing-the-wilderness-a-tenth-has-gone-since-1992-and-gone-for-good) shows that 10% of the earth's wilderness equivalent to  3 million square kilometers or 1.16 square miles has been lost due to human pressure. The study found that 52% of the earth's ecosystems have been degraded while the remaining 48% is being eroded. The authors warned that we could lose all wildnerness in the next 50 years if the rate of degradation continues.
+A [study by the University of Queensland](https://www.theguardian.com/environment/2017/dec/21/losing-the-wilderness-a-tenth-has-gone-since-1992-and-gone-for-good) shows that 10% of the earth's wilderness equivalent to 3 million square kilometers or 1.16 square miles has been lost due to human pressure. The study found that 52% of the earth's ecosystems have been degraded while the remaining 48% is being eroded. The authors warned that we could lose all wildnerness in the next 50 years if the rate of degradation continues.
 
 #### Why does this matter?
 
@@ -36,4 +36,4 @@ The degradation of pristine forests has huge environmental impacts, ranging from
 
 #### What's happening in Europe?
 
-Europe has been planting more trees to expand forest cover. But it appears to be planting the wrong type of trees. Conifers and pine trees may have stoked increased temperatures in the region because they trap the sun's heat and expend more carbon, according to a [study](https://www.reuters.com/article/us-climatechange-forests/europes-shift-to-dark-green-forests-stokes-global-warming-study-idUSKCN0VD2KV). So much for planting more trees.  
+Europe has been planting more trees to expand forest cover. But it appears to be planting the wrong type of trees. Conifers and pine trees may have stoked increased temperatures in the region because they trap the sun's heat and expend more carbon, according to a [study](https://www.reuters.com/article/us-climatechange-forests/europes-shift-to-dark-green-forests-stokes-global-warming-study-idUSKCN0VD2KV). So much for planting more trees to fight climate change.  
