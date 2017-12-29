@@ -6,13 +6,13 @@ date:   2017-12-28 19:00:00 -0500
 categories: [Finance]
 ---
 
-### Lobby group hits at Calpers' fund returns
+### DC lobby group hits at Calpers' fund returns
 
 A Washington DC-based lobby group has criticized the California Public Employees' Retirement System (Calpers) for investing the pension fund with environment, social and governance (ESG) considerations. In a <a href="http://accfcorpgov.org/wp-content/uploads/2017/12/CalPERS-Report-Final.pdf" target="_blank">report released on December 2017</a>, the <a href="http://accf.org/" target="_blank">American Council for Capital Formation</a> (ACCF) accused Calpers of prioritizing ESG at the expense of returns. The ACCF said that the fund's performance has declined over the last 10 years, linking the decline to "increased ESG investing and activism".
 
 #### Calpers hits back
 
-The pension fund, one of the largest in the US, <a href="https://www.ai-cio.com/news/calpers-calls-esg-criticism-laughable/" target="_blank">responded</a> that it works "to achieve the best risk-adjusted returns possible" and that incorporation of ESG is an "important part" of its decision making process.
+The pension fund, one of the largest in the US, <a href="https://www.ai-cio.com/news/calpers-calls-esg-criticism-laughable/" target="_blank">responded</a> that it works "to achieve the best risk-adjusted returns possible" and that incorporation of ESG is an "important part" of its decision making process. In its <a href="https://www.calpers.ca.gov/page/newsroom/calpers-news/2017/annual-financial-report" target="_blank">annual financial statement</a>, Calpers reported <a href="https://www.investopedia.com/terms/n/netinvestmentincome.asp" target="_blank">net investment returns</a> of 11.2% and pension benefit payments of $21.4 billion to nearly 670,000 retirees, 3% more than the previous year's 650,000.
 
 #### Why do pension funds incorporate ESG in the first place?
 
@@ -22,4 +22,6 @@ Pension funds also typically use their market power to influence corporate behav
 
 #### Our take: This hate mail is sus
 
-By criticizing Calpers, the ACCF is effectively questioning the value of ESG integration in investment strategies. This is, however, inconsistent with the growing trend among global asset owners (like pension funds) and professional asset managers (like Blackrock and State Street) to incorporate ESG in its investment strategies. Professionally-managed assets that incorporate ESG has grown by 33% to $8.72 trillion in 2016 from 2014 in the US alone, according to the <a href="https://www.ussif.org/files/SIF_Trends_16_Executive_Summary(1).pdf" target="_blank">US Forum for Sustainable and Responsible Investing</a>. Moreover, consider the ACCF's <a href="http://conservativetransparency.org/recipient/american-council-for-capital-formation/" target="_blank">list of donors</a>: Charles G. Koch Charitable Foundation, the American Petroleum Institute, Exxon Mobil, to name a few.  Doesn't this list give you reason to be suspicious of the group's real intentions?
+By criticizing Calpers, the ACCF is effectively questioning the value of ESG integration in investment strategies. This is, however, inconsistent with the growing trend among global asset owners (like pension funds) and professional asset managers (like Blackrock and State Street) to incorporate ESG in its investment strategies. Professionally-managed assets that incorporate ESG has grown by 33% to $8.72 trillion in 2016 from 2014 in the US alone, according to the <a href="https://www.ussif.org/files/SIF_Trends_16_Executive_Summary(1).pdf" target="_blank">US Forum for Sustainable and Responsible Investing</a>.
+
+Moreover, consider the ACCF's <a href="http://conservativetransparency.org/recipient/american-council-for-capital-formation/" target="_blank">list of donors</a>: Charles G. Koch Charitable Foundation, the American Petroleum Institute, Exxon Mobil, to name a few.  Doesn't this list give you reason to be suspicious of the group's real intentions?
