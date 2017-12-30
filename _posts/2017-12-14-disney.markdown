@@ -3,7 +3,7 @@ layout: post
 title:  "Where Dreams Come True"
 excerpt: "Disney to buy many assets of 21st Century Fox as net neutrality rules are repealed."
 date:   2017-12-14 19:00:00 -0500
-categories: [Ethics, Environment]
+categories: [Ethics]
 ---
 
 ### Disney's mega-merger with 21st Century Fox
