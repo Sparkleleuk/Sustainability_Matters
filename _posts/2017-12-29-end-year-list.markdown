@@ -10,7 +10,7 @@ categories: [Environment, Finance, Healthcare, Cybersecurity]
 
 *TL;DR: Cybersecurity, healthcare, taxes, and the environment made us worry in 2017.*
 
-*Warning: This entry can be depressing and may be unsuitable for this festive season. Parental guidance is advised. But an uplifting entry is coming soon. Stay tuned.*
+*Warning: This entry can be depressing and may be unsuitable for this festive season. But an uplifting entry is coming soon. Stay tuned.*
 
 #### **Alt-ctrl-delete**
 
