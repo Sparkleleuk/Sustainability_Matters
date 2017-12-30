@@ -3,7 +3,7 @@ layout: post
 title:  "#Unsubscribe 2017"
 excerpt: "A list of issues that shook us the most in 2017."
 date:   2017-12-29 18:00:00 -0500
-categories: [Environment, Diversity, Ethics, Healthcare, Cybersecurity]
+categories: [Environment, Finance, Healthcare, Cybersecurity]
 ---
 
 ### The stories that made us shake our heads
