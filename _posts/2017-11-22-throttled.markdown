@@ -3,7 +3,7 @@ layout: post
 title:  "Throttled"
 excerpt: "The FCC announced a plan to repeal net neutrality rules. Uber admitted that customer and driver information were stolen in a hack in late 2016."
 date:   2017-11-21 18:02:44 -0500
-categories: [Ethics, CSR, Privacy]
+categories: [Ethics, Privacy, CSR, Human Rights]
 ---
 
 ### Net neutrality rules at risk
