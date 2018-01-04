@@ -12,7 +12,7 @@ It is now officially illegal to pay Arnaldson more than Arnalddottir. A gender p
 
 #### So what's the back story?
 
-There is long-ish <a href="http://www.europarl.europa.eu/document/activities/cont/201107/20110725ATT24624/20110725ATT24624EN.pdf" target="_blank">background</a> that dates back to 1975 when gender equality first became a policy in Iceland. This policy eventually evolved into the Act on Equal Status and Equal Rights of Women and Men enacted in 2008. Iceland's gender equality act also covers maternal and paternal leave benefits as well as representation of women in government councils (at least 40% of seats must be held by women), and corporate boardrooms. Note that the percentage of women in boardrooms has not increased but that's another story.
+There is long-ish <a href="http://www.europarl.europa.eu/document/activities/cont/201107/20110725ATT24624/20110725ATT24624EN.pdf" target="_blank">background</a> that dates back to 1975 when gender equality first became a policy in Iceland. This policy eventually evolved into the Act on Equal Status and Equal Rights of Women and Men enacted in 2008. Iceland's gender equality act also covers maternal and paternal leave benefits as well as representation of women in government councils (at least 40% of seats must be held by women), and corporate boardrooms. Note that the percentage of women in boardrooms has not increased but that's another story. In the meantime, <a href="http://www.unwomen.org/en/get-involved/step-it-up/commitments/iceland" target="_blank">Iceland wants to bridge</a> the gender pay gap by 2022. 
 
 #### Can we copy this in America?
 
