@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bombogenesis"
-excerpt: "A law that requires equal pay to both men and women went into effect in Iceland. China bans certain car models for pollution. On our reading list: Electronics usage in the US is dropping."
+excerpt: "A law that requires equal pay for both men and women went into effect in Iceland. China bans certain car models for pollution. On our reading list: Electronics usage in the US is dropping."
 date:   2018-01-03 18:00:00 -0500
 categories: [Diversity, Environment]
 ---
