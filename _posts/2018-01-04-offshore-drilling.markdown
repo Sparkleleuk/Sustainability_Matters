@@ -14,7 +14,7 @@ The Trump administration is <a href="https://www.bloomberg.com/news/articles/201
 
 From Trump's POV, allowing oil and gas drilling in the US reduces America's reliance on foreign oil. He thinks America is too dependent on foreigners and needs to be self-sufficient.
 
-But <a href="https://www.eia.gov/energyexplained/index.cfm?page=oil_imports" target="_blank">according to the US Energy Information Agency</a>, petroleum produced domestically accounted for 75% of US consumption in 2016, while foreign imports accounted for the remaining 25%. And even imports are shrinking. The EIA has noted that foreign imports have declined since 2005. Imports from the Persian Gulf and OPEC (Organization of Petroleum Exporting Countries) have decreased, although imports from Canada have increased. 
+But <a href="https://www.eia.gov/energyexplained/index.cfm?page=oil_imports" target="_blank">according to the US Energy Information Agency</a>, imported petroleum accounts for just 25% of US consumption. Petroleum produced domestically accounts for approximately 75% of US consumption. And even imports are shrinking. The EIA has noted that foreign imports have declined since 2005. Imports from the Persian Gulf and OPEC (Organization of Petroleum Exporting Countries) have decreased, although imports from Canada have increased. 
 
 #### In the meantime...
 
