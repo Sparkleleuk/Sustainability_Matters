@@ -43,4 +43,4 @@ China has been a heavy carbon emitter, but it is now doing a lot of heavy liftin
 
 #### **We've been reading**
 
-A <a href="http://www.cta.tech/cta/media/policyImages/policyPDFs/Energy-Consumption-of-Consumer-Electronics-in-U-S-Homes-in-2017.pdf" target="_blank">new report on the energy consumption of electronics</a> in American households last year. American households are actually use less electronics, which means their gadgets are using less energy. Imagine that.
+A <a href="http://www.cta.tech/cta/media/policyImages/policyPDFs/Energy-Consumption-of-Consumer-Electronics-in-U-S-Homes-in-2017.pdf" target="_blank">new report on the energy consumption of electronics</a> in American households last year. American households are actually using less electronics, which means their gadgets are using less energy. Imagine that.
