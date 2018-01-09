@@ -16,7 +16,7 @@ Banks are reportedly valuing Aramco at $1 trillion to $1.5 trillion while the go
 
 #### Why does this matter?
 
-This matters because if the IPO goes ahead and the shares list internationally, there is a good chance that we will end up invested in the company through our pension funds, mutual funds and other investments. Unless our investment manager excludes oil and gas companies from their portfolios, many of us are likely to have some form of exposure to this stock. Therefore, we should be concerned about how this company intends to run itself, ensure sustainable operations, and manage future risks.
+This matters because if the IPO goes ahead and the shares list internationally, there is a good chance that we will end up invested in the company through our pension funds, mutual funds and other investments. Unless our investment manager excludes oil and gas companies from their portfolios, many of us are likely to have some form of exposure to this stock. Therefore, we should be concerned about how this company intends to run itself, ensure sustainable operations, and manage future risks. Moreover, Aramco's oil production level also makes it a major carbon emitter in the industry. We should be concerned about how the company plans to reduce its carbon footprint and how it plans to manage looming climate risks. 
 
 #### What should we keep an eye on?
 
