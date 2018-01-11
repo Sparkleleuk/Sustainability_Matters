@@ -35,7 +35,7 @@ This lawsuit follows an announcement by the city government that the New York Ci
 
 #### Why this Matters
 
-New York City joins <a href="https://www.reuters.com/article/legal-us-usa-oil-climatesuits/california-cities-sue-big-oil-firms-over-climate-change-idUSKCN1BV2QM" target="_blank">San Francisco, Oakland and other counties in California</a> that have filed lawsuits against Big Oil. Similarly, the states of Massachusetts and New York are investigating Exxon Mobil for possibly misleading investors over climate effects of fossil fuels. It's difficult to say if the cities are going to get their way, particularly on their billion dollar claims, as these legal actions are unprecedented. But what is clear is American cities are sending a message to the oil industry to reduce the environmental footprint of their products and support climate action. Do you copy, Big Oil?
+New York City joins <a href="https://www.reuters.com/article/legal-us-usa-oil-climatesuits/california-cities-sue-big-oil-firms-over-climate-change-idUSKCN1BV2QM" target="_blank">San Francisco, Oakland and other counties in California</a> that have filed lawsuits against oil companies. Similarly, the states of Massachusetts and New York are investigating Exxon Mobil for possibly misleading investors over climate effects of fossil fuels. It's difficult to say if the cities are going to get their way, particularly on their billion dollar claims, as these legal actions are unprecedented. But what is clear is American cities are sending a message to the oil industry to reduce the environmental footprint of their products and support climate action. Do you copy, Big Oil?
 
 * * *
 <br />
