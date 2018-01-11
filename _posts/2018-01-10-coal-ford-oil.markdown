@@ -20,7 +20,7 @@ All these figures essentially mean that despite President Trump's big promise to
 
 #### Our take
 
-Coal is the dirtiest source of energy and its decline is generally good for the environment and our health. But with emissions forecast to increase in the next couple of years, reducing coal use is just part of the solution. The use of cleaner forms of energy, like renewables, need to increase too.
+Coal is the dirtiest source of energy and its decline is generally good for the environment and our health. But with emissions forecast to increase in the next couple of years, reducing coal use is just part of the solution. The use of cleaner forms of energy, like renewables, needs to increase too.
 
 * * *
 <br />
