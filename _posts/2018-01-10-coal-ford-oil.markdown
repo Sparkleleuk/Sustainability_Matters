@@ -42,7 +42,7 @@ New York City joins <a href="https://www.reuters.com/article/legal-us-usa-oil-cl
 
 ### Ford facing dieselgate allegations
 
-Ford truck owners have sued the truck and car maker for alleging rigging truck engines to beat carbon emissions tests. The lawsuit claimed that Ford marketed its F-250 and F-350 Super Duty diesel pickups as the "cleanest super diesel ever" but its emissions are 50 times the legal limit of nitrogen oxide pollutants. Ford denied the allegations, saying that its trucks do not use "defeat devices" and comply with all environmental regulations.
+Ford truck owners have <a href="http://www.autonews.com/article/20180110/oem11/180119980/ford-sued-diesel-emissions-litigation" target="_blank">sued the truck and car maker for alleging rigging truck engines</a> to beat carbon emissions tests. The lawsuit claimed that Ford marketed its F-250 and F-350 Super Duty diesel pickups as the "cleanest super diesel ever" but its emissions are 50 times the legal limit of nitrogen oxide pollutants. Ford denied the allegations, saying that its trucks do not use "defeat devices" and comply with all environmental regulations.
 
 #### What's dieselgate again?
 
@@ -50,4 +50,4 @@ In 2015, Volkwagen admitted to using engine software to beat carbon emissions te
 
 #### Why is this important?
 
-This is important because this means that cars equipped with defeat devices have a higher negative environmental impact than previously disclosed. Moreover, dishonesty by a company speaks to unsustainable business practices that can only lead to financial risks for the company and its shareholders. No one escapes unscathed. 
+This is important because this means that cars equipped with defeat devices have a higher negative environmental impact than previously disclosed. Moreover, dishonesty by a company speaks to unsustainable business practices that can only lead to financial risks for the company and its shareholders. No one escapes unscathed.
