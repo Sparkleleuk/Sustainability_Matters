@@ -2,7 +2,7 @@
 layout: post
 title:  "Costly"
 excerpt: "Natural disasters cost the US more than $300 billion in 2017. Hugo Boss discovers forced labor in its supply chain."
-date:   2018-01-08 20:00:00 -0500
+date:   2018-01-09 20:00:00 -0500
 categories: [Environment, CSR, Labor]
 ---
 
@@ -27,7 +27,7 @@ German luxury clothing brand, Hugo Boss, has found forced labor in at least one 
 
 #### Why is this important?
 
-Many clothing brands use manufacturing facilities in South Asia to minimize the cost of production, allowing them to aggressively compete in the tough clothing retail market. But the drive to cut costs  comes with a steep price. The <a href="http://www.bbc.com/news/world-asia-22476774" target="_blank">2013 Rana Plaza collapse</a>, which killed more than 1,000 garment workers, underscored the social costs of pushing suppliers to produce more for less money. Suppliers who are pushed to produce more are also driven to cut corners and push their workers to their limits. While many clothing brands have strengthened their supply chain policies and programs, cases of labor violations continue to pop up, which shows that managing suppliers and making them adhere to international labor standards is no easy task. Meanwhile, we might be wearing clothes manufactured in these sweatshops and we don't even know it. 
+Many clothing brands use manufacturing facilities in South Asia to minimize the cost of production, allowing them to aggressively compete in the tough clothing retail market. But the drive to cut costs  comes with a steep price. The <a href="http://www.bbc.com/news/world-asia-22476774" target="_blank">2013 Rana Plaza collapse</a>, which killed more than 1,000 garment workers, underscored the social costs of pushing suppliers to produce more for less money. Suppliers who are pushed to produce more are also driven to cut corners and push their workers to their limits. While many clothing brands have strengthened their supply chain policies and programs, cases of labor violations continue to pop up, which shows that managing suppliers and making them adhere to international labor standards is no easy task. Meanwhile, we might be wearing clothes manufactured in these sweatshops and we don't even know it.
 
 * * *
 <br />
