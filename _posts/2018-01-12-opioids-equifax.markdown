@@ -2,7 +2,7 @@
 layout: post
 title:  "Expiration"
 excerpt: "Opioid emergency declaration is set to expire in two weeks. Equifax was the most unloved finance company in 2017."
-date:   2018-01-12 20:00:00 -0500
+date:   2018-01-12 18:00:00 -0500
 categories: [Healthcare, Cybersecurity]
 ---
 
@@ -31,4 +31,4 @@ Equifax admitted in September last year, that it had been hacked and that privat
 
 #### Our take
 
-Equifax is facing a federal investigation and a number of consumer lawsuits for the data breach. The number of complaints with the CFPB confirms that there is no end in sight to Equifax's problems. In the meantime, our data are somewhere...floating...in...the...cloud. 
+Equifax is facing a federal investigation and a number of consumer lawsuits for the data breach. The number of complaints with the CFPB confirms that there is no end in sight to Equifax's problems. In the meantime, our data are somewhere...floating...in...the...cloud.
