@@ -16,7 +16,7 @@ With $5.7 trillion under assets, BlackRock is the world's largest investor and t
 
 #### Our take
 
-BlackRock's call to action may be life-changing especially for companies that have long held the view that their only responsibility is to make money for shareholders. BlackRock is not a non-profit that they can ignore or an activist investor that they can overpower. BlackRock is one of them and is of the same fold. This may just be the big catalyst to make companies more responsible, because who wants to annoy the world's largest investor?
+BlackRock's call to action may be life-changing especially for companies that have long held the view that their only responsibility is to make money for shareholders. BlackRock is not a non-profit that they can ignore or an activist investor that they can overpower. This may just be the big catalyst to make companies more responsible, because who wants to annoy the world's largest investor?
 
 * * *
 <br />
