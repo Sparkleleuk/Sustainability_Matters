@@ -12,7 +12,7 @@ BlackRock, the world's largest investment manager by assets under management, ha
 
 #### Why does this matter?
 
-With $5.7 trillion under assets, BlackRock is the world's largest investor and therefore, has the market power to the challenge the status quo and drive change in corporate behavior. Remember when Milton Friedman said that "the social responsibility of business is to increase its profits"? Well, BlackRock CEO Lawrence Fink obviously thinks that it's passé. Touché.
+With $5.7 trillion under assets, BlackRock is the world's largest investor and therefore, has the market power to the challenge the status quo and drive change in corporate behavior. Remember when Milton Friedman said that "the social responsibility of business is to increase its profits"? Well, BlackRock CEO Lawrence Fink obviously thinks that it's passé. And companies are probably saying, touché.
 
 #### Our take
 
