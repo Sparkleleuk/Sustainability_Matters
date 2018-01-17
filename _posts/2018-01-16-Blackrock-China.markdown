@@ -12,11 +12,11 @@ BlackRock, the world's largest investment manager by assets under management, ha
 
 #### Why does this matter?
 
-With $5.7 trillion under assets, BlackRock is the world's largest investor and therefore, has the market power to the challenge the status quo and drive change in corporate behavior. Remember when Milton Friedman said that "the social responsibility of business is to increase its profits"? Well, BlackRock CEO Lawrence Fink obviously thinks that it's passé. And companies are probably saying, touché.
+With $5.7 trillion under assets, BlackRock is the world's largest investor and therefore, has the market power to challenge the status quo and drive change in corporate behavior. Remember when Milton Friedman said that "the social responsibility of business is to increase its profits"? Well, BlackRock CEO Lawrence Fink obviously thinks that it's passé. 
 
 #### Our take
 
-BlackRock's call to action may be life-changing especially for companies that have long held the view that their only responsibility is to make money for shareholders. BlackRock is not a non-profit that they can ignore or an activist investor that they can overpower. This may just be the big catalyst to make companies more responsible, because who wants to annoy the world's largest investor?
+Touché. That's what companies should be saying anyway. BlackRock's call to action confirms that the long held view of the role of business is no longer widely held and this can be life-changing for some old school companies. BlackRock is not a non-profit that they can ignore or an activist investor that they can overpower. It's a force to be reckoned with. The letter may just be the big catalyst to make companies more responsible, because who wants to annoy the world's largest investor?
 
 * * *
 <br />
