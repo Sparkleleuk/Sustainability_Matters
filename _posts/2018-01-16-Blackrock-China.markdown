@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Impact"
-excerpt: "World's largest investor calls on companies to have a positive societal impact."
+excerpt: "World's largest investor calls on companies to have a positive societal impact. East Asia Sea oil spill spreads."
 date:   2018-01-16 20:00:00 -0500
 categories: [Finance, CSR, Environment]
 ---
@@ -33,4 +33,4 @@ China's foreign ministry said it is <a href="http://www.cnn.com/2018/01/16/asia/
 
 Chinese scientists are looking into <a href="http://www.scmp.com/news/china/society/article/2128527/chinese-scientists-offer-three-possible-scenarios-east-china-sea" target="_blank">three possible scenarios</a>. First, that the oil slick would spread and strong winds and ocean currents would push it north all the way to the United States. A second scenario would be that the impacts would be localized and limited to the area around the East Asia Sea. A third scenario would be that the impacts would be negligible if the oil moves to the Pacific Ocean, where it can easily be diluted.
 
-Greenpeace, however, noted that the area is rich in fish and other aquatic species, and is on the migratory pathway of whales. The oil slick could endanger marine life and disrupt whales' migratory patterns, which may have long-term negative impacts on fish supply and biodiversity. Contamination also impacts the food chain. 
+Greenpeace, however, noted that the area is rich in fish and other aquatic species, and is on the migratory pathway of whales. The oil slick could endanger marine life and disrupt whales' migratory patterns, which may have long-term negative impacts on fish supply and biodiversity. Contamination also impacts the food chain.
