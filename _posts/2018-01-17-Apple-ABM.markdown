@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Homebound"
+excerpt: "Apple to repatriate offshore earnings and spend more in the US. Sexual misconduct reported in largest janitorial service company in the US."
+date:   2018-01-17 20:00:00 -0500
+categories: [Finance, CSR, Labor]
+---
+
+### Apple: Making things right again?
+
+Apple today <a href="https://www.apple.com/newsroom/2018/01/apple-accelerates-us-investment-and-job-creation/" target="_blank">announced</a> a number of measures to contribute to the US economy, including repatriating offshore earnings and paying tax on them, and spending more on its business and educational programs. Apple said it will bring back offshore earnings and pay $38 billion in taxes. It did not say how much of its offshore cash, <a href="https://www.reuters.com/article/us-apple-tax/apple-plans-new-u-s-campus-to-pay-38-billion-in-foreign-cash-taxes-idUSKBN1F62FJ" target="_blank">estimated at more than $252 billion</a>, is coming home. Apple also said it will spend $30 billion in the next five years through increased hiring, the development of another Apple campus in a new location, additional enhancements in its data centers, increasing financial support to suppliers in the US, and expanding its educational training programs. The company said it will create 20,000 more jobs through these investments. Finally, the company is <a href="https://www.bloomberg.com/news/articles/2018-01-17/apple-is-said-to-give-employees-2-500-bonuses-after-new-tax-law" target="_blank">issuing a bonus</a> of $2,500 worth of restricted stock units to its employees following tax cuts in the US.
+
+#### Welcome Home America
+
+Apple's announcement that it would repatriate offshore earnings comes just weeks after the Trump administration cut corporate tax rates from 35% to 20% under the Tax Cut and Jobs Act signed into law in December 2017. It suggests that Apple considers the tax cut attractive enough to start bringing back money and paying taxes on them. Or maybe it's just been feeling the heat. Apple had been named in the <a href="https://www.icij.org/investigations/paradise-papers/" target="_blank">Paradise Papers exposé</a>, which claimed that Apple has been <a href="http://www.bbc.com/news/world-us-canada-41889787" target="_blank">exploiting tax laws</a> in the US and Ireland and had moved its offshore cash to the Channel Island of Jersey. In 2016, the <a href="https://www.theguardian.com/business/2016/aug/30/apple-pay-back-taxes-eu-ruling-ireland-state-aid" target="_blank">European Commission ordered</a> the company to pay EUR 13 billion in back taxes. And back home, Apple is facing angry customers for purposely slowing down batteries of older phones without telling anybody.
+
+#### Our take
+
+Apple plans to directly contribute $350 billion to the US economy over five years is a big deal and could set off an arms race among technology companies for the "Which Company Can Do the Most Good" award. We'll bring out the popcorn and enjoy the movie.
+
+* * *
+<br />
+
+### Janitorial services company continues to face sexual misconduct allegations
+
+ABM Industries, the largest provider of janitorial services in the US, is facing <a href="https://www.pbs.org/wgbh/frontline/article/nations-largest-janitorial-company-faces-new-allegations-of-rape/" target="_blank">new allegations</a> of failing to act on sexual misconduct and rape. The latest allegations came despite commitments by ABM to prevent sexual violence on its female employees. At least three female employees filed a lawsuit against the company in the fall of 2017 over years of sexual harassment by their supervisors and what they perceive as inadequate response by the company. The women said they were threatened of being fired or deported if they complained openly.
+
+#### Why is this important?
+
+Since 2000, ABM has been sued three times by the federal government for failing to prevent sexual violence and each time, the company committed to make improvements. But the recent allegations indicate that these commitments have not been implemented or are inadequate. The failure of companies like ABM to make good on their commitments also has significant implications on workers because victims are typically women with limited resources and are forced to stay quiet to keep badly needed jobs.
+
+#### Our take
+
+Be kind to your office cleaners.
