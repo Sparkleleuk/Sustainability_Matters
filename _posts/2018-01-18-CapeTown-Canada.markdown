@@ -35,4 +35,4 @@ Canada is a resource-based economy with a number of large extractive companies o
 
 #### Our take
 
-Independent, third-party monitoring is important in making sure that companies are doing what they say they are doing. Thus, this watchdog could be an important catalyst to improving corporate behavior.
+Independent, third-party monitoring is important in making sure that companies are doing what they say they are doing. Thus, this watchdog could be an important driver for meaningful improvements in corporate behavior. 
