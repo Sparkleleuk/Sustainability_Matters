@@ -20,7 +20,7 @@ Are up and running. Cape Town earlier cut the water allowance to 87 liters and b
 
 #### Our take
 
-Scientists say the drought is a <a href="http://www.aljazeera.com/news/2018/01/extreme-drought-grips-parts-south-africa-180118092847342.html" target="_blank">"once in a millennium event"</a>. The drought is consistent with the <a href="https://climate.nasa.gov/vital-signs/global-temperature/" target="_blank">continuing rise in global temperatures</a>. As South Africa goes dry, temperatures in Australia are pushing 40 Celsius (104 Fahrenheit). Is there still any doubt that climate change is real?
+Scientists say the drought is a <a href="http://www.aljazeera.com/news/2018/01/extreme-drought-grips-parts-south-africa-180118092847342.html" target="_blank">"once in a millennium event"</a>. The drought is consistent with the <a href="https://climate.nasa.gov/vital-signs/global-temperature/" target="_blank">continuing rise in global temperatures</a>. As South Africa goes dry, temperatures in Australia are pushing past 40 Celsius (104 Fahrenheit). Is there still any doubt that climate change is real?
 
 * * *
 <br />
