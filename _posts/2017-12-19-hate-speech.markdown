@@ -3,7 +3,7 @@ layout: post
 title:  "Love, Not Hate"
 excerpt: "Social media companies are still under fire for extremist content. Budget airline Ryanair recognizes labor unions."
 date:   2017-12-19 19:00:00 -0500
-categories: [Human Rights, Labor, CSR]
+categories: [Human Rights, Labor, CSR, Privacy]
 ---
 
 ### Tech firms still face pressure on hate speech

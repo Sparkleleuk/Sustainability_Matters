@@ -3,7 +3,7 @@ layout: post
 title:  "Expiration"
 excerpt: "Opioid emergency declaration is set to expire in two weeks. Equifax was the most unloved  finance company in 2017."
 date:   2018-01-12 18:00:00 -0500
-categories: [Healthcare, Cybersecurity]
+categories: [Healthcare, Privacy]
 ---
 
 ### Opioid emergency expires in two weeks

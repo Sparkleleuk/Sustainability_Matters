@@ -3,7 +3,7 @@ layout: post
 title:  "Hacked?"
 excerpt: "India's massive biometric database appears to have been breached."
 date:   2018-01-05 20:00:00 -0500
-categories: [Cybersecurity]
+categories: [Privacy]
 ---
 
 ### India's biometric database may have been breached
