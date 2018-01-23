@@ -3,7 +3,7 @@ layout: post
 title:  "Full Stop"
 excerpt: "Lloyds of London to stop investing in coal companies. State of Montana requires net neutrality by internet providers."
 date:   2018-01-22 20:00:00 -0500
-categories: [CSR, Privacy, Human Rights]
+categories: [CSR, Privacy, Human Rights, Finance]
 ---
 
 ### World's oldest insurance market won't invest in coal anymore
