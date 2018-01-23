@@ -8,7 +8,7 @@ categories: [CSR, Privacy, Human Rights, Finance]
 
 ### World's oldest insurance market won't invest in coal anymore
 
-Lloyd's of London has announced it will no longer invest in coal. The world's oldest insurance market joins a number of asset managers and owners in the United Kingdom, which have excluded coal companies in its investment decisions. Lloyd's is not an insurance company and does not underwrite insurance policies. Inga Beale, Lloyd’s of London chief executive <a href="https://www.theguardian.com/business/2018/jan/21/lloyds-of-london-to-divest-from-coal-over-climate-change" target="_blank">told The Guardian</a>, that the decision means "that in the areas of our portfolio where we can directly influence investment decisions we will avoid investing in companies that are involved mainly in coal.” The strategy takes effect on April 1st.
+Lloyd's of London has announced it will no longer invest in coal. The world's oldest insurance market joins a number of asset managers and owners in the United Kingdom, which have excluded coal companies from investment portfolios. Lloyd's is not an insurance company and does not underwrite insurance policies, but like insurance companies, it manages assets that are invested in the capital markets. Inga Beale, Lloyd’s of London chief executive <a href="https://www.theguardian.com/business/2018/jan/21/lloyds-of-london-to-divest-from-coal-over-climate-change" target="_blank">told The Guardian</a>, that the decision means "that in the areas of our portfolio where we can directly influence investment decisions we will avoid investing in companies that are involved mainly in coal.” The strategy takes effect on April 1st.
 
 #### It's not an April Fool's joke
 
