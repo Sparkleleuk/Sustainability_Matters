@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Rollback"
+excerpt: "EPA rolls back provisions for 'major sources' of pollution."
+date:   2018-01-25 20:00:00 -0500
+categories: [Environment]
+---
+
+### EPA says eases rules for "major sources" of pollution
+
+The US Environmental Pollution Agency (EPA) today <a href="https://www.epa.gov/newsreleases/reducing-regulatory-burdens-epa-withdraws-once-always-policy-major-sources-under-clean" target="_blank">announced</a> it has withdrawn a provision in the Clean Air Act  that permanently classifies "major sources" of pollution as "major". According to the <a href="https://www3.epa.gov/airtoxics/112a_def.html" target="_blank">Clean Air Act</a>, "major sources" are classified as those that "emit or has the potential  to emit considering controls, in the aggregate, 10 tons per year or  more of any hazardous air pollutant  or 25 tons  per  year or  more of  any  combination of  hazardous air pollutants." These sources, such as power plants and mines, are subject to higher emissions reduction standards or the <a href="http://www.epa.ohio.gov/dapc/mact/mactmain.aspx" target="_blank">MACT standards</a>. But effective today, "major sources" may be reclassified as "area sources" (classified as sources that emit less than 10 tons per year) after implementing emissions reduction.
+
+#### What does this mean?
+
+This means that if, say, a power plant says it has implemented efforts to reduce its emissions of pollutants, it can be reclassified as an "area source", which is subject to lower pollution control standards. This amendment has long been demanded by utilities and oil and gas companies. The EPA said the withdrawal reduces regulatory burden on industries and states. Environmental advocates, like the National Resources Defense Council (NRDC) <a href="https://www.reuters.com/article/us-usa-trump-epa/epa-reverses-policy-on-major-sources-of-pollution-idUSKBN1FF077" target="_blank">said</a> the decision is "dangerous" and "drastically weakens protective limits on air pollutants".
+
+#### Our take
+
+Things are really looking bad on the environmental front. The Trump administration has been busy rolling back environmental regulations set by previous governments, rolling back 23 environmental rules in his first 100 days, <a href="https://www.nytimes.com/interactive/2017/05/02/climate/environmental-rules-reversed-trump-100-days.html" target="_blank">according to the New York Times</a>. This latest act by an agency that has been severely defanged, effectively lowers pollutant emissions reduction standards over time. In layman's term, air quality is likely to decline, increasing risks to human health, especially those living near the sources of pollutants. 
