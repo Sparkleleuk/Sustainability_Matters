@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Going After Fakes"
-excerpt: "Britain forms committee to fight fake news. New York governor also defies FCC on net neutrality."
+excerpt: "Britain forms committee to fight fake news. Net neutrality gets new allies."
 date:   2018-01-24 19:00:00 -0500
 categories: [Privacy, Human Rights]
 ---
