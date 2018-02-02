@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Contamination"
+excerpt: "French baby milk recalled over salmonella contamination."
+date:   2018-01-31 19:00:00 -0500
+categories: [Ethics, CSR]
+---
+
+### Recalled baby milk in France may have been contaminated since '05
+
+French dairy group, Lactalis, which recalled thousands of cartons of it powdered baby milk last year, today <a href="http://www.bbc.com/news/world-europe-42908706" target="_blank">admitted</a> that the milk may have been contaminated by salmonella since 2005. Lactalis milk, which has been linked to at least 38 cases of child illness last year, was produced in the same factory in northwestern France, which was linked to an outbreak in 2005. That outbreak resulted in the illness of at least 146 children.
+
+#### Take a step back
+
+Last year, Lactalis recalled approximately 7,000 boxes of powdered milk from more than 80 countries following complaints of children getting sick after drinking milk. The company <a href="https://www.nytimes.com/2018/02/01/business/france-baby-formula-lactalis.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront" target="_blank">reportedly</a> found traces of salmonella in its main factory in Craon in August and also in November but did not report its findings to regulators. Researchers said the salmonella that had contaminated milk in 2005 may have remained in the factory, exposing milk produced in that factory for more than 10 years. Lactalis bought the factory in 2006 but closed it in December 2017. The Lactalis case has raised a ruckus in France, and for good reason. The French government is investigating the company and has threatened to penalize retailers that continue to sell Lactalis milk.
+
+#### Why does this matter?
+
+Because companies should make sure that their products don't harm their own customers. If they do, then it reflects, at the very least, poor quality assurance. It's even worse if the company knew or suspected that something was wrong and continued to sell the product anyway. That's just plain wrong.
