@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Extensions"
-excerpt: "New Senate bill extends tax credits for renewable energy sources. But not for long."
+excerpt: "New Senate bill extends tax credits for renewable energy sources, but not for long. California to resist offshore drilling. And our quote of the day is from EPA head Scott Pruitt."
 date:   2018-02-08 18:00:00 -0500
 categories: [Environment]
 ---
