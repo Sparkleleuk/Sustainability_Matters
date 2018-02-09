@@ -38,7 +38,7 @@ California's plan may just be the blueprint for resisting offshore drilling. If 
 
 * * *
 <br />
-**BEFORE YOU GO**
+**BEFORE YOU GO...**
 
 #### **Quote of the day: "Global warming is not necessarily a bad thing"**
 
