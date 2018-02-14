@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Untrusted"
+excerpt: "German court rules against Facebook's default privacy settings as Unilever puts social media sites on notice."
+date:   2018-02-13 20:00:00 -0500
+categories: [Privacy]
+---
+
+### Facebook's default privacy settings found wanting
+
+A German court has <a href="https://techcrunch.com/2018/02/13/german-court-finds-fault-with-facebooks-default-privacy-settings/" target="_blank">ruled</a> that Facebook's default privacy settings and some of its terms and conditions breached local laws. In its decision, the court sided with a consumer rights association, <a href="http://en.vzbv.de/" target="_blank">vzbv</a>, which filed a legal action against the social media site in 2015. The group claimed that the default privacy settings breach local consent rules by failing to provide sufficient information for the company to gather "informed consent" from users. The court also ruled that Facebook's policy for users to use their real names is unlawful. The vzbv has noted that the policy was a "covert" way of obtaining users' consent to the use of this data.
+
+#### Meanwhile...
+
+Unilever's chief of marketing was <a href="http://www.cbc.ca/news/business/unilever-google-facebook-ads-social-media-1.4531777" target="_blank">reported</a> to have warned social media companies that the consumer goods giant would pull out advertising from platforms that fail to police its content. Keith Weed's speech at an advertising conference on February 12 reportedly stated that "Unilever will not invest in platforms or environments that do not protect our children or which create division in society, and promote anger or hate."
+
+#### Why do these matter?
+
+Because many of us are users of social media, with our personal information feeding algorithms that allow social media sites to flourish. Social media companies have been <a href="https://www.sustainabilitymatters.info/human%20rights/labor/csr/privacy/2017/12/19/hate-speech.html" target="_blank">under pressure</a> over a number of issues from privacy of users to quality of content. They have been accused of having grown and grown with little regard for the privacy of users, and how their platforms are being used for negative ends. Ergo, that harmless selfie number 134 you posted this week? It doesn't just annoy your friends, it adds to the mountain of information that social media sites have built on you behind the scenes, and you don't even know it.
+
+#### Our take
+
+The ruling in Germany is just one of the many setbacks that Facebook has experienced in Europe in recent years. These cases show that the days where Silicon Valley can essentially do as it pleases are over, and the risk of regulatory backlash now looms larger than ever. But it's not just government that social media companies have to worry about. Unilever's warning, which came a year after Procter & Gamble's threat, is a BFD. Social media sites rely on advertising to keep going and consumer goods companies are some of the biggest ad spenders. The backlash could cost them millions of dollars in ad revenues. Ouch.  
+
+* * *
+<br />
+
+**BEFORE YOU GO...**
+
+#### **Quote of the day: "There's no question of ability; it's the question of willingness."**
+
+"The (tech) companies need to be careful that they're not ... advocating things that would prevent government from being able to, under appropriate review, perform the type of functions that we've come to count on." ~ Bill Gates, founder of Microsoft Corp. <a href="https://www.axios.com/bill-gates-warns-big-tech-1518515340-fa3aa353-6078-405b-b3aa-8252bd06c1fc.html" target="_blank">Read it to believe it</a>.
