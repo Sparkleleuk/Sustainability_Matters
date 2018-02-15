@@ -20,7 +20,7 @@ A 19-year-old man <a href="https://www.nbcnews.com/news/us-news/police-respond-s
 
 #### Our take
 
-The decline in gun sales (we think this is temporary though) does not, ironically, signal reduced threat from gun-related crime. Instead, it signals that guns are here to stay and that gun ownership is alive and well. So there is no end in sight to gun-related tragedies.
+The decline in gun sales (we think this is temporary though) does not, ironically, signal reduced threat from gun-related crime. Instead, it signals that guns are here to stay and that gun ownership, whether responsible or irresponsible, is alive and well. And mass shootings continue to be a staple of American life. This is truly one of the great ironies of the American dream. 
 
 * * *
 <br />
