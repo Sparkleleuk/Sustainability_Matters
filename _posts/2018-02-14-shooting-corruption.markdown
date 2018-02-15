@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tragedy"
+title:  "Irony"
 excerpt: "Gunmaker to file for bankruptcy but mass shootings continue anyway. Norwegian fund urges firms to fight corruption."
 date:   2018-02-14 20:00:00 -0500
 categories: [Human Rights, Ethics, Finance]
@@ -20,7 +20,7 @@ A 19-year-old man <a href="https://www.nbcnews.com/news/us-news/police-respond-s
 
 #### Our take
 
-The decline in gun sales (we think this is temporary though) does not, ironically, signal reduced threat from gun-related crime. Instead, it signals that guns are here to stay and that gun ownership, whether responsible or irresponsible, is alive and well. And mass shootings continue to be a staple of American life. This is truly one of the great ironies of the American dream. 
+The decline in gun sales (we think this is temporary though) does not, ironically, signal reduced threat from gun-related crime. Instead, it signals that guns are here to stay and that gun ownership, whether responsible or irresponsible, is alive and well. And mass shootings continue to be a staple of American life. This is truly one of the great ironies in America today.  
 
 * * *
 <br />
