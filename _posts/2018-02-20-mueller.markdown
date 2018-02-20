@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "The New WMDs?"
+excerpt: "Mueller team points to Facebook, Twitter, Instagram, YouTube as weapons of choice for Russian trolls."
+date:   2018-02-20 12:00:00 -0500
+categories: [Privacy]
+---
+
+### Mueller indictment hits social media companies
+
+No American was named in Special Counsel Robert Mueller's <a href="https://www.justice.gov/file/1035477/download" target="_blank">indictment</a> but social media companies such as Facebook, Google and Twitter received scathing criticism for failing to police their platforms from Russian trolls and bots. Mueller's team indicted 13 Russian parties last week for "knowingly and intentionally conspired with each other (and with persons known and unknown to the Grand Jury) to defraud the United States by impairing, obstructing, and defeating the lawful functions of the government through fraud and deceit for the purpose of interfering with the U.S. political and electoral processes, including the presidential election of 2016."
+
+#### The weapons of mass destruction?
+
+The indictment noted that Russian media companies, including the notorious Internet Research Agency, used social media platforms to carry out activities that interfered with the US political process and promoted President Trump in the 2016 elections. They opened social media accounts and groups, posted political events, and bought advertisements to promote political positions, including undermining Hillary Clinton's campaign. According to Mueller's team, Facebook was the weapon of choice and indeed, it was mentioned in the indictment 35 times. Instagram, a Facebook site, was mentioned six times, Twitter nine times, and YouTube once. We know, we did a word search.
+
+#### Why does this matter?
+
+The indictment confirms what many of us have known all along, that social media sites had been blasé about policing their platforms from hackers, trolls and bots, and in the process helped undermine  political processes not just in the US but in other parts of the world. For the longest time, social media companies have argued that they merely operate a platform to connect people and cannot be held responsible for content. But this indictment presents the clearest evidence to date that this line of argument does not sit well with the government. Their inaction effectively made them complicit with foreign interference in American affairs and while they escaped downright indictment by Mueller, they are incriminated AF. What happens next is a good question but we think this raises the risk of government intervention and possibly regulation.
+
+#### Our take
+
+Facebook and other social media companies' business model relies on habits, and for something to become a habit, users need to trust it. The absence of trust can, therefore, pose an existential threat on these companies. And it does not help that Facebook's vice president for ads, Rob Goldman, went on a <a href="https://www.wired.com/story/facebook-executive-rob-goldman-apologizes-to-company-and-robert-mueller" target="_blank">Tweet storm</a> over the weekend to, well, defend Facebook. Guess some people just don't know when to STFU.
