@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Cut the Middlemen"
+excerpt: "Apple reportedly planning to buy cobalt directly from miners. 3M settles eight-year water contamination lawsuit in Minnesota."
+date:   2018-02-21 20:00:00 -0500
+categories: [Human Rights, Environment]
+---
+
+### Apple, the cobalt buyer
+
+Apple is <a href="https://www.bloomberg.com/news/articles/2018-02-21/apple-is-said-to-negotiate-buying-cobalt-direct-from-miners" target ="_blank">reportedly planning</a> to buy cobalt directly from buyers, to ensure long-term supply of this mineral for its smartphones. Bloomberg quoted a source who said that Apple is "seeking contracts to secure several thousand metric tons of cobalt a year for five years or longer".
+
+#### Why would Apple want to do that?
+
+Apple has relied on makers of its batteries to buy cobalt but if this report is true, then it has decided to take things into its own hands. Cobalt is the essential mineral for lithium-ion batteries. This means that Apple is in competition not just with other smartphone companies but with electric car makers for cobalt. And because electric cars are forecasted to be the next big thing, Apple is understandably threatened.
+
+#### Why does this matter?
+
+Because, conflict minerals. While cobalt is not among the most common conflict minerals (tin, tungsten, tantalum and gold ore), cobalt has its own social issues. Cobalt is <a href="https://www.washingtonpost.com/graphics/business/batteries/congo-cobalt-mining-for-lithium-ion-battery/" target="_blank">mined by adults and children</a> alike in dangerous conditions in countries like the Congo, where an estimated 60% of the world's cobalt supply comes from. Apple is no stranger to this problem though. Media reports have linked cobalt in its supply chain to mines with child workers. Apple had to ask its suppliers to stop buying cobalt from these mines. It also had to say, ok, cobalt is a conflict mineral.
+
+#### Our take
+
+By buying directly from miners, Apple becomes even more responsible for its supply chain. It can't pass the buck to its battery suppliers, or say, we had no idea. So, it's a risk that Apple must be willing to take.
+
+* * *
+<br />
+
+### 3M settles water pollution lawsuit
+
+3M Company has <a href="https://www.ecowatch.com/3m-lawsuit-minnesota-2537620198.html" target="_blank">settled an eight-year lawsuit</a> on water pollution in Minnesota. 3M offered to settle the lawsuit for $850 million. The settlement will fund projects to improve the quality of drinking water in the state.
+
+#### Remind me again
+
+Minnesota Attorney General Lori Swanson sued 3M in 2010 for contaminating the state's water supply from 1950 to the early 2000s. 3M dumped waste from the production of PFCs in the ground and the Mississippi River. The company stopped PFC production in 2002 but the chemicals continued to pose a risk to human health and wildlife. The state claimed damages worth $5 billion, the largest water pollution case in the state.
+
+#### Why does this matter?
+
+By settling, 3M knew it was not going to win this legal battle. It is not an admission of guilt in the legal sense, but it is the closest to the company's acknowledgement that it had done something wrong. If the settlement is good enough for Erin Brockovich, it's good enough for us.
