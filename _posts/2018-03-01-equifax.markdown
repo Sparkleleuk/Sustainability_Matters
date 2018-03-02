@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Double Jeopardy"
+excerpt: "Equifax reveals more than 2 million addition victims of 2017 hack."
+date:   2018-03-01 20:00:00 -0500
+categories: [Privacy]
+---
+
+### Equifax says data of 2.4 million more US residents are compromised
+
+Credit bureau Equifax Inc. today revealed that information by an additional 2.4 million Americans had been stolen by hackers in a breach on the company's database last year. But 2.4 million victims had less data stolen; hackers made off with their names and partial driver's license numbers. The 2.4 million were discovered after Equifax <a href="https://www.cnbc.com/2018/03/01/equifax-finds-additional-2-point-4-million-impacted-by-2017-breach.html" target="_blank">cross-referenced</a> names with partial driver's license numbers.
+
+#### Rewind, replay
+
+Equifax's database was hacked in 2017, compromising sensitive and critical personal information of an estimated 145.5 million US residents. Hackers stole the social security numbers of the victims, which puts all victims at risk of identity theft. The hack was the largest breach of personal information so far. What made the situation worse was Equifax's failure to immediately disclose the breach, only doing so a three months after the incident.
+
+#### The aftermath
+
+Has not been pretty. Equifax is facing customer lawsuits for negligence and other violations, and it received the most number of <a href="https://www.sustainabilitymatters.info/healthcare/privacy/2018/01/12/opioids-equifax.html" target="_blank">consumer complaints</a> in 49 US states in 2017. It is also under congressional investigation for all these faults. In a regulatory filing, the company warned investors that it could <a href="https://www.bloomberg.com/news/articles/2018-03-02/equifax-says-it-may-lose-access-to-some-card-data-over-breach" target="_blank">lose certifications</a> that would allow it to accept credit and debit card payments if it fails to address its information security weaknesses.  
+
+#### Our take
+
+The latest discovery of 2.4 million victims only exacerbates the severity of the hack. But Equifax has not been held fully accountable for this breach. Reports indicate that the Consumer Financial Protection Bureau (CFPB) <a href="https://www.reuters.com/article/us-usa-equifax-cfpb/exclusive-u-s-consumer-protection-official-puts-equifax-probe-on-ice-sources-idUSKBN1FP0IZ" target="_blank">may have suspended or slowed down</a> its investigation of the company. And you might be surprised that the company reported a 40% increase in profit for the last quarter of 2017, exceeding expectations by financial analysts. Something doesn't add up.
