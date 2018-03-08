@@ -19,7 +19,7 @@ Because for the longest time, corporate America was dominated by white men. Corp
 
 #### Our take
 
-Sure, it is entirely possible that some companies appointed women to check the diversity box. Some may have done it to get investors off their case. But whatever their reasons are, the ship has sailed and it is clear that women are getting more representation in corporate boards. Now it's up to these women to seize the opportunity to be heard and leave a mark. 
+Sure, it is entirely possible that some companies appointed women to check the diversity box. Some may have done it to get investors off their case. But whatever their reasons are, the ship has sailed and it is clear that women are getting more representation in corporate boards. Now it's up to these women to seize the opportunity to be heard and leave their mark. 
 
 #### P.S.
 
