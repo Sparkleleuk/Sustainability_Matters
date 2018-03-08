@@ -15,7 +15,11 @@ According to State Street, a large Boston-based investment manager, there are mo
 
 #### Why does this matter?
 
-Because for the longest time, corporate America was dominated by white men. Corporate boards were ran by people who think, talk and walk alike, leaving no room for alternative views and insights from people with different experiences and viewpoints. An all-male squad may have been the dream team in the 1950s, but it won't make the cut in today's more globalized economic environment.
+Because for the longest time, corporate America was dominated by white men. Corporate boards were ran by people who think, talk and walk alike, leaving no room for alternative views and insights from people with different experiences and viewpoints. An all-male squad may have been the dream team in the 1950s, but it won't make the cut in today's more globalized economic environment. This trend also shows that pressure by investment managers representing trillions of dollars in capital is finally working. Investors have been pushing for gender diversity in the board for nearly a decade under the firm belief that diversity is critical to protecting shareholder value. Investors can give themselves a pat in the back for this big win
+
+#### Our take
+
+Sure, it is entirely possible that some companies appointed women to check the diversity box. Some may have done it to get investors off their case. But whatever their reasons are, the ship has sailed and it is clear that women are getting more representation in corporate boards. Now it's up to these women to seize the opportunity to be heard and leave a mark. 
 
 #### P.S.
 
