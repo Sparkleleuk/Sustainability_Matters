@@ -7,11 +7,11 @@ categories: [Labor]
 
 ### New program directs employers to self-report labor violations
 
-The Department of Labor (DOL) today announced a new <a href="http://thehill.com/regulation/labor/377032-labor-department-launches-pilot-program-to-allow-businesses-to-self-report" target="_blank">pilot program</a> that allows business owners to self-report potential overtime and wage violations. The DOL rolled out the Payroll Audit Independent Determination (PAID) system, a self-auditing program for businesses, to resolve worker claims over unpaid overtime and minimum wage obligations under the Fair Labor Standards Act (FLSA) without litigation.
+The Department of Labor (DOL) today announced a new <a href="http://thehill.com/regulation/labor/377032-labor-department-launches-pilot-program-to-allow-businesses-to-self-report" target="_blank">pilot program</a> that allows business owners to self-report potential overtime and wage violations. The DOL rolled out the Payroll Audit Independent Determination (PAID) system, a self-auditing program for businesses, to resolve worker claims over unpaid overtime and minimum wage obligations under the Fair Labor Standards Act (FLSA), without litigation.
 
 #### What’s the DOL saying?
 
-Labor Secretary Alexander Acosta said the program provides employers a simple way to voluntarily come forward if they think they violated the FLSA and pay back wages. Companies that do will not have to pay civil monetary penalties as they would if the DOL investigates a labor complaint and finds the employer in violation. Employers currently under investigation and litigation will not be allowed to participate in the program.
+Labor Secretary Alexander Acosta said the program provides employers a simple way to voluntarily come forward if they think they violated the FLSA and pay back wages. Companies that do so will not have to pay civil monetary penalties as they would if the DOL investigates a labor complaint and finds the employer in violation. Employers currently under investigation and litigation will not be allowed to participate in the program.
 
 #### And what about businesses?
 
@@ -19,7 +19,7 @@ Of course they like it. Job Creators Network CEO Alfredo Ortiz said this is a �
 
 #### Our take
 
-We may be missing something here but doesn’t self-reporting and violation sound like an oxymoron to you? We’re thinking this program is a form of amnesty, not a way to ensure compliance. It’s the same way the IRS gives you a chance to pay your back taxes so you don’t go to jail. But unlike the IRS, which won't be as forgiving the next time you "forget" to pay taxes, the DOL seems to allow employers to commit the same violation again and again as long as it reports its violation. We’re taking this with a grain of salt. And raised eyebrows.
+We may be missing something here but doesn’t self-reporting and violation sound like an oxymoron to you? We’re thinking this program is a form of amnesty, not a way to ensure compliance. It’s the same way the IRS gives you a chance to pay your back taxes so you don’t go to jail. But unlike the IRS, which won't be as forgiving the next time you "forget" to pay taxes, the DOL seems to allow employers to commit the same violation again and again as long as they report violations. We’re taking this with a grain of salt. And raised eyebrows.
 
 * * *
 <br />

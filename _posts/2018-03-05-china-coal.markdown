@@ -7,7 +7,7 @@ categories: [Environment]
 
 ### China wants to beat smog by cutting coal and steel production
 
-China's state planning body today said it will <a href="https://www.reuters.com/article/us-china-parliament-steel-coal/china-to-cut-more-coal-steel-output-to-defend-blue-skies-idUSKBN1GH034" target="_blank">reduce coal output and steep production in 2018</a> to reduce pollution. The National Development and Reform Commission (NDRC) stated in a report that it will reduce coal output by approximately 150 million tons (or 3.47% of 2017 output of 3.45 billion tons) and steel by 30 million tons (or 3.8% of 2017 output of 832 million tons).
+China's state planning body today said it will <a href="https://www.reuters.com/article/us-china-parliament-steel-coal/china-to-cut-more-coal-steel-output-to-defend-blue-skies-idUSKBN1GH034" target="_blank">reduce coal output and steel production in 2018</a> to reduce pollution. The National Development and Reform Commission (NDRC) stated in a report that it will reduce coal output by approximately 150 million tons (or 3.47% of 2017 output of 3.45 billion tons) and steel by 30 million tons (or 3.8% of 2017 output of 832 million tons).
 
 #### Give me the context
 
