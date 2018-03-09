@@ -19,4 +19,4 @@ Because this request is unprecedented and gives both sides an opportunity to pre
 
 #### Our take
 
-We think so too as well. It's about time that climate change is discussed in a wider context, and that all parties present the best possible evidence they have to support their position.
+We think so too. It's about time that climate change is discussed in a wider context with real evidence presented by all parties. It's time we move past the fake news on a topic with grave consequences for everyone. 
