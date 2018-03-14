@@ -12,11 +12,11 @@ asking the Supreme Court</a> to review a blanket mining ban on public lands next
 
 #### Throwback Monday
 
-The <a href="https://www.blm.gov/or/regulations/files/FLPMA.pdf" target="_blank">Federal Land Policy and Management Act of 1976</a> gives the Department of Interior the mandate to manage public lands including national parks and national monuments. Mining is generally banned from public lands near national monuments. The Interior Department imposed a <a href="https://www.npr.org/sections/thetwo-way/2012/01/09/144912580/20-year-ban-put-on-mining-claims-near-grand-canyon" target="_blank">20-year mining ban</a> covering 1 million acres of public land next to the Grand Canyon in 2012 because of the risk that mining operations would contaminate the Colorado River,  a major source of drinking water. A federal court <a href="https://www.reuters.com/article/us-usa-mining-grandcanyon/u-s-court-upholds-grand-canyon-uranium-mining-ban-but-allows-mine-nearby-idUSKBN1E62LO" target="_blank">upheld the ban</a> in December 2017.
+The <a href="https://www.blm.gov/or/regulations/files/FLPMA.pdf" target="_blank">Federal Land Policy and Management Act of 1976</a> gives the Department of Interior the mandate to manage public lands including national parks and national monuments. Mining is generally banned in public lands near national monuments. The Interior Department imposed a <a href="https://www.npr.org/sections/thetwo-way/2012/01/09/144912580/20-year-ban-put-on-mining-claims-near-grand-canyon" target="_blank">20-year mining ban</a> covering 1 million acres of public land next to the Grand Canyon in 2012 because of the risk that mining operations would contaminate the Colorado River,  a major source of drinking water. A federal court <a href="https://www.reuters.com/article/us-usa-mining-grandcanyon/u-s-court-upholds-grand-canyon-uranium-mining-ban-but-allows-mine-nearby-idUSKBN1E62LO" target="_blank">upheld the ban</a> in December 2017.
 
 #### Why does this matter?
 
-Public lands in southern Utah have historically been rich in uranium, but is also home to American Indian tribes. National parks and contiguous lands are protected from resource extraction to prevent environmental damage and preserve areas that are sacred to the native tribes. The mining industry has sought to have the ban on uranium mining near the Grand Canyon lifted, but has faced roadblocks in court.
+Public lands in southern Utah have historically been rich in uranium, but is also home to American Indian tribes. National parks and contiguous lands are protected from resource extraction to prevent environmental damage as well as preserve areas that are sacred to the native tribes. The mining industry has sought to have the ban on uranium mining near the Grand Canyon lifted, but has faced roadblocks in court.
 
 #### Our take
 
@@ -31,7 +31,7 @@ Two drug companies, Regeneron Pharmaceuticals and Sanofi, have announced that th
 
 #### Why does this matter?
 
-Because highly priced drugs affect access to critical drugs of all but the wealthiest Americans, and insurance companies have been rejecting claims for some of these drugs, including Praluent. Yet recent clinical trial results for Praluent showed that it helps reduce the risk of a heart attack, stroke and other cardiovascular problems by 24%. The decision to cut prices in exchange for access puts the ball on the insurance industry's court. We think this could be a gamechanger in increasing access to healthcare. 
+Because highly priced drugs affect access to critical drugs for all but the wealthiest Americans, and insurance companies have been rejecting claims for some of these drugs, including Praluent. Yet recent clinical trial results for Praluent showed that it helps reduce the risk of a heart attack, stroke and other cardiovascular problems by 24%. The decision to cut prices in exchange for access puts the ball on the insurance industry's court. We think this could be a gamechanger in increasing access to healthcare.
 
 * * *
 <br />
