@@ -3,7 +3,7 @@ layout: post
 title:  "End of the Bromance"
 excerpt: "Former employee sues Google for sexual harassment. Two retailers change retail policies on guns."
 date:   2018-02-28 20:00:00 -0500
-categories: [Diversity, Human Rights ]
+categories: [Diversity, Human Rights]
 ---
 
 ### Former Googler says she was repeatedly sexually harassed
@@ -20,7 +20,7 @@ Google says it has "strong policies" against harassment, that it reviews "every 
 
 #### Our take
 
-The accusations against Google fit a pattern of allegations against Silicon Valley companies. The tech industry has been accused of promoting a "bro" culture that in many ways, tolerates inappropriate behavior against women. Think Uber under former CEO Travis Kalanick. While it may not end up experiencing Uber's woes (we can't just boycott Google and Gmail after all) it is facing a watershed moment and all these allegations could end up hurting the company more than it thinks they can. Google campuses may seem like  a playground for young professionals, but it's not all fun and games in Google. 
+The accusations against Google fit a pattern of allegations against Silicon Valley companies. The tech industry has been accused of promoting a "bro" culture that in many ways, tolerates inappropriate behavior against women. Think Uber under former CEO Travis Kalanick. While it may not end up experiencing Uber's woes (we can't just boycott Google and Gmail after all) it is facing a watershed moment and all these allegations could end up hurting the company more than it thinks they can. Google campuses may seem like  a playground for young professionals, but it's not all fun and games in Google.
 
 * * *
 <br />

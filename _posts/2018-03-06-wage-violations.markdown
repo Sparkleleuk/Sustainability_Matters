@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oxymoron"
-excerpt: "Department of Labor pilots self-reporting system for wage violations."
+excerpt: "Department of Labor pilots self-reporting system for wage violations. Our quote of the day is from Michael Bloomberg on climate change and President Trump."
 categories: [Labor]
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Level Up"
-excerpt: "The number of male-only corporate boards drops."
-categories: [Diversity]
+excerpt: "The number of male-only corporate boards drops. Plus our quote of the day on Wells Fargo and lending to gun makers."
+categories: [Diversity, Human Rights]
 ---
 
 ### US corporate boardrooms becoming more diverse
@@ -32,4 +32,4 @@ Interestingly, the Bloomberg chart shows that the number of all-male corporate b
 
 #### **Quote of the day: When you say nothing at all**
 
-“Any solutions on how to address this epidemic will be complicated. This is why our company believes the best way to make progress on these issues is through the political and legislative process. We plan to engage our customers that legally manufacture firearms and other stakeholders on what we can do together to promote better gun safety for our communities.” - Statement from Wells Fargo, reacting to a <a href="https://www.bloomberg.com/news/articles/2018-03-07/nra-s-banker-wells-fargo-climbs-to-top-of-gunmaker-debt-market" target="_blank">Bloomberg report</a> that it has arranged the largest amount of loans for gun manufacturers since 2012. 
+“Any solutions on how to address this epidemic will be complicated. This is why our company believes the best way to make progress on these issues is through the political and legislative process. We plan to engage our customers that legally manufacture firearms and other stakeholders on what we can do together to promote better gun safety for our communities.” - Statement from Wells Fargo, reacting to a <a href="https://www.bloomberg.com/news/articles/2018-03-07/nra-s-banker-wells-fargo-climbs-to-top-of-gunmaker-debt-market" target="_blank">Bloomberg report</a> that it has arranged the largest amount of loans for gun manufacturers since 2012.

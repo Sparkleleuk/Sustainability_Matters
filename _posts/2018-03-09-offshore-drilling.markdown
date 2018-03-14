@@ -2,7 +2,7 @@
 layout: post
 title:  "Show Me the Money"
 excerpt: "Oil industry says offshore drilling could bring in $590 billion to the US economy in two decades. On our reading list is a groundbreaking study on fake news and how much faster it travels than real news."
-categories: [Environment]
+categories: [Environment, Human Rights]
 ---
 
 ### Oil industry shows the money

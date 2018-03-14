@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Make the Skies Blue Again"
-excerpt: "China to cut coal and steel production to reduce pollution."
+excerpt: "China to cut coal and steel production to reduce pollution. Our quotes of the day are from Facebook's survey."
 categories: [Environment]
 ---
 
