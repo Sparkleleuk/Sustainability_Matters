@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Data for Sale"
+excerpt: "Facebook under fire for the use of users' data by Trump campaign without consent. On our reading list is a story on climate migration in the US."
+categories: [Privacy, Environment]
+---
+
+### Facebook faces existential threat, for real
+
+Facebook is facing its most intense criticism yet on the use of its users' data by third parties. <a href="https://www.nytimes.com/2018/03/18/us/cambridge-analytica-facebook-privacy-data.html" target="_blank">Legislators in the US and the UK</a> are demanding an explanation on how Cambridge Analytica, a political data firm linked to the 2016 campaign of President Trump, was able to <a href="https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news" target="_blank">harvest private data</a> from approximately 50 million Facebook users. The data, obtained without consent, was used to push political ads in the 2016 presidential campaign.
+
+#### What's in the rabbit hole?
+
+There's more than just lawmakers screaming bloody hell. The <a href="https://twitter.com/MassAGO/status/975052674818347013" target="_blank">Massachusetts attorney general</a> is launching an investigation into the company. Massachusetts has a history of going after companies for misbehavior, so this investigation is not a good sign. And we won't be surprised if other state attorneys come knocking on Facebook's door with complaints and subpoenas on hand. On March 19, Facebook's Chief Information Security head, Alexis Stamos, was <a href="https://www.axios.com/report-facebook-information-security-head-alex-stamos-leaves-27aa5a90-b5af-43a5-8f1c-d6a88d955b5a.html?source=sidebar" target="_blank">reported to be leaving</a> the company, although he had reportedly been planning to leave anyway. But not before he <a href="https://www.cnet.com/news/if-a-facebook-stamos-cabridge-analytica-exec-deletes-his-tweet-does-it-still-make-a-sound/" target="_blank">fired off (and deleted) tweets</a> taking issue of the media's portrayal of a "breach" in Facebook. Investors are not liking this as well. Facebook's share price dropped by 6.7% today, shedding $37 billion of the company's market value.
+
+#### How it went down
+
+Data was <a href="https://www.cnbc.com/2018/03/18/facebook-failing-zuckerberg-and-sandberg-absent-commentary.html" target="_blank">mined by a Russian-American researcher</a> through a personality quiz that 270,000 Facebook users took. The information included the users' location and "likes". The researcher passed on the data to Cambridge Analytica, owned by a key Trump supporter, which used the information to tailor political campaigns on behalf of Trump's political run. Facebook reacted by announcing that it had <a href="https://www.cnbc.com/2018/03/16/facebook-bans-cambridge-analytica.html" target="_blank">"suspended" Cambridge Analytica from Facebook</a>. It also said that Cambridge Analytica is still using the downloaded data from Facebook users.  
+
+#### Our take
+
+This drives home the point that Facebook has failed to protect its users' data. That harmless-looking survey you took three years ago became a minefield of data used to promote the Trump campaign. This is also yet <a href="https://www.sustainabilitymatters.info/privacy/2018/02/20/mueller.html" target="_blank">another evidence that Facebook has become the weapon of choice</a> for disinformation and the spread of fake news. We think that whether Silicon Valley likes it or not, regulation is coming, and its coming sooner than later. No one said adulting would be easy.
+
+#### And there's more
+
+Like all other social media companies, Facebook's business model relies on habits, and for something to become a habit, users need to trust it. If users cease to trust a social media platform, Houston it has a major problem. We're not deleting our Facebook account just yet, but we've been extra cautious. And you should be too. What you put out there - be it a thumbs up or a frowning emoji - is something you can never take back. Be careful of what you say over social media, it may come back to haunt you.
+
+* * *
+<br />
+
+**BEFORE YOU GO**
+
+#### **We've been reading...**
+
+<a href="https://www.rollingstone.com/politics/news/welcome-to-the-age-of-climate-migration-w516974" target="_blank">Rolling Stone magazine's interesting piece on climate migration</a> in the US. Climate change is not just displacing populations in Pacific island nations and poor countries. It's hitting the United States too.
