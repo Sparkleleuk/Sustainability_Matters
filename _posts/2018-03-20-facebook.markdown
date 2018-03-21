@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Of Truth and Lies"
+excerpt: "Facebook's woes continue with class action lawsuit and federal investigation."
+categories: [Privacy]
+---
+
+### Facebook faces lawsuit and more investigations
+
+A group of shareholders have filed a <a href="https://www.bloomberg.com/news/articles/2018-03-20/facebook-sued-by-investors-over-voter-profile-harvesting" target="_blank">proposed class action lawsuit</a> against Facebook in a federal court in California, while the <a href="https://www.nytimes.com/2018/03/20/business/ftc-facebook-privacy-investigation.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront" target="_blank">Federal Trade Commission (FTC)</a>, <a href="https://ag.ny.gov/press-release/statement-ag-schneiderman-facebookcambridge-analytica" target="_blank">New York state</a>, and legislators in the US and the UK have opened investigations into the social media company over its failure to protect users' data.
+
+#### What are shareholders saying?
+
+The investor complaint blamed Facebook's failure to protect data for losses incurred from the drop in the company's share price. Facebook's share price fell further today and the company has lost 9% this week on account of the <a href="https://www.sustainabilitymatters.info/privacy/environment/2018/03/19/facebook.html" target="_blank">Cambridge Analytica scandal</a>.
+
+#### And what about the investigations?
+
+Facebook is being investigated primarily for failing to protect the data of approximately 50 million users. The FTC is looking into whether Facebook violated a settlement agreement it entered into with the federal government on user data protection in 2011. New York state, like the state of Massachusetts, has sent a letter to Facebook to demand an explanation, while lawmakers have summoned CEO Mark Zuckerberg to ask him WTH happened.
+
+#### Why does this matter?
+
+Because we are users of Facebook. And possibly investors too. For one, this controversy is likely to change the way we engage with FB and other forms of social media. We think this will lead to one thing: increased government intervention, possibly in the form of tougher data privacy laws, or even an attempt to break up the company. Tougher data privacy laws will certainly be good for users, but will be a challenge to the company, which relies on the use of data to power its advertising business. And this is where the issue hits us badly. Facebook is likely to be in the portfolio of every major pension fund and our investments could be hurt if the company is unable to pick itself up. One of those cases where we win but also end up losing in the process.
