@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "The Great American Sell Off"
+excerpt: "Trump administration holds biggest auction of oil and gas leases. And our quote of the day is from Zuck."
+categories: [Environment, Privacy]
+---
+
+### Trump admin offers 77 million acres for offshore drilling
+
+The US government today held its <a href="https://www.reuters.com/article/us-usa-drilling-gulfmexico/drillers-give-tepid-response-to-record-u-s-offshore-lease-sale-idUSKBN1GX18D" target="_blank">biggest auction of oil and gas leases</a>, offering 77 million acres (31.2 million hectares) in the Gulf of Mexico. Interior Secretary Ryan Zinke said the offering would be a "bellwether" of industry demand in the region and would help achieve the government's goal of energy dominance. Up for grabs is a total area nearly twice the size of the state of Florida.
+
+#### And how did it go?
+
+The energy industry said "meh". Reuters reported that companies bid on just 1% of the area offered and the winning bids, at an average of $153 per acre, were approximately 35% below last year's bids. The auction yielded $124.76 million in total winning bids, higher than last year's auction, but much lower than a smaller lease sale in the Central Gulf in 2013.
+
+#### Why was BAE so lukewarm?
+
+Offshore drilling is expensive, so cost is always a factor. And oil prices are not exactly soaring. At approximately $65 per barrel, the <a href="http://markets.businessinsider.com/commodities/historical-prices/oil-price/usd?type=wti" target="_blank">price of crude oil</a> is higher than in 2015 but much lower than in 2013 when oil prices were hovering above $100. $65 is not a price level where companies would be jumping all over the place to extract more oil. Oil prices would have to go back up closer to $100 for companies to take the risk of sinking in money into a more expensive form of oil extraction. Also, there are cheaper options onshore, like shale, and countries like Brazil and Mexico are offering offshore leases with better deal sweeteners. In short, Trump got his timing wrong.
+
+#### Why does this matter?
+
+Because the lack of interest mitigates the risk from opening up the US continental shelf to offshore drilling. Offshore drilling is inherently risky and has the potential to cause severe environmental damage (think: BP oil spill in the Gulf of Mexico). Many coastal states oppose its revival for environmental reasons. It looks like for now, market forces are cooperating and oil companies are staying away. Environment for the win.
+
+* * *
+<br />
+
+**BEFORE YOU GO**
+
+#### **Quote of the day: Zuck speaks**
+
+<em>We have a responsibility to protect your data, and if we can't then we don't deserve to serve you. I've been working to understand exactly what happened and how to make sure this doesn't happen again. The good news is that the most important actions to prevent this from happening again today we have already taken years ago. But we also made mistakes, there's more to do, and we need to step up and do it.</em> ~ Mark Zuckerberg on the Cambridge Analytica scandal. The post includes his timeline of events. <a href="https://www.facebook.com/zuck/posts/10104712037900071" target="_blank">Read it to believe it</a>.
