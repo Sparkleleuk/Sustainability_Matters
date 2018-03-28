@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Drug Craze"
-excerpt: "SEC tells pharmacuetical companies to allow shareholder resolutions on rising drug costs. Shell releases new report on climate scenarios."
+excerpt: "SEC tells pharmaceutical companies to allow shareholder resolutions on rising drug costs. Shell releases new report on climate scenarios."
 categories: [Healthcare, Environment]
 ---
 
