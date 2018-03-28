@@ -24,7 +24,7 @@ Discrimination against certain groups of people is a big deal. In the past, case
 * * *
 <br />
 
-### China goes for the gold
+### China goes for the goal
 
 China today <a href="http://thehill.com/policy/energy-environment/380437-china-says-it-has-met-2020-climate-goal" target="_blank">claimed that it has met its 2020 goal</a> of reducing carbon emissions by 40 to 45% of GDP. Xie Zhenhua, China’s special representative for climate change, said China achieved a 46% reduction under 2005 levels in 2017. Year-over-year, China reduced its carbon intensity by 5.1%.
 
