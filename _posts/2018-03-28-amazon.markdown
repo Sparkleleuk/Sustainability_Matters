@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Mammoth"
+excerpt: "Amazon faces early stages of regulatory threats. Our quote of the day is from Boeing's chief engineer."
+categories: [Healthcare, Ethics, Privacy]
+---
+
+### Amazon is the subject of Trump's "obsession"
+
+President Trump is <a href="https://www.axios.com/trump-regulation-amazon-facebook-646c642c-a2d7-454b-a9a9-cdc6e4eaef2c.html" target="_blank">reportedly "obsessed" with Amazon</a> and is looking into clipping Jeff Bezos' wings with different regulatory measures. Axios reported that Trump has discussed the possibility of using taxes and the anti-trust law to curb Amazon's expansion.
+
+#### Not so noble intentions
+
+Trump is reportedly eyeing regulatory measures against Amazon because his associates have complained that Amazon is destroying their business and is killing shopping malls and brick-and-mortar retailers. Trump has repeatedly, although wrongly, insisted that the US Postal Service is giving Amazon a free ride. And finally, many believe that Trump is wary of Amazon owning The Washington Post. 
+
+#### Why does this matter?
+
+While Trump may be going after Amazon for the wrong reasons, Amazon's size is increasingly a concern. Like Facebook, Amazon huge amounts of private data that remains unregulated and attractive to third party users. Amazon appears to have done a better job than Facebook in protecting private data but the more Amazon expands, the more data it collects. In January, <a href="https://www.sustainabilitymatters.info/healthcare/human%20rights/2018/01/31/amazon-healthcare.html" target="_blank">Amazon partnered with insurance company Berkshire Hathaway and JPMorgan Chase to pilot a low-cost healthcare service</a>. This means that Amazon will have access to even more sensitive medical data of private individuals. Cause for concern, don't you think?
+
+#### Our take
+
+We shop in Amazon, like everyone else. But the idea of one company becoming the one-stop shop for everything from pet food to medical services makes us pause and wonder this is getting too <a href="https://www.goodreads.com/book/show/18302455-the-circle" target="_blank">The Circle</a>-ish. Kalden, you there bro?
+
+* * *
+<br />
+
+**BEFORE YOU GO...**
+
+#### **Quote of the day: "All hands on deck"**
+
+<em>It is metastasizing rapidly out of North Charleston and I just heard 777 (automated spar assembly tools) may have gone down.</em> ~ Mike VanderWel, chief engineer at Boeing Commercial Airplane production engineering, in a memo after Boeing was hit by WannaCry. Later in the day, Boeing said the intrusion was "limited". <a href="https://www.seattletimes.com/business/boeing-aerospace/boeing-hit-by-wannacry-virus-fears-it-could-cripple-some-jet-production/" target="_blank">Read it to believe it</a>.
+
+WannaCry crippled the computer systems of <a href="https://www.cbsnews.com/news/atlanta-ransomware-attack-still-causing-chaos/" target="_blank">Atlanta</a> over the weekend. Read about WannaCry's exploits <a href="https://www.theregister.co.uk/2017/05/13/wannacrypt_ransomware_worm/" target="_blank">here</a>.     
