@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spill"
-excerpt: "Massive oil spill off the coast of Indonesian island."
+excerpt: "Massive oil spill off the coast of Indonesian island. ICYMI: Tesco's reusable bag scheme in Malaysia."
 categories: [Environment]
 ---
 
