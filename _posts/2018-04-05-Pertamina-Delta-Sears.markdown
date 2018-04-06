@@ -7,7 +7,7 @@ categories: [Environment, Privacy]
 
 ### Pertamina pipeline caused oil spill
 
-Indonesia's national oil and gas company, Pertamina, today admitted that <a href="http://www.thejakartapost.com/news/2018/04/04/burst-undersea-pipeline-caused-oil-spill-says-pertamina.html" target="_blank">a burst underwater pipeline</a> caused last weekend's oil spill off the coast of Borneo island. The pipeline, located 25 meters under the sea, is used to transport crude oil from East Kalimantan province to the company's refinery in Balikpapan, in Borneo. Pertamina officials said the cause of the pipeline leak is being investigated.
+Indonesia's national oil and gas company, Pertamina, today admitted that <a href="http://www.thejakartapost.com/news/2018/04/04/burst-undersea-pipeline-caused-oil-spill-says-pertamina.html" target="_blank">a burst underwater pipeline</a> caused last weekend's oil spill off the coast of Borneo island. The pipeline, located 25 meters under the sea, is used to transport crude oil from Lawe-lawe Terminal in North Penajam Paser regency to the company's refinery in Balikpapan. Pertamina officials said the cause of the pipeline leak is being investigated.
 
 #### Rewind, replay
 
