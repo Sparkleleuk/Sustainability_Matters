@@ -33,6 +33,6 @@ Because it took months for the service provider to notify Delta and Sears. Given
 
 **BEFORE YOU GO...**
 
-#### **Quoteo of the day: A mistake**
+#### **Quote of the day: A mistake**
 
 <em>It’s clear now that we didn’t do enough. We didn’t focus enough on preventing abuse and thinking through how people could use these tools to do harm as well. That goes for fake news, foreign interference in elections, hate speech, in addition to developers and data privacy. We didn’t take a broad enough view of what our responsibility is, and that was a huge mistake. It was my mistake.</em> ~ Mark Zuckerberg, CEO of Facebook, in one of a series of Q&As on data privacy and the Cambridge Analytica scandal. <a href="https://newsroom.fb.com/news/2018/04/hard-questions-protecting-peoples-information/" target="_blank">Read it to believe it</a>.

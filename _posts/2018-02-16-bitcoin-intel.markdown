@@ -20,4 +20,4 @@ Because this shows that bitcoins are not as sustainable as we've been made to be
 
 #### Our take
 
-We believe crytocurrencies are here to stay, and we're fine if they become part of regular commerce. But as the cliché goes, not everything that glitters is gold. Bitcoins have hidden costs and dangers, ranging from energy use to the lack of oversight. BCOT.
+We believe cryptocurrencies are here to stay, and we're fine if they become part of regular commerce. But as the cliché goes, not everything that glitters is gold. Bitcoins have hidden costs and dangers, ranging from energy use to the lack of oversight. BCOT.
