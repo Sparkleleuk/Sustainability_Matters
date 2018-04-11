@@ -2,7 +2,7 @@
 layout: post
 title:  "Now You See Them, Others Don't"
 excerpt: "Facebook alleged to have allowed discrimination in housing ads. China claims it has reached its 2020 climate commitment."
-categories: [Diversity, Environment]
+categories: [Diversity, Environment, CSR]
 ---
 
 ### Facebook alleged to have enabled discrimination in housing ads

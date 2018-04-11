@@ -2,7 +2,7 @@
 layout: post
 title:  "Restricted"
 excerpt: "Citi restricts gun sales by customers. Our quote of the day is from one of Mexico's presidential candidates on the new airport in Mexico City."
-categories: [Human Rights, Environment]
+categories: [Human Rights, Environment, CSR]
 ---
 
 ### Citi puts its foot down

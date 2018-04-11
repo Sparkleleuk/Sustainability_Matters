@@ -2,7 +2,7 @@
 layout: post
 title:  "Of Truth and Lies"
 excerpt: "Facebook's woes continue with class action lawsuit and federal investigation."
-categories: [Privacy]
+categories: [Privacy, CSR]
 ---
 
 ### Facebook faces lawsuit and more investigations

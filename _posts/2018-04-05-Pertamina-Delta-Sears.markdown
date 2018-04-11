@@ -2,7 +2,7 @@
 layout: post
 title:  "Burst"
 excerpt: "Indonesia's state oil company caused oil spill. Delta, Sears customers's data compromised. Our quote of the day is from one of Mark Zuckerberg's many interviews in recent days."
-categories: [Environment, Privacy]
+categories: [Environment, Privacy, CSR]
 ---
 
 ### Pertamina pipeline caused oil spill

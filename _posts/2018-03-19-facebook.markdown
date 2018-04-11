@@ -2,7 +2,7 @@
 layout: post
 title:  "The Business of Data"
 excerpt: "Facebook under fire for the use of users' data by Trump campaign without consent. On our reading list is a story on climate migration in the US."
-categories: [Privacy, Environment]
+categories: [Privacy, Environment, CSR]
 ---
 
 ### Facebook faces existential threat, for real

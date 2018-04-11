@@ -2,7 +2,7 @@
 layout: post
 title:  "Inefficient"
 excerpt: "EPA rolls back fuel efficiency rules for cars and SUVs. Credit card data stolen from Lord & Taylor and Saks."
-categories: [Environment, Privacy]
+categories: [Environment, Privacy, CSR]
 ---
 
 ### EPA says fuel efficiency rules are "too stringent"
