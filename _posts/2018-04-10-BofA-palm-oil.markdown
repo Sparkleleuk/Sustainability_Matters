@@ -34,4 +34,4 @@ Most Western retailers and food companies look to the Roundtable on Sustainable 
 
 #### Why does this matter?
 
-The demand for palm oil has been blamed for <a href="http://www.wri.org/blog/2017/07/drivers-deforestation-indonesia-inside-and-outside-concessions-areas" target="_blank">high rates of deforestation</a> in Asia, particularly Indonesia and Malaysia, and is threatening some animal species, such as the orangutan. Deforestation, of course, contributes to global warming. Moreover, the clearing of massive tracts of land for palm oil plantations causes high levels of air pollution and smog in Southeast Asia. 
+The demand for palm oil has been blamed for <a href="http://www.wri.org/blog/2017/07/drivers-deforestation-indonesia-inside-and-outside-concessions-areas" target="_blank">high rates of deforestation</a> in Asia, particularly Indonesia and Malaysia, and is threatening some animal species, such as the orangutan. Deforestation, of course, contributes to global warming. Moreover, the clearing of massive tracts of land for palm oil plantations causes high levels of air pollution and smog in Southeast Asia.
