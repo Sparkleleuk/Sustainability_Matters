@@ -30,7 +30,7 @@ Water supply in Morocco’s second-largest reservoir, Al Massira, has dropped by
 
 #### What about the others?
 
-Water supply in Spain's Buendia dam has also declined by 60% in the last five years, due a severe drought. Spain has been <a href="https://www.theguardian.com/world/2017/jul/08/spain-drought-farmers-climate-change-extremadura" target="_blank">dry for six years now</a>, impacting agriculture. Buendia dam is located on the Tagus River in Guadalajara. Water level in India’s Indira Sagar dam is a third of its seasonal average, while Iraq’s Mosul Dam is also down by 60% from its peak in the 1990s, contributing to conflict and people displacement.
+Water supply in Spain's Buendia dam has also declined by 60% in the last five years, due a severe drought. Spain has been <a href="https://www.theguardian.com/world/2017/jul/08/spain-drought-farmers-climate-change-extremadura" target="_blank">dry for six years now</a>, impacting agriculture. Buendia dam is located on the Tagus River in Guadalajara. The water level in India’s Indira Sagar dam is a third of its seasonal average, while Iraq’s Mosul Dam is also down by 60% from its peak in the 1990s, contributing to conflict and people displacement.
 
 #### Our take
 
