@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "A New Privacy Experience"
+excerpt: "Facebook offers privacy protection regardless of location."
+categories: [Privacy, CSR]
+---
+
+### Facebook unveils privacy protection 'no matter where you live'
+
+Facebook has rolled out <a href="https://newsroom.fb.com/news/2018/04/new-privacy-protections/" target="_blank">new privacy protection measures</a> in compliance with the European Union's General Data Protection Regulation (GDPR), which takes effect on May 25. In a blog post, Chief Privacy Office Eric Egan and Deputy General Counsel Ashlie Beringer said, "Everyone – no matter where they live – will be asked to review important information about how Facebook uses data and make choices about their privacy on Facebook."
+
+#### What can users expect?
+
+Facebook said it will ask users to "make choices" about a number of issues, such as ads based on data from partners, information in their profile, and allowing face recognition technology. Users will be asked to review information about these ads. Users can also choose to continue sharing or to stop sharing personal information on their profiles, and to delete this information if they no longer want to share it. Meanwhile, users in the EU and Canada will have the choice to turn on facial recognition. As for users in the US, TBD.
+
+#### What about young users?
+
+Facebook said it has built in extra privacy protections for users those below 18 years old, such as limited exposure to some advertising categories, excluding "public" from their default audience options, and restrictions on who see or search specific information that teens have shared. Moreover, face technology will not be activated for users below 18. In some EU countries, parental consent is needed for users between the ages of 13 and 15 years old to see ads and to share personal information.
+
+#### But some are skeptical...
+
+Critics say Facebook has designed its privacy pages in the way that "encourages" users to hit the "agree" button even before they've absorbed the new measures. They say the measures lack controls, and that the parental consent request can easily be gamed. There's more and you can read about them <a href="https://techcrunch.com/2018/04/17/facebook-gdpr-changes/" target="_blank">here</a>.
+
+#### Why does this matter?
+
+Because privacy matters. As recent events have shown, our data has been used and reused for monetary and political gains. What we thought as a harmless "like" has become a personal minefield for many of us, but a goldmine for commercial and political interests. It's time for Facebook to set things right.  
