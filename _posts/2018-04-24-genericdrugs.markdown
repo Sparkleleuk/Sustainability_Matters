@@ -19,7 +19,7 @@ The investigation reportedly covers some of the big pharmaceutical companies suc
 
 #### Why does this matter?
 
-Because the cost of healthcare in the US has gone up to unsustainable levels and continues to do so, unfortunately. While healthcare cost is a complex issue and its steady increase can be linked to multiple factors, drug prices are part of the problem. Drug prices reportedly account for 15% of the country's healthcare costs and at least 80% of all prescriptions issued in the country are generic drugs. For the average patient, drug prices are a big deal. Americans already have some of the worst health indicators in the developed world and excessive drug prices just make America sicker in more ways than one.
+Because the cost of healthcare in the US has gone up to unsustainable levels and continues to do so, unfortunately. While healthcare cost is a complex issue and its steady increase can be linked to multiple factors, drug prices are part of the problem. Drug prices <a href="https://www.nytimes.com/2013/03/19/business/use-of-generics-produces-an-unusual-drop-in-drug-spending.html?pagewanted=all&_r=0" target="_blank">reportedly</a> account for 15% of the country's healthcare costs and at least 80% of all prescriptions issued in the country are generic drugs. For the average patient, drug prices are a big deal. Americans already have some of the worst health indicators in the developed world and excessive drug prices just make America sicker in more ways than one.
 
 * * *
 <br />
