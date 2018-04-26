@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Monkey Wrench"
+excerpt: "Labor Department tells retirement funds not to readily integrate ESG in investments."
+categories: [Finance]
+---
+
+### Labor Department throws a monkey wrench on ESG integration
+
+The Department of Labor has released guidance for retirement funds to be wary of integrating environmental, social and governance (ESG) in investments, noting that doing so is not necessarily <a href="https://www.bloomberg.com/news/articles/2018-04-24/labor-department-says-do-good-investments-not-always-prudent" target="_blank">a "prudent choice"</a>. In a <a href="https://www.dol.gov/newsroom/releases/ebsa/ebsa20180423" target="_blank">news release</a>, the department said retirement funds "must avoid too readily treating ESG issues as being economically relevant to any particular investment choice." It also warned that retirement funds "may not routinely incur significant plan expenses to pay for the costs of shareholder resolutions or special shareholder meetings, or to initiate or actively sponsor proxy fights on environmental or social issues."
+
+#### Not too fast
+
+The department did acknowledge that there may be "collateral ESG issues" that present material business risk or opportunities to companies and these are "appropriate economic considerations". The department <a href="https://www.dol.gov/agencies/ebsa/employers-and-advisers/guidance/field-assistance-bulletins/2018-01" target="_blank">noted</a>: "To the extent ESG factors, in fact, involve business risks or opportunities that are properly treated as economic considerations themselves in evaluating alternative investments, the weight given to those factors should also be appropriate to the relative level of risk and return involved compared to other relevant economic factors."
+
+#### Why does this matter?
+
+Public pension funds have been actively integrating ESG in their investment strategies as well as actively engaging companies over their ESG issues. And these engagements have yielded results by way of improvements in corporate behavior. The Labor Department's guidance pits such funds against the federal government and may end up discouraging further ESG integration. 
