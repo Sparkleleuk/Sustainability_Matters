@@ -16,3 +16,12 @@ More than 40 companies in the UK are supporting the broader effort against plast
 #### Why does this matter?
 
 Because the United Nations has declared the abundance of plastics as <a href="http://www.bbc.com/news/science-environment-42225915" target="_blank">a "planetary crisis"</a>. Plastics are clogging up the oceans and other waterways, causing severe negative impacts on marine life. China is by far, the world's largest producer of plastic waste, followed by Indonesia, the Philippines, Vietnam, Sri Lanka and Thailand. Need more evidence about the harmful effects of plastic waste? Check out <a href="http://advances.sciencemag.org/content/3/7/e1700782.full" target="_blank">Science Mag's latest report</a>.  
+
+* * *
+<br />
+
+**ICYMI**
+
+#### **Trusting the chain**
+
+IBM has introduced TrustChain, a blockchain that is intended to trace the sourcing of jewelry, from the mine to the store. TrustChain allows for the validation of transaction at every step of the way, but without the paper work, and with less room to game the system. And why is this important? Because, blood diamonds. And they are forever. 
