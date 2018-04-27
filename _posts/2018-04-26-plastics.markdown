@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ban"
-excerpt: "UK on its way to banning single-use plastics."
+excerpt: "UK on its way to banning single-use plastics. ICYMI, IBM introduces blockchain for jewelry industry."
 categories: [Environment]
 ---
 
@@ -24,4 +24,4 @@ Because the United Nations has declared the abundance of plastics as <a href="ht
 
 #### **Trusting the chain**
 
-IBM has introduced TrustChain, a blockchain that is intended to trace the sourcing of jewelry, from the mine to the store. TrustChain allows for the validation of transaction at every step of the way, but without the paper work, and with less room to game the system. And why is this important? Because, blood diamonds. And they are forever. 
+IBM has introduced TrustChain, a blockchain that is intended to trace the sourcing of jewelry, from the mine to the store. TrustChain allows for the validation of transaction at every step of the way, but without the paper work, and with less room to game the system. And why is this important? Because, you don't want to wear blood diamonds forever.
