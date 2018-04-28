@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Tremor"
+excerpt: "One of South Korea's most damaging earthquakes may have been triggered by fracking."
+categories: [Environment]
+---
+
+### Fracking may have caused 2017 earthquake in South Korea
+
+Two studies published this week in the Science journal <a href="https://www.ecowatch.com/south-korea-earthquake-fracking-2563846110.html" target="_blank">point to fracking</a> as the possible trigger of the 2017 earthquake in the South Korean city of Pohang. Both studies linked the earthquake to hydraulic fracturing associated with geothermal energy production. The studies, one by South Korean scientists and the other by scientists in Scotland, pointed out that the main shock and aftershocks occurred within 2 kilometers of the geothermal site.
+
+#### What happened in Pohang?
+
+A magnitude 5.5 earthquake struck the southeastern city of Pohang on November 15, 2017. The earthquake was the second strongest earthquake in South Korea's history, and injured more than 90 people. It also caused more than $50 million in damages, with more than 2,000 private properties, schools, commercial spaces and public infrastructure destroyed.
+
+#### A carbon-free future but...
+
+Pohong hosts a $38 million geothermal plant designed to provide carbon-free energy. The <a href="http://www.sciencemag.org/news/2018/04/second-largest-earthquake-modern-south-korean-history-tied-geothermal-plant" target="_blank">South Korean study</a> showed that several of the foreshocks all began right below the 4-kilometer-deep well used to inject water into the subsurface to create the plant’s heating reservoir.
+
+#### Why does this matter?
+
+Fracking has been linked to earthquakes in parts of the US where fracking occurs. The state of Oklahoma, for example, which has a number of oil basins, is now <a href="https://www.bloomberg.com/news/articles/2018-02-09/new-breed-of-fracking-earthquakes-sends-warning-to-oil-drillers" target="_blank">reportedly</a> seismically more active than California, which lies on an earthquake belt. Scientists and activists have warned that fracking as a process is environmentally risky and the incident in Pohang appears to prove just that.
