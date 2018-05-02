@@ -5,7 +5,7 @@ excerpt: "New poll shows continued decline in people's trust in US corporations,
 categories: [CSR]
 ---
 
-### New poll shows declining trust in US corporations, but expectations from CEOs are high
+### New poll shows declining trust in US corporations, but people expect more from CEOs
 
 An annual poll by a public relations firm shows that people's trust in US corporations continue to decline. The <a href="http://engageforgood.com/2018-edelman-trust-barometer-2/" target="_blank">2018 Edelman Trust Barometer</a> shows that trust in companies headquartered in the US dropped from 55% to 50% in 2017, after having dropped from 61% in 2014. Edelman polled 33,000 individuals across 28 countries, and the results were released today.
 
