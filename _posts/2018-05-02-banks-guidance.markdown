@@ -2,7 +2,7 @@
 layout: post
 title:  "Guiding Light"
 excerpt: "Banks release guidance for integrating climate risks in lending. On our reading list is resource curse in West Virginia."
-categories: [Environment]
+categories: [Environment, CSR]
 ---
 
 ### Global banks to integrate climate risks in lending

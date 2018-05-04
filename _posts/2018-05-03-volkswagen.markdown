@@ -2,7 +2,7 @@
 layout: post
 title:  "A New Era?"
 excerpt: "Volkswagen's new CEO promises more responsible company as investors call for reforms. ICYMI, the EPA head is now facing 11 investigations for ethical misconduct."
-categories: [Ethics]
+categories: [Ethics, CSR]
 ---
 
 ### Volkswagen's new CEO promises more responsible company
