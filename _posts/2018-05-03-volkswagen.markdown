@@ -11,7 +11,7 @@ Volkswagen (VW) shareholders today confirmed the appointment of a new CEO who <a
 
 #### Tough love from shareholders
 
-But shareholders were not altogether happy with VW. Three prominent shareholder advisers urged investors to vote against the reelection of Wolfgang Porsche, the chairman of VW's parent company, Porsche AG, and the election of Marianne Heiss, noting that they were non-independent and that Porsche mishandled the dieselgate scandal. Shareholders said there was a need to reform corporate governance and change corporate culture.
+But shareholders were not altogether happy with VW. Three prominent shareholder advisers urged investors to vote against the reelection of Wolfgang Porsche, the chairman of VW's parent company, Porsche AG, and the election of Marianne Heiss, noting that they were non-independent and that Porsche mishandled the dieselgate scandal. Shareholders said there is a need to reform corporate governance and change corporate culture.
 
 #### Why does this matter?
 
