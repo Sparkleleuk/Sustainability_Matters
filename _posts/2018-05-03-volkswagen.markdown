@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A New Era?"
-excerpt: "Volkswagen survives shareholder dissent; new CEO promises more responsible company. ICYMI, the EPA head is now facing 11 investigations for ethical misconduct."
+excerpt: "Volkswagen's new CEO promises more responsible company as investors call for reforms. ICYMI, the EPA head is now facing 11 investigations for ethical misconduct."
 categories: [Ethics]
 ---
 
