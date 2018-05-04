@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Trust Issues"
-excerpt: "New poll shows continued decline in people's trust in US corporations, although people think CEOs should lead social change."
+excerpt: "New poll shows continued decline in people's trust in US corporations, although people think CEOs should lead social change. ICYMI, humpback whales are making a comeback."
 categories: [CSR]
 ---
 
@@ -16,3 +16,12 @@ The Edelman poll showed that 64% of respondents agree that "CEOs should take the
 #### Our take
 
 This poll confirms that the days when a corporation's sole responsibility to make money for its shareholders (think: Milton Friedman). More people think that corporations are part of the social fabric and should be engines of social change. In the wake of the Parkland, Florida shooting, for example, Delta Airlines and eight other companies ended their discount programs for members of the National Rifle Association, while Bank of America and Citigroup said they are restricting financial services to certain types of gun makers. Dick Sporting Goods and Walmart also stopped selling military-style assault rifles and magazines. While some conservative groups are unhappy about these decisions, these companies are getting a lot of love on social media. Therefore, companies that take a bold stance on social issues are likely to earn public goodwill than companies that remain in the sidelines. Indeed, this is the age of engagement and civic action. Corporate apathy is so 1970s.
+
+* * *
+<br />
+
+**ICYMI**
+
+#### **The whales are making a comeback**
+
+Female humpback whales in the southern oceans near Antarctica are experiencing higher pregnancy rates and giving birth to more calves. Scientists think that the whale population is now reaping the benefits of the ban on whaling imposed in the 1980s as well as, ironically, the warming temperatures in the Antarctic Peninsula. <a href="https://www.nytimes.com/2018/05/01/science/humpback-whale-antarctica.html?rref=collection%2Fsectioncollection%2Fclimate&action=click&contentCollection=climate&region=stream&module=stream_unit&version=latest&contentPlacement=7&pgtype=sectionfront" target="_blank">Read it to believe it</a>.
