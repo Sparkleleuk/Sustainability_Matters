@@ -7,7 +7,7 @@ categories: [Environment]
 
 ### Tourism's contribution to global carbon emissions is increasing
 
-A new report showed that <a href="https://www.ecowatch.com/tourism-global-greenhouse-gas-2566752788.html" target="_blank">tourism accounted for 8% of global carbon emissions</a>. The study found that tourism's carbon footprint increased from 3.9 billion to 4.5 billion tonnes of CO2 equivalent between 2009 and 2013, driven by an increase in goods and services as more people go on holidays every year. In calculating tourism's global emissions, the researchers took into account a broad range of factors, such as all forms of tourist travel, consumption of goods and services such as food, lodging and souvenirs. They studied data from 160 countries.
+A new report shows that <a href="https://www.ecowatch.com/tourism-global-greenhouse-gas-2566752788.html" target="_blank">tourism accounted for 8% of global carbon emissions</a>. The study found that tourism's carbon footprint increased from 3.9 billion to 4.5 billion tonnes of CO2 equivalent between 2009 and 2013, driven by an increase in goods and services as more people go on holidays every year. In calculating tourism's global emissions, the researchers took into account a broad range of factors, such as all forms of tourist travel, consumption of goods and services such as food, lodging and souvenirs. They studied data from 160 countries.
 
 #### A rich country problem
 
