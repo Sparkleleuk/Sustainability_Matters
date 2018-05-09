@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Just Did It"
-excerpt: "Nike investigates top executives on workplace behavior. On our reading list is a report on the cost of eating meat."
+excerpt: "Several Nike top execs resign over allegations of harassment. On our reading list is a report on the cost of eating meat."
 categories: [CSR, environment]
 ---
 
-### Purge in Nike's top brass over workplace misbehavior
+### Purge in Nike's top brass over workplace misconduct
 
 A total of 11 top executives at sports company Nike Inc. have <a href="https://www.nytimes.com/2018/05/08/business/nike-harassment.html?hpw&rref=business&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well" target="_blank">resigned</a> following an investigation into alleged workplace misconduct. This week alone, Nike confirmed that five more top executives have resigned as a result of the investigation into allegations of harassment and discrimination against female employees. The executives who have left or are leaving including the president of the Nike brand, heads of North American business units, and Nike's head of diversity and inclusion.
 
@@ -24,4 +24,4 @@ Because #TimesUp in one of the most iconic companies in the world. Nike has been
 
 #### **We're reading**
 
-A report by The Guardian on the cost of eating meat. Industrial farming has strained our water resources and caused pollution of waterways, and has contributed to deforestation and climate change. <a href="https://www.theguardian.com/news/2018/may/07/true-cost-of-eating-meat-environment-health-animal-welfare" target="_blank">Read it to believe it</a>. 
+A report by The Guardian on the cost of eating meat. Industrial farming has strained our water resources and caused pollution of waterways, and has contributed to deforestation and climate change. <a href="https://www.theguardian.com/news/2018/may/07/true-cost-of-eating-meat-environment-health-animal-welfare" target="_blank">Read it to believe it</a>.
