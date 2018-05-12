@@ -19,7 +19,7 @@ In an <a href="https://www.cnbc.com/2018/05/10/we-made-a-mistake-novartis-ceo-te
 
 #### Our take
 
-While the use of external consultants is not illegal, the contracts leave a fishy taste in the mouth. It shows that the companies tried to pay their way to gain unfair advantage over other companies. According to political spending database <a href="https://www.opensecrets.org/lobby/indusclient.php?id=H04&year=2017" target="_blank">Open Secrets</a>, Novartis spent nearly $8.8 million in lobbying in 2017, making it one of the top political spenders in the pharmaceutical industry. But obviously that figure does not count money spent on fixers like Cohen. It's a messy business.
+While the use of external consultants is not illegal, the contracts leave a fishy taste in the mouth. It shows that the companies tried to pay their way to gain unfair advantage over other companies, or gain favors in times of controversy. AT&T in particular, is being challenged by the Trump government on its planned merger with Time Warner, which may have prompted the telecommunications company to engage Cohen's services. Novartis, like the rest of the pharmaceutical industry, has been anxious over Trump's repeated attacks on the drug costs. So when Cohen offered his services, Novartis was one of the takers. According to political spending database <a href="https://www.opensecrets.org/lobby/indusclient.php?id=H04&year=2017" target="_blank">Open Secrets</a>, Novartis spent nearly $8.8 million in lobbying in 2017, making it one of the top political spenders in the pharmaceutical industry. But obviously that figure does not count money spent on fixers like Cohen. We call this a truly messy business.
 
 * * *
 <br />
