@@ -29,4 +29,4 @@ California's new standards sets a precedent among other states. If it is success
 
 #### **Wimbledon goes straw-less**
 
-If you get thirsty while watching tennis in Wimbledon, you can still grab a beverage but you won't be able to drink it with a plastic straw. Wimbledon has joined several private entities in <a href="https://www.theguardian.com/environment/2018/may/01/last-straw-for-wimbledon-as-tennis-tournament-acts-on-plastic" target="_blank">banning single-use plastics</a>. It will be using recyclable paper straws instead. Match point.
+If you get thirsty while watching tennis in Wimbledon, you can still grab a beverage but you won't be able to drink it with a plastic straw. Wimbledon has joined several organizations and private companies in <a href="https://www.theguardian.com/environment/2018/may/01/last-straw-for-wimbledon-as-tennis-tournament-acts-on-plastic" target="_blank">banning single-use plastics</a>. It will be using recyclable paper straws instead. Match point.
