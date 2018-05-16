@@ -21,9 +21,13 @@ A <a href="https://www.axios.com/lyft-uber-mandatory-arbitration-sexual-assault-
 
 As Axios reported, both companies are still on the fence on class action lawsuits. The changes apply to individual claims but victims are still prohibited from filing class action lawsuits on sexual assault or harassment. Moreover, any settlement made with Uber will still remain confidential.
 
+#### Why the change?
+
+Uber's history with sexual harassment and assault is notorious. Remember those wild parties under former CEO Travis Kalanick? Morever, <a href="http://money.cnn.com/2018/04/30/technology/uber-driver-sexual-assault/index.html" target="_blank"> at least 103 Uber drivers have faced allegations of sexual assault or abuse</a> in the last four years. Uber has been trying to make things right and CEO Dara Khosrowshahi has told CNN that cracking down on sexual assault is a "new priority". The company wants to be "part of the solution" to end sexual violence.
+
 #### Why does this matter?
 
-Because forced arbitration requirements have been used by companies to silence victims of sexual assault and/or harassment and keep these incidents under wraps. Did you ever wonder why #MeToo took years to come out? Arbitration clauses were partly to blame. Uber and Lyft's decision to give victims a choice of venue to pursue their claims is a big step towards the right direction.
+Because forced arbitration requirements have been used by companies to silence victims of sexual assault and/or harassment and keep these incidents under wraps. Did you ever wonder why #MeToo took years to come out? Experts say arbitration clauses were partly to blame, because these provisions forced women to remain silent. By dropping forced arbitration, Uber and Lyft are allowing sexual violence cases to come out in the open even at great risk to their reputation. Gotta give them credit for that. 
 
 * * *
 <br />
