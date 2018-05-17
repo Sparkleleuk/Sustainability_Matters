@@ -15,7 +15,7 @@ The <a href="https://www.epsu.org/sites/default/files/article/files/Unhappier_Me
 
 #### Taking advantage of Brexit?
 
-The unions also pointed out the by moving its international headquarters to the UK, which is expected to exit the European Union, the company may be trying to “minimize any oversight by the European Commission”.  Indeed, the EC will not have any oversight over the UK when it formally leaves the EU, prompting the unions to express concern that the UK could also become a tax haven.
+The unions also pointed out that by moving its international headquarters to the UK, which is expected to exit the European Union, the company may be trying to “minimize any oversight by the European Commission”.  Indeed, the EC will not have any oversight over the UK when it formally leaves the EU, prompting the unions to express concern that the UK could also become a tax haven.
 
 #### Why does this matter?
 
