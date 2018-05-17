@@ -11,7 +11,7 @@ A group of trade unions have accused fast food chain McDonald’s of avoiding ta
 
 #### New corporate tax structure
 
-The <a href="https://www.epsu.org/sites/default/files/article/files/Unhappier_Meal_FINAL.pdf" target="_blank">“Unhappier Meal” report</a> prepared by US and European trade unions, noted that following an investigation by the European Commission, the company changed its corporate tax structure by moving its international base from domicile from Luxembourg to the UK, and using companies in known tax havens such as the Cayman Islands, Bermuda and Guernsey. The unions said the new structure “effectively inhibits public scrutiny, as many of the new entities have no or minimal required public financial disclosures, including of taxes owed and paid.”
+The <a href="https://www.epsu.org/sites/default/files/article/files/Unhappier_Meal_FINAL.pdf" target="_blank">“Unhappier Meal” report</a> prepared by US and European trade unions, noted that following an investigation by the European Commission, the company changed its corporate tax structure by moving its international base from Luxembourg to the UK, and using companies in known tax havens such as the Cayman Islands, Bermuda and Guernsey. The unions said the new structure “effectively inhibits public scrutiny, as many of the new entities have no or minimal required public financial disclosures, including of taxes owed and paid.”
 
 #### Taking advantage of Brexit?
 
