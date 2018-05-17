@@ -2,7 +2,7 @@
 layout: post
 title:  "Unhappy Meal"
 excerpt: "McDonald's accused of tax avoidance. US Senate narrowly votes to overturn repeal of net neutrality. And we're reading the Bloomberg Pay Index on the highest paid CEOs for 2017."
-categories: [Finance, Ethics, CSR]
+categories: [Finance, Ethics, CSR, Human Rights]
 ---
 
 ### Ronald McDonald has been naughty, apparently
@@ -26,11 +26,11 @@ The EC has aggressively been clamping down on tax avoidance by multinational fir
 
 ### US Senate overturns repeal of net neutrality
 
-The US Senate today <a href="https://arstechnica.com/tech-policy/2018/05/senate-votes-to-overturn-ajit-pais-net-neutrality-repeal/" target="_blank">voted</a> to reverse the Federal Communications Commission's (FCC) repeal of net neutrality rules. The Senate approved the Congressional Review Act (CRA) resolution that overturns the December 2017 decision of the FCC to lift net neutrality rules.
+The US Senate today <a href="https://arstechnica.com/tech-policy/2018/05/senate-votes-to-overturn-ajit-pais-net-neutrality-repeal/" target="_blank">voted</a> to reverse the Federal Communications Commission's (FCC) repeal of net neutrality rules. The Senate approved the Congressional Review Act (CRA), resolution that overturns the December 2017 decision of the FCC against net neutrality.
 
 #### What's net neutrality again?
 
-Net neutrality rules prohibit internet service providers from favoring certain content providers over the others. They were implemented to provide a level playing field in the world wide web. The FCC repealed net neutrality rules last year so that the federal government "can stop micromanaging the internet".
+Net neutrality rules prohibit internet service providers from favoring certain content providers over others. They were implemented to provide a level playing field in the world wide web. The FCC repealed net neutrality rules last year so that the federal government "can stop micromanaging the internet".
 
 #### What does today's vote mean?
 
@@ -38,7 +38,7 @@ It's a victory yes, but the story does not end here. The CRA needs to go through
 
 #### Our take
 
-We're hopeful but we're not holding our breath. 
+We're hopeful but it's too early to celebrate.
 
 
 * * *
