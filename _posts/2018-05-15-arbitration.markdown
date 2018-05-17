@@ -2,7 +2,7 @@
 layout: post
 title:  "Dropped"
 excerpt: "Uber, Lyft drop mandatory arbitration requirement for sexual assault and harassment claims. And our quote of the day is from Margot Kidder (aka Lois Lane)."
-categories: [Diversity, Human Rights, Environment]
+categories: [Diversity, Human Rights, Environment, CSR]
 ---
 
 ### #MeToo victims in Uber and Lyft can now go to court
@@ -27,7 +27,7 @@ Uber's history with sexual harassment and assault is notorious. Remember those w
 
 #### Why does this matter?
 
-Because forced arbitration requirements have been used by companies to silence victims of sexual assault and/or harassment and keep these incidents under wraps. Did you ever wonder why #MeToo took years to come out? Experts say arbitration clauses were partly to blame, because these provisions forced women to remain silent. By dropping forced arbitration, Uber and Lyft are allowing sexual violence cases to come out in the open even at great risk to their reputation. Gotta give them credit for that. 
+Because forced arbitration requirements have been used by companies to silence victims of sexual assault and/or harassment and keep these incidents under wraps. Did you ever wonder why #MeToo took years to come out? Experts say arbitration clauses were partly to blame, because these provisions forced women to remain silent. By dropping forced arbitration, Uber and Lyft are allowing sexual violence cases to come out in the open even at great risk to their reputation. Gotta give them credit for that.
 
 * * *
 <br />
