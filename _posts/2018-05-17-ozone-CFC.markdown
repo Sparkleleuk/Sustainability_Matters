@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "O-zoned Out"
+excerpt: "Emissions from CFC increase, scientists suspect new CFC production despite global ban. Our quote of the day is from a USGS geologist."
+categories: [Environment]
+---
+
+### Emissions from CFC increased since 2012
+
+Emissions from a chemical that has supposedly been phased out worldwide have been found to be increasing. A <a href="https://www.sciencedaily.com/releases/2018/05/180516162520.htm" target="_blank">new report by the US National Oceanic and Atmospheric Administration (NOAA)</a> said that emissions from trichlorofluoromethane, commonly known as CFC-11, have increased by 25% since 2012, despite an international treaty to ban its production.
+
+#### What is CFC?
+
+CFC is an ozone-depleting gas and a member of the family of chemicals that caused the giant hole in the ozone layer over Antarctica. Once used in the manufacture of aerosol sprays, foams and packing materials, CFC-11 was banned under the Montreal Protocol of 2010 and there has been no known new production of the chemical since then. But CFC-11 still exists in foam insulation in buildings and appliances manufactured before the mid-1990s.
+
+#### Unexpected rise
+
+The NOAA noted that the increase in CFC-related emissions was unexpected and is likely to have been caused by new, unreported production. This means that someone, somewhere is making CFC-11 in secret. Scientists are concerned that this will cause a delay in the earth's recovery from ozone depletion. The good news, however, is CFC-11 concentration in the atmosphere is still decreasing, although at a slower pace than expected. Scientists noted that the pace of decline started slowed down in 2012, leading them to conclude that emissions must have increased from new production. NOAA scientists suspect that the new production is from somewhere north of the equator, and likely <a href="https://www.independent.co.uk/environment/ozone-hole-chemicals-cfc-increase-mystery-source-east-asia-antarctica-a8354481.html" target="_blank">East Asia</a>.
+
+#### Why does this matter?
+
+CFCs are one of the most destructive chemicals that stay in the atmosphere for more than 50 years. The hole in the ozone layer forms over the Antarctic region during the southern hemisphere spring (around September to October) and as we know, ozone layer depletion causes have negative impacts on human health (read: skin cancer) and biodiversity.
+
+* * *
+<br />
+
+**BEFORE YOU GO...**
+
+#### **Quote of the day: Dynamo**
+
+<i>It's a real dynamic situation up there.</i> ~ Michelle Coombs, a geologist at the US Geological Survey. The Kilauea volcano in Hawaii's Big Island erupted today spewing ash up to 30,000 feet. Kileuea has been active lately with lava spilling out of its crater since last week. <a href="https://www.washingtonpost.com/news/speaking-of-science/wp/2018/05/17/explosive-eruption-reported-at-hawaii-volcanos-summit/?noredirect=on&utm_term=.91422108dc0c" target="_blank">Read it to believe it</a>.
