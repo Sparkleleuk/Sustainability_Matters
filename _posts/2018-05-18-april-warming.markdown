@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Heat Is On"
-excerpt: "April 2018 was the warmest April on record in more than 100 years, as warming trend continues."
+excerpt: "Global temperatures continue to rise, with April 2018 as the 3rd warmest April on record in more than 100 years."
 categories: [Environment]
 ---
 
@@ -16,7 +16,7 @@ The National Oceanic and Atmospheric Administration (NOAA), a US government scie
 #### What does this tell us?
 
 NOAA scientists <a href="https://www.cnn.com/2018/05/17/weather/earth-warming-400-month-noaa-climate-trnd-wxc/index.html" target="_blank">point to man-made causes</a> because of the consistency in the increase. While natural factors such as El Niño could cause an increase in global temperatures, there would be fluctuations in global temperatures especially from the cooling effect of cyclical weather patterns such as La Niña or volcanic eruptions. But the increase has been consistent, prompting scientists to conclude that this trend could only have been caused by human activity.
-As for the weather, this explains why we were still wearing winter jackets in early April while our friends in Europe were already running around in their t-shirts.
+As for last month's weather, this explains why we were still wearing winter jackets in early April while our friends in Europe were already running around in their t-shirts.
 
 #### Why does this matter?
 
