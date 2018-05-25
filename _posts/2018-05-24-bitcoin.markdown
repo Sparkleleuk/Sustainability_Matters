@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Manipulation"
+excerpt: "US regulators said to be investigating possible bitcoin manipulation. ICYMI, women appointed as CEOs at NYSE and Fox News."
+categories: [Finance, Ethics]
+---
+
+### Bitcoin traders facing US Justice Department probe
+
+Bloomberg <a href="https://www.bloomberg.com/news/articles/2018-05-24/bitcoin-manipulation-is-said-to-be-focus-of-u-s-criminal-probe" target="_blank">reported</a> that the Justice Department has opened a criminal investigation into possible manipulation of the prices of cryptocurrencies, including bitcoins. Citing sources familiar with the matter, Bloomberg reported that the investigation is focused on illegal practices such as flooding the market with fake orders to trick other traders to buy or sell (spoofing), and trading with oneself in order to falsely imply more market demand than there actually is (wash trading), thereby influencing the price of the currency.
+
+#### Why does this matter?
+
+Bitcoin prices <a href="https://charts.bitcoin.com/chart/price" target="_blank">shot up</a> in the latter part of 2017 and early 2018, only for the price to drastically drop in February 2018. The volatility in bitcoin prices has raised concerns over the lack of regulatory oversight into cryptocurrencies. Without regulatory oversight, bitcoin investors have no protection against losses from illegal activity, and have no legal recourse.
+
+#### What has the US been up to?
+
+The Securities and Exchange Commission (SEC) has been <a href="https://www.theverge.com/tldr/2018/5/16/17361750/sec-cryptocurrency-ico-investors" target="_blank">investigating initial coin offerings (ICO)</a> and issued warnings over celebrities endorsements of ICOs. It also <a href="http://bitcoinist.com/sec-dj-khaled-floyd-mayweather-ctr-fraud/" target="_blank">charged an ICO</a> endorsed by professional boxer Floyd Mayweather and artist and producer DJ Khaled with fraud.
+
+* * *
+<br />
+
+**ICYMI**
+
+#### Women at the helm
+
+The New York Stock Exchange has <a href="https://www.cnbc.com/2018/05/22/nyses-first-female-president-points-to-gender-diversity-problem.html" target="_blank">appointed its first female CEO</a>. Stacey Cunningham, who served as COO, acknowledged that finance is still a "male-dominated environment" and "that hasn't changed quite as rapidly as some other industries have changed". Meanwhile, Fox News has also <a href="https://www.politico.com/story/2018/05/17/suzanne-scott-fox-news-ceo-595128" target="_blank">appointed a female CEO</a>, Suzanne Scott, following #MeToo allegations against some of Fox's top anchors. Egalité, liberté, diversité.
