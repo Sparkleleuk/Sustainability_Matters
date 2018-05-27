@@ -9,9 +9,9 @@ categories: [Environment]
 
 At least <a href="https://www.reuters.com/article/us-vedanta-smelter-violence/at-least-nine-dead-after-police-fire-on-protesters-seeking-closure-of-indian-copper-smelter-idUSKCN1IN11X?feedType=RSS&feedName=worldNews&rpc=69" target="_blank">11 people were killed</a> in days of protests against a copper smelter operated by mining company Vedanta Resources in Thootukudi in Tamil Nadu state. Protestors and environmentalists allege that Vedanta's copper plant causes pollution and poses a risk to marine life.
 
-#### What went down 
+#### What went down
 
-Nine of the 11 fatalities in the demonstrations were killed in violent confrontations between protestors and policement on May 23. Protestors waving black flags forced their way inside a government building and an apartment block for Vedanta employees. Some of them also set vehicles on fire and threw stones at police. These reportedly prompted the police to respond with force.
+Nine of the 11 fatalities in the demonstrations were killed in violent confrontations between protestors and policemen on May 22. Protestors waving black flags forced their way inside a government building and an apartment block for Vedanta employees. Some of them also set vehicles on fire and threw stones at police. These reportedly prompted the police to respond with force. <a href="https://www.reuters.com/article/us-vedanta-protests/india-court-halts-expansion-of-vedantas-copper-smelter-after-protest-killings-idUSKCN1IO0GC" target="_blank">Fresh violence</a> erupted the next day, resulting in the death of another protestor.
 
 #### What's with the copper plant?
 
@@ -19,4 +19,4 @@ Vedanta's copper plant is one of India's largest and can produce up to 400,000 t
 
 #### Why does this matter?
 
-This is one of the deadliest protests against a private company in India and in a way demonstrates the conviction of protestors against Vedanta Resources. The London-headquartered Vedanta has faced <a href="http://www.minesandcommunities.org/article.php?a=13602" target="_blank">numerous allegations</a> of failing to meet environmental standards, endangering the health of local residents and disregarding the rights of local communities in areas where it operates. Vedanta has <a href="https://scroll.in/article/808828/human-rights-and-environment-are-our-priority-vedanta-reacts-to-london-lit-fest-controversy" target="_blank">argued</a> that it has invested heavily in improving the environmental performance of its operations. But the most recent protests show people don't believe it.
+This is one of the deadliest protests against a private company in India and in a way demonstrates the conviction of protestors against Vedanta Resources. The London-headquartered Vedanta has faced <a href="http://www.minesandcommunities.org/article.php?a=13602" target="_blank">numerous allegations</a> of failing to meet environmental standards, endangering the health of local residents and disregarding the rights of local communities in areas where it operates. Vedanta has <a href="https://scroll.in/article/808828/human-rights-and-environment-are-our-priority-vedanta-reacts-to-london-lit-fest-controversy" target="_blank">argued</a> that it has invested heavily in improving the environmental performance of its operations. But the most recent protests show people don't really believe it.
