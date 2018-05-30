@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Hide from Feed"
+excerpt: "Papua New Guinea to ban Facebook for a month over fake news as Facebook and Google criticized over GPDR implementation."
+categories: [Privacy]
+---
+
+### Papua New Guinea to temporarily block Facebook
+
+Papua New Guinea's (PNG) Ministry of Communications has announced a <a href="https://postcourier.com.pg/shutting-facebook-png-reality/" target="_blank">one-month ban of Facebook</a> so that it can can conduct research on how the social network is being used in the country. Minister Sam Basil said the one-month period "will allow information to be collected to identify users that hide behind fake accounts, users that upload pornographic images, users that post false and misleading information on Facebook to be filtered and removed."
+
+#### Tell me more
+
+The ban is part of PNG's enforcement of the Cyber Crime Act of 2016. “The Act has already been passed, so what I’m trying to do is to ensure the law is enforced accordingly where perpetrators can be identified and charged accordingly. We cannot allow the abuse of Facebook to continue in the country," Basil said.
+
+#### Does this ban matter?
+
+While reports indicate that just 12% of PNG's population uses Facebook, the country-wide ban has a significant impact on Facebook's reputation at a time when it is under heavy criticism globally for its failure to safeguard users' private information. Facebook is already banned in China, Iran and North Korea but PNG will be joining a number of countries that have imposed restrictions. The ban speaks to the lack of trust in the social network as well as the perceived severity of its negative social or political impact.
+
+#### Meanwhile...
+
+Facebook and Google are facing <a href="https://www.theguardian.com/technology/2018/may/25/facebook-google-gdpr-complaints-eu-consumer-rights" target="_blank">complaints</a> from European consumer rights organization <a href="https://noyb.eu/" target="_blank">Noyb</a> for forcing users of Facebook, Instagram, WhatsApp and Google's Android operating system into agreeing to new terms of service. Noyb also accused Facebook of blocking accounts of users who have not given consent. The complaint was filed on May 25, the day the European Union's <a href="https://www.eugdpr.org/" target="_blank">General Data Protection Regulation</a> took into effect.
+
+#### What does this mean for FB and Google?
+
+If the court rules in Noyb's favor, each company faces at least EUR 7 billion in fines. It's a lot of money even for Silicon Valley standards.
+
+* * *
+<br />
+
+**BEFORE YOU GO**
+
+#### **Quote of the day: Closing early**
+
+<i>We are proud to be a third place - a place between home and work where everyone is welcome. A place where everyone feels that they belong.</i> ~ A Starbucks notice of early closure. Starbucks closed all of its stores this afternoon to carry out a <a href="https://www.npr.org/sections/thetwo-way/2018/05/29/615119351/starbucks-closes-more-than-8-000-stores-today-for-racial-bias-training?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180529" target="_blank">racial sensitivity training</a> for all its staff.
+
+This as television network ABC <a href="http://money.cnn.com/2018/05/29/media/roseanne-twitter-chelsea-clinton/index.html" target="_blank">cancelled</a> Roseanne Barr's sitcom after a racist tweet against a former White House official under President Obama. Barr has apologized but the damage has been done. 
