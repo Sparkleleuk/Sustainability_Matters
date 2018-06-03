@@ -7,7 +7,7 @@ categories: [Finance, Environment]
 
 ### Reduced restrictions, more risk
 
-The US Congress and Federal Reserve are preparing to relax regulations imposed eight years ago to prevent a repeat of the global financial crisis. Among the changes are the lifting of capital restrictions on small and medium-sized banks and softening of restrictions on complex trading activities by investment banks.
+The US Congress and Federal Reserve are preparing to relax regulations imposed eight years ago to prevent a repeat of the global financial crisis. Among the changes are the lifting of capital restrictions on small- and medium-sized banks and softening of restrictions on complex trading activities by investment banks.
 
 #### Too small to regulate
 
