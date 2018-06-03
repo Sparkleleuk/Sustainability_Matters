@@ -19,7 +19,7 @@ The Federal Reserve is also preparing to <a href="https://www.nytimes.com/2018/0
 
 #### Why do these matter?
 
-Because restrictions were imposed on the financial industry for good reason: it caused a global economic meltdown that affected just about everybody in America. But since the law was passed in 2010, banks have been lobbying hard to have it loosened and it finally worked. Legislators say lifting the restrictions will simplify regulatory compliance and will have positive economic impact. For example, lifting the capital restriction on small and medium-sized banks will release more funds for lending. History will judge if this rollback was the right call. Otherwise, see you when the next crisis hits.
+Because restrictions were imposed on the financial industry for good reason: banks caused a global economic meltdown that affected just about everybody in America and beyond. But since the law was passed in 2010, banks have been lobbying hard to have it loosened and it finally worked. Legislators say lifting the restrictions will simplify regulatory compliance and will have positive economic impact. For example, lifting the capital restriction on small and medium-sized banks will release more funds for lending. History will judge if this rollback was the right call. Otherwise, see you when the next crisis hits.
 
 * * *
 <br />
