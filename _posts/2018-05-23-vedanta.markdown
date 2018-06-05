@@ -2,7 +2,7 @@
 layout: post
 title: "Bloody Tuesday"
 excerpt: "Protests against Vedanta Resources' copper smelter in India turns violent."
-categories: [Environment]
+categories: [Environment, CSR]
 ---
 
 ### Locals protest Vedanta's copper plant in Tamil Nadu

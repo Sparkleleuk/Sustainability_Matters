@@ -2,7 +2,7 @@
 layout: post
 title: "Oops, It Did It Again"
 excerpt: "Facebook alleged to have given mobile device makers deep access to users' data."
-categories: [Privacy, Environment]
+categories: [Privacy, Environment, CSR]
 ---
 
 ### Facebook's data-sharing agreements under fire
