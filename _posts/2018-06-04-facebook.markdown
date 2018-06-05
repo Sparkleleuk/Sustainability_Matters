@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Oops, It Did It Again"
+excerpt: "Facebook alleged to have given mobile device makers deep access to users' data."
+categories: [Privacy, Environment]
+---
+
+### Facebook's data-sharing agreements under fire
+
+Facebook is facing new allegations of failing to safeguard users' data through data-sharing partnerships that allowed mobile devices companies to access data of users' friends without their consent. The <a href="https://www.nytimes.com/interactive/2018/06/03/technology/facebook-device-partners-users-friends-data.html?rref=collection%2Fsectioncollection%2Ftechnology&action=click&contentCollection=technology&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront" target="_blank">New York Times reported</a> that Facebook has forged data-sharing partnerships with at least 60 mobile device companies such as Apple, Amazon, Blackberry, Microsoft and Samsung over the last 10 years, giving these companies deeper access to data than previously reported.
+
+#### The Facebook experience
+
+The <a href="https://www.nytimes.com/2018/06/04/technology/facebook-device-partnerships.html" target="_blank">Times reported</a> that Facebook forged these agreements in 2007 to give the company a wide reach. Remember, this was the time when Facebook was used by considerably fewer users than it is today. The partnership gave the device makers access to data of users and their friends via the Facebook app and other application and integrations that Facebook considers to be part of "the Facebook experience".
+
+#### Link to Cambridge Analytica
+
+The data-partnership was key to allowing a third-party app used by a Cambridge Analytica contractor to access data of more than 87 million Facebook users, which, we know, were later on used by Cambridge Analytica to promote pro-Trump campaigns. Facebook apparently started to terminate these partnerships after the scandal triggered a public relations fallout.
+
+#### Why does this matter?
+
+Because this shows that our data is indeed highly exposed and unless we are able to control what our friends do on social media, it is almost impossible to contain the extent of our exposure. By being connected to the world, we also leave ourselves vulnerable to exploitation and abuse.
+
+* * *
+<br />
+
+**BEFORE YOU GO...**
+
+#### **We're keeping an eye on**
+
+The volcanic eruption in Guatemala. The <a href="https://www.cnn.com/2018/06/04/americas/guatemala-fuego-volcano-erupts/index.html" target="_blank">Fuego volcano erupted on June 3</a>, killing at least 62 people. More than 1,700 people have been affected. This follows the eruption of the Kilauea volcano in Hawaii.
