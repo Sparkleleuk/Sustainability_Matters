@@ -2,7 +2,7 @@
 layout: post
 title:  "Ban"
 excerpt: "UK on its way to banning single-use plastics. ICYMI, IBM introduces blockchain for jewelry industry."
-categories: [Environment]
+categories: [Environment, CSR]
 ---
 
 ### Straws, other single-use plastics on their way out in the UK

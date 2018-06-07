@@ -2,7 +2,7 @@
 layout: post
 title: "Hide from Feed"
 excerpt: "Papua New Guinea to ban Facebook for a month over fake news as Facebook and Google criticized over GPDR implementation."
-categories: [Privacy]
+categories: [Privacy, CSR]
 ---
 
 ### Papua New Guinea to temporarily block Facebook
@@ -34,4 +34,4 @@ If the court rules in Noyb's favor, each company faces at least EUR 7 billion in
 
 <i>We are proud to be a third place - a place between home and work where everyone is welcome. A place where everyone feels that they belong.</i> ~ A Starbucks notice of early closure. Starbucks closed all of its stores this afternoon to carry out a <a href="https://www.npr.org/sections/thetwo-way/2018/05/29/615119351/starbucks-closes-more-than-8-000-stores-today-for-racial-bias-training?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20180529" target="_blank">racial sensitivity training</a> for all its staff.
 
-This as television network ABC <a href="http://money.cnn.com/2018/05/29/media/roseanne-twitter-chelsea-clinton/index.html" target="_blank">cancelled</a> Roseanne Barr's sitcom after a racist tweet against a former White House official under President Obama. Barr has apologized but the damage has been done. 
+This as television network ABC <a href="http://money.cnn.com/2018/05/29/media/roseanne-twitter-chelsea-clinton/index.html" target="_blank">cancelled</a> Roseanne Barr's sitcom after a racist tweet against a former White House official under President Obama. Barr has apologized but the damage has been done.

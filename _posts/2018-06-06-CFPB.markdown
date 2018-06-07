@@ -1,0 +1,32 @@
+---
+layout: post
+title: "They're Fired"
+excerpt: "Head of consumer protection agency fires board of advisors. ICYMI, whale had 17 lbs of plastic in its stomach."
+categories: [Finance, Environment]
+---
+
+### CFPB board members fired
+
+The head of the Consumer Financial Protection Bureau (CFPB) today <a href="https://www.nytimes.com/2018/06/06/business/mick-mulvaney-cfpb.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=stream&module=stream_unit&version=latest&contentPlacement=2&pgtype=sectionfront" target="_blank">announced</a> that it is reconstituting its advisory board to form a smaller advisory group, effectively firing its 25 advisors consisting of consumer rights advocates, industry representatives, academics, and entrepreneurs serving on a voluntary basis. The announcement was made in lieu of a meeting between the board and its advisors as required by law. The bureau also announced that it is shifting its engagement efforts to town hall meetings to reduce cost.
+
+#### What are advisors saying?
+
+They're not pleased. Advisory board member Josh Zinner said this signals that the "new leadership is almost obsessively dismantling the bureau’s accomplishments and taking it in a decidedly different, industry-friendly direction.” Others said this was an indication that the bureau does not want to engage with dissenting opinions.
+
+
+#### What is the CFPB saying?
+
+CFPB communications director John Czwartacki said that members of the advisory boards <a href="http://thehill.com/policy/finance/391074-mulvaney-deepens-feud-with-consumer-advocates-over-board-shutdown" target="_blank">had not been fired</a> and that the bureau would “continue to meet its statutory obligation” to convene board meetings. However, the advisors were also told that further meetings will not be convened until the board has selected their replacements. At least three advisors whose terms are ending this year were told that reapplying for membership next year was not an option.
+
+#### Why does this matter?
+
+The CFPB was created under the Dodd–Frank Wall Street Reform and Consumer Protection Act of 2010 to ensure that consumers are protected from misconduct by financial companies. For one, the bureau tracks consumer complaints against private companies and is mandated to pursue enforcement action if the allegations are found to be true. But under Mulvaney, the bureau is now perceived to be serving the interests of the financial industry rather than consumers. This is consistent with the government's plan to soften Dodd Frank by lifting some of the imposed restrictions on banks. The CFPB sure is going through a rebranding exercise but its looking like its not for our benefit.
+
+* * *
+<br />
+
+**ICYMI**
+
+#### **Plastics for food**
+
+A whale that recently died of starvation in Thailand had <a href="https://www.smithsonianmag.com/smart-news/whale-dies-thailand-80-plastic-bags-its-stomach-180969232/" target="_blank">80 plastic bags, weighing 17 lbs. in its stomach</a>. The whale started vomiting plastic bags on the fifth day of scientists trying to save him. There is evidence that more marine animals are ingesting plastic bags, strongly indicating the extent of plastic pollution in the world's oceans.
