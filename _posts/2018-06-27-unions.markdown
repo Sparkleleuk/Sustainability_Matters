@@ -1,0 +1,27 @@
+---
+layout: post
+title: "State of Unions"
+excerpt: "SCOTUS rules against public sector unions. ICYMI: The EU just raised its commitment to renewables."
+categories: [Environment, Labor]
+---
+
+### Supreme Court prohibits union fees
+
+The Supreme Court has ruled that workers who do not belong to unions should <a href="https://www.reuters.com/article/us-usa-court-unions/supreme-court-delivers-blow-to-organized-labor-in-fees-dispute-idUSKBN1JN0H2" target="_blank">not be required to pay union fees</a>. The June 27, 2018 ruling overturned a 1977 decision that permitted "agency fees" collected by unions in certain fees. The fees were paid by non-members in lieu of union dues to help fund non-political activities such as collective bargaining negotiations. 
+
+#### Partisan divide
+
+SCOTUS judges voted along party lines with conservatives winning in the 5-4 vote. The ruling stated that forcing non-members to pay these fees "violates their rights to free speech and free association." Justice Elena Kagan, in her dissent, said the conservatives were  “weaponizing the First Amendment” to intervene in economic and regulatory policy.
+
+#### Why does this matter?
+
+"Agency fees" are a major source of revenues for labor unions and support labor-related activities that also benefit non-members. The prohibition of such fees deprives unions of revenues and weakens their ability to push their political and social agenda. Unions have had their share of bad rep but somebody's gotta fight for low-wage workers rights so this is a setback not just for the unions but for labor in general.
+
+* * *
+<br />
+
+**ICYMI**
+
+#### **EU ups the ante on renewables**
+
+The European Union (EU) agreed last week to <a href="https://www.reuters.com/article/us-eu-energy/eu-agrees-32-percent-renewables-target-for-2030-idUSKBN1JA0W5" target="_blank">increase the share of renewables</a> in its energy production to 32%, or 5% higher than initially proposed. The new target will help the EU meet its goal of reducing greenhouse gas emissions by at least 40% below 1990 levels by 2030.
