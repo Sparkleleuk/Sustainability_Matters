@@ -30,7 +30,7 @@ Facebook's share price <a href="https://www.marketwatch.com/story/facebook-stock
 
 #### Hit me with the numbers
 
-Facebook reported that its MAU (for Monthly Active Users) stood at 2.23 million as of June 30, 2018, an increase of 11% from the same period last year. Well and good. But this figure was lower than analyst expectations and user growth was flat in North America and fell in Europe in the second quarter of 2018. Moreover, while sales increased by 41%, this growth was lower than previous quarters and Facebook's CFO warned that the slower growth will continue.
+Facebook reported that its MAU (for Monthly Active Users) stood at 2.23 million as of June 30, 2018, an increase of 11% from the same period last year. Well and good. But this figure was lower than analyst expectations and user growth was flat in North America and fell in Europe in the second quarter of 2018. Moreover, while sales increased by 41%, this growth was lower than previous quarters and Facebook's CFO warned that slower revenue growth will continue.
 
 #### What do these mean?
 
