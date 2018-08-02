@@ -7,7 +7,7 @@ categories: [Diversity, Human Rights]
 
 ### In comes the “Weinstein clause”
 
-Mergers and acquisition (M&A) deals are integrating a so-called <a href="https://www.bloomberg.com/news/articles/2018-08-01/-weinstein-clause-creeps-into-deals-as-wary-buyers-seek-cover" target="_blank">Weinstein clause (think Harvey) in M&A contracts, in a sign that the corporate world considers #MeToo material to their business.  The clause requires sellers to carry out a due diligence on behaviours of executives, and allows buyers to get their money back if executives are found to be involved in sexual misconduct.
+Mergers and acquisition (M&A) deals are integrating a so-called <a href="https://www.bloomberg.com/news/articles/2018-08-01/-weinstein-clause-creeps-into-deals-as-wary-buyers-seek-cover" target="_blank">Weinstein clause</a> (think Harvey) in M&A contracts, in a sign that the corporate world considers #MeToo material to their business.  The clause requires sellers to carry out a due diligence on behaviours of executives, and allows buyers to get their money back if executives are found to be involved in sexual misconduct.
 
 #### How does this work?
 
