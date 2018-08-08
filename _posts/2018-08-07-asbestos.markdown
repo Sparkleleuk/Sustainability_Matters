@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The Return of Asbestos"
+excerpt: "EPA allows new uses of asbestos."
+categories: [Environment]
+---
+
+### Asbestos makes a comeback
+
+The US Environmental Protection Agency (EPA) is set to formally allow the new use of asbestos by the manufacturing industry, although companies that which to do so need to inform the agency 90 days before actual production. The EPA's <a href="https://www.epa.gov/reviewing-new-chemicals-under-toxic-substances-control-act-tsca/actions-under-tsca-section-5#SNURs" target="_blank">Significant New Use Rule</a> allows the "significant new use" of certain asbestos products. The public comment period for the new rule ends on August 10.
+
+#### Fact check: What's in and what remains out?
+
+The new rule does lift the <a href="https://www.epa.gov/asbestos/us-federal-bans-asbestos" target="_blank">ban on chemicals</a> that have been linked to cancer and other serious illnesses. But chemicals or uses outside the ban may be allowed by the EPA after a 90-day risk evaluation and review process.
+
+#### What are critics saying?
+
+Critics are obviously unhappy with the new rule. Asbestos is considered a carcinogen and has had proven negative impacts on human health. They are also opposed to how the EPA intends to conduct its risk evaluation because the agency does not intend to use information from legacy uses of asbestos. This means that health information from the use of asbestos 50 years ago will be excluded as evidence in the review.
+
+#### Why does this matter?
+
+Because human exposure to asbestos has been linked to mesothelioma. Deaths have been associated with this chemical and yet it is allowed to be used again. It is now up to the private sector to determine if the short-term gains from this rule is worth the long-term litigation risks. Asbestos-related lawsuits in the US continue to be filed and settled, with settlement amounts <a href="https://www.reuters.com/article/us-usa-asbestos-lawsuits-idUSBRE84A0J920120511" target="_blank">increasing</a> every year.
