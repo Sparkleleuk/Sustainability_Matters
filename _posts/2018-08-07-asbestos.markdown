@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Return of Asbestos"
-excerpt: "EPA allows new uses of asbestos."
+excerpt: "EPA allows new uses of asbestos. ICYMI: Earth Overshoot Day happened."
 categories: [Environment]
 ---
 
