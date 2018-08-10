@@ -5,7 +5,7 @@ excerpt: "US federal court orders ban of harmful pesticide. Our quote of the day
 categories: [Environment]
 ---
 
-### Federal judge rules against EPA in chlorpyrifos case
+### Court rules against EPA in chlorpyrifos case
 
 A US federal court <a href="https://www.cnn.com/2018/08/09/politics/epa-court-order-ban-pesticide-chlorpyrifos/index.html" target="_blank">ordered</a> on August 9 the US Environmental Protection Agency (EPA) to ban a widely-used pesticide that is feared to have harmful effects on human health. The 9th US Circuit Court of Appeals directed the EPA "revoke all tolerances and cancel all registrations for chlorypyrifos within 60 days". The EPA said it is reviewing the decision.
 
