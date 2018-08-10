@@ -41,10 +41,10 @@ Australia's spending reflects the increased pressure of extreme weather conditio
 
 **ICYMI**
 
-#### Indonesia experiences second strong quake
+#### **Indonesia experiences second strong quake**
 
 A magnitude <a href="http://www.abc.net.au/news/2018-08-06/indonesia-issues-tsunami-warning-after-quake-off-lombok/10076088" target="_blank">6.9 earthquake</a> struck Indonesia's Lombok island on August 5, resulting in the death of at least 98 people. More than 230 people were injured and roughly 20,000 residents were evacuated. The earthquake was the second to hit Lombok in a week.
 
-#### Baby blue whale washes ashore in Japanese beach
+#### **Baby blue whale washes ashore in Japanese beach**
 
 A dead <a href="https://www3.nhk.or.jp/nhkworld/en/news/20180806_26/" target="_blank">blue whale washed ashore</a> in Yuigahama Beach in Kamakura City, about 40 miles from Tokyo on August 5. Scientists confirmed that the 10-meter long whale was a male whale born in 2018. The cause of death is still unknown. It was the first sighting of a blue whale in Japan.
