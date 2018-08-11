@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Rounded Up"
-excerpt: "Jury finds Monsanto liable for cancer."
+excerpt: "Jury finds Monsanto liable for cancer. ICYMI: Opioid addiction among pregnant women in the US is soaring."
 categories: [Health]
 ---
 
 ### Jury orders Monsanto to pay nearly $300 million in damages
 
-A jury <a href="https://www.reuters.com/article/us-monsanto-cancer-lawsuit/monsanto-ordered-to-pay-289-million-in-worlds-first-roundup-cancer-trial-idUSKBN1KV2HB" target="_blank">ordered</a> Monsanto, the world's largest manufacturer of pesticides, to pay a terminally ill man $289 million in damages for failing to warn him of the cancer risks of its widely used Roundup and RangerPro pesticide brands. The jury reached a verdict that Roundup causes cancer, ending a landmark eight-week trial tried in a court in San Fransisco, California.
+A jury <a href="https://www.reuters.com/article/us-monsanto-cancer-lawsuit/monsanto-ordered-to-pay-289-million-in-worlds-first-roundup-cancer-trial-idUSKBN1KV2HB" target="_blank">ordered</a> Monsanto, the world's largest manufacturer of pesticides, to pay a terminally-ill man $289 million in damages for failing to warn him of the cancer risks of its widely used Roundup and RangerPro pesticide brands. The jury reached a verdict that Roundup causes cancer, ending a landmark eight-week trial tried in a court in San Fransisco, California.
 
 #### Throwback 2014
 
@@ -28,4 +28,4 @@ The verdict could affect the 5,000 other cases facing the company as well as Mon
 
 #### **More pregnant women in the US are addicted to opioids**
 
-The US Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/mmwr/volumes/67/wr/mm6731a1.htm?s_cid=mm6731a1_w" target="_blank">reported</a> that the number of pregnant women addicted to opioids more than quadrupled from 1999 to 2014. Maine, New Mexico, Vermont, and West Virginia had the largest increase, while California had the lowest increase. Opioid use during pregnancy may lead to preterm labor, stillbirth, neonatal abstinence syndrome (we had to Google it too), and death during childbirth. If this is not crisis proportions, we don't know what is. 
+The US Centers for Disease Control and Prevention (CDC) <a href="https://www.cdc.gov/mmwr/volumes/67/wr/mm6731a1.htm?s_cid=mm6731a1_w" target="_blank">reported</a> that the number of pregnant women addicted to opioids more than quadrupled from 1999 to 2014. Maine, New Mexico, Vermont, and West Virginia had the largest increase, while California had the lowest increase. Opioid use during pregnancy may lead to preterm labor, stillbirth, neonatal abstinence syndrome (we had to Google it too), and death during childbirth. If this is not crisis proportions, we don't know what is.
