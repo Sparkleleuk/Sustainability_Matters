@@ -2,7 +2,7 @@
 layout: post
 title: "Chlorpywhat?"
 excerpt: "US federal court orders ban of harmful pesticide. Our quote of the day is from a suspected criminal."
-categories: [Environment]
+categories: [Environment, Health]
 ---
 
 ### Court rules against EPA in chlorpyrifos case
