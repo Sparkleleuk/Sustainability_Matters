@@ -2,7 +2,7 @@
 layout: post
 title: "So Much Hate"
 excerpt: "Facebook is back in the news for hate crime. On our reading list is a report on how a woman's career is shaped by geography."
-categories: [Human Rights, Diversity]
+categories: [Human Rights, Diversity, Privacy]
 ---
 
 ### Anti-refugee attacks in Germany may have been fueled by Facebook usage
@@ -22,6 +22,12 @@ Facebook has also been blamed for failing to police the spread of hate speech ag
 #### Why does this matter?
 
 Because, human rights. Companies have a <a href="https://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf" target="_blank">responsibility to respect human rights</a> by not causing or contributing to adverse human rights impacts through their activities, products or services. Facebook says it has learned its lessons and is actively managing content. It recently <a href="https://www.theverge.com/2018/8/6/17655102/facebook-bans-alex-jones-infowars-pages" target="_blank">removed four pages run by Alex Jones and Infowars</a> for violating the network's policies on hate speech and bullying, as well as hundreds of accounts linked to Russian interference in the US mid-term elections. More baby pictures are in the cards then.
+
+#### P.S. And just when we thought the privacy issues were over...
+
+A third-party Facebook app called myPersonality <a href="https://variety.com/2018/digital/news/facebook-4-million-users-app-data-mypersonality-1202914878/" target="_blank">collected personal data</a> of approximately 4 million Facebook users and shared them with third parties. More personality analysis, anyone?
+
+
 
 * * *
 <br />
