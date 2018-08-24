@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So Much Hate"
-excerpt: "Facebook is back in the news for hate crime."
+excerpt: "Facebook is back in the news for hate crime. On our reading list is a report on how a woman's career is shaped by geography."
 categories: [Human Rights]
 ---
 
@@ -30,4 +30,4 @@ Because, human rights. Companies have a <a href="https://www.ohchr.org/Documents
 
 #### **We're reading**
 
-A University of Chicago working paper noting that women's careers are shaped by where they are born and choose to live as an adult. For example, a woman born in the Deep South is more likely to face a wider economic gender gap than a woman born in the Pacific Coast. Interesting eh? Read more <a href="https://bfi.uchicago.edu/Charles-WP-201856" target="_blank">here</a>. 
+A University of Chicago working paper noting that women's careers are shaped by where they are born and choose to live as an adult. For example, a woman born in the Deep South is more likely to face a wider economic gender gap than a woman born in the Pacific Coast. Interesting eh? Read more <a href="https://bfi.uchicago.edu/Charles-WP-201856" target="_blank">here</a>.
