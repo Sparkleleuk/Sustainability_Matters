@@ -1,0 +1,24 @@
+---
+layout: post
+title: "So Much Hate"
+excerpt: "Facebook is back in the news for hate crime."
+categories: [Human Rights]
+---
+
+### Anti-refugee attacks in Germany may have been fueled by Facebook usage
+
+A new report by two German researchers found that Facebook usage appear to have fueled thousands of anti-refugee attacks in Germany. The study indicated there was a "correlation between hate-inspired Facebook posts and a subsequent rise in hate crimes committed against refugees in Germany".
+
+#### Tell me more
+
+Karsten Müller and Carlo Schwarz who are researchers at the University of Warwick in the United Kingdom, <a href="https://www.nytimes.com/2018/08/21/world/europe/facebook-refugee-attacks-germany.html" target="_blank">studied 3,335 anti-refugee attacks</a> in Germany and found that attacks were more frequent in towns with higher than average Facebook usage. One such case was in Altena, approximately 100 kilometers east of Dusseldorf, where a firefighter trainee tried to set a refugee group house on fire. The trainee was neither considered dangerous nor political until the incident. He was found to have used Facebook heavily before carrying out the attack.
+
+Want to know more? Here's an <a href="https://www.dw.com/en/facebook-usage-fueled-anti-refugee-attacks-in-germany-research-suggests/a-45182342" target="_blank">interview with Schwarz</a> by Deutsche Welle.
+
+#### Not the first connection to hate
+
+Facebook has also been blamed for failing to police the spread of hate speech against Rohingya refugees in Myanmar. An <a href="https://www.theguardian.com/world/2018/apr/03/revealed-facebook-hate-speech-exploded-in-myanmar-during-rohingya-crisis" target="_blank">analysis</a> by researcher Raymond Serrato noted that between 24 and 25 August 2017 for example, hate speech posts and interactions by members of a hardline nationalist group spiked by 200%. Another analysis by Alan Davis of the Institute for War and Peace Reporting found that prior to August, the posts had become "more organized, more odious, and more militarized." And because Facebook is one of the major sources of information in Myanmar, posts and interactions on the social network have a huge influence.
+
+#### Why does this matter?
+
+Because, human rights. Companies have a <a href="https://www.ohchr.org/Documents/Publications/GuidingPrinciplesBusinessHR_EN.pdf" target="_blank">responsibility to respect human rights</a> by not causing or contributing to adverse human rights impacts through their activities, products or services. Facebook says it has learned its lessons and is actively managing content. It recently <a href="https://www.theverge.com/2018/8/6/17655102/facebook-bans-alex-jones-infowars-pages" target="_blank">removed four pages run by Alex Jones and Infowars</a> for violating the network's policies on hate speech and bullying, as well as hundreds of accounts linked to Russian interference in the US mid-term elections. More baby pictures are in the cards then.
