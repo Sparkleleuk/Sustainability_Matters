@@ -2,7 +2,7 @@
 layout: post
 title: "So Much Hate"
 excerpt: "Facebook is back in the news for hate crime. On our reading list is a report on how a woman's career is shaped by geography."
-categories: [Human Rights]
+categories: [Human Rights, Diversity]
 ---
 
 ### Anti-refugee attacks in Germany may have been fueled by Facebook usage
