@@ -15,7 +15,7 @@ Amerige alleged that the company and its employees are "quick to attack - often 
 
 #### Culture wars
 
-Silicon Valley is known to be politically left-leaning, although in the last two years, there have been pockets of dissent that have captured media attention. In July 2017, an engineer at Google, James Damore, published a memo criticizing Google's left-leaning bias. But the <a https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf" target="_blank">memo</a> was controversial for noting "biological differences" between men and women", suggesting that women's traits explain why there are fewer of them in tech. Damore was <a href="https://www.nytimes.com/2017/08/08/technology/google-engineer-fired-gender-memo.html" target="_fired from the company shortly thereafter for "advancing harmful gender stereotypes".
+Silicon Valley is known to be politically left-leaning, although in the last two years, there have been pockets of dissent that have captured media attention. In July 2017, an engineer at Google, James Damore, published a memo criticizing Google's left-leaning bias. But the <a href= "https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf" target="_blank">memo</a> was controversial for noting "biological differences" between men and women", suggesting that women's traits explain why there are fewer of them in tech. Damore was <a href="https://www.nytimes.com/2017/08/08/technology/google-engineer-fired-gender-memo.html" target="_blank">fired</a> from the company shortly thereafter for "advancing harmful gender stereotypes".
 
 #### Why does this matter?
 
