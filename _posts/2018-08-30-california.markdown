@@ -19,13 +19,13 @@ Investor-owned utilities are unhappy, saying that the bill focused on their sect
 
 #### Why does this matter?
 
-When the bill passes into law, California will become the second US state to aim for 100% carbon-free electricity grid, following Hawaii. Sure, electricity is just one source of emissions, but California's air pollution standards for motor vehicles are stricter than the federal government's. This means that the state does deal with major sources of emissions.
+When the bill passes into law (and it is expected to) California will become the second US state to aim for a 100% carbon-free electricity grid, following Hawaii. Sure, electricity is just one source of emissions, but California's air pollution standards for motor vehicles are stricter than the federal government's. This means that the state does deal with major sources of emissions.
 
 * * *
 <br />
 
 **EARLY WARNING**
 
-#### **Tech giants face increased regulatory risk**
+#### **Tech giants face increased regulatory risk at home**
 
-President Trump <a href="https://www.bloomberg.com/news/articles/2018-08-30/google-under-fire-again-on-search-as-hatch-calls-for-ftc-probe" target="_blank">hinted</a> that Amazon, Facebook and Google, may face antitrust risks, although he declined to comment further on whether these companies needed to be broken up. Republican Senator Orrin Hatch also <a href="https://www.reuters.com/article/us-usa-antitrust-google/republican-senator-asks-ftc-to-examine-google-ads-idUSKCN1LF275" target="_blank">asked</a> the Federal Trade Commission to reopen an antitrust investigation against Google. Trump recently accused Google of manipulating search results in favor of "fake media". Big tech is now treading dangerous waters.
+President Trump <a href="https://www.bloomberg.com/news/articles/2018-08-30/google-under-fire-again-on-search-as-hatch-calls-for-ftc-probe" target="_blank">hinted</a> that Amazon, Facebook and Google, may face antitrust risks, although he declined to comment further on whether these companies needed to be broken up. Republican Senator Orrin Hatch also <a href="https://www.reuters.com/article/us-usa-antitrust-google/republican-senator-asks-ftc-to-examine-google-ads-idUSKCN1LF275" target="_blank">asked</a> the Federal Trade Commission to reopen an antitrust investigation against Google. Trump recently accused Google of manipulating search results in favor of "fake media" and has told them to watch out. Big tech is now treading dangerous waters.
