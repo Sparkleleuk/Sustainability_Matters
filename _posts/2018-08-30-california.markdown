@@ -7,11 +7,11 @@ categories: [Environment]
 
 ### California plans its electricity grid to be 100% carbon-free by 2045
 
-California's state legislators <a href="https://www.nytimes.com/2018/08/28/business/energy-environment/california-clean-energy.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=rank&module=package&version=highlights&contentPlacement=13&pgtype=sectionfront" target="_blank">voted</a> on August 28 to require that 100% of the state's electricity come from renewable energy in 27 years. California's State Assembly also voted to increase the use of renewable energy from 50% to 60% by 2030. Legislators voted 44-33 in favor of the bill.
+California's state legislators <a href="https://www.nytimes.com/2018/08/28/business/energy-environment/california-clean-energy.html?rref=collection%2Fsectioncollection%2Fbusiness&action=click&contentCollection=business&region=rank&module=package&version=highlights&contentPlacement=13&pgtype=sectionfront" target="_blank">voted</a> on August 28 for a bill mandating that 100% of the state's electricity come from renewable energy in 27 years. California's State Assembly also voted to increase the use of renewable energy from 50% to 60% by 2030. Legislators voted 44-33 in favor of the bill.
 
 #### Who supported?
 
-The bill was put forward by Democratic State Senator Kevin de León who is running against Senator Dianne Feinstein in the November mid-term elections. Former Governor Arnold Schwarzenegger, a Republican, and former Vice President Al Gore also gave the thumbs up. Supporters say the push for more renewable energy will not only be climate friendly, it will create jobs and boost the state economy.
+The bill was put forward by Democratic State Senator Kevin de León who is running against a fellow Dem, Senator Dianne Feinstein, in the November mid-term elections. Former Governor Arnold Schwarzenegger, a Republican, and former Vice President Al Gore, a Democrat, also gave the thumbs up. Supporters say the push for more renewable energy will not only be climate-friendly, it will create jobs and boost the state economy.
 
 #### Who's skeptical?
 
