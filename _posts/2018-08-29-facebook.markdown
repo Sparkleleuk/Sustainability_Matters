@@ -7,7 +7,7 @@ categories: [Diversity]
 
 ### Internal memo by FB employee pushes for diversity in political ideology
 
-An internal memo by a Facebook employee criticized the social media company for an "intolerant liberal culture". The <a href="https://int.nyt.com/data/documenthelper/201-facebook-political-diversity/a8dfe9ae492061f54455/optimized/full.pdf#page=1" target="_blank">memo written by engineer Brian Amerige</a> and published by the New York Times, alleged that the culture of intolerance have gotten worse in the last two years, coinciding with the election of President Trump.
+An internal memo by a Facebook employee criticized the social media company for an "intolerant liberal culture". The <a href="https://int.nyt.com/data/documenthelper/201-facebook-political-diversity/a8dfe9ae492061f54455/optimized/full.pdf#page=1" target="_blank">memo written by engineer Brian Amerige</a> and published by the New York Times, alleged that the culture of intolerance has gotten worse in the last two years, coinciding with the election of President Trump.
 
 #### Too liberal?
 
