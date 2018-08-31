@@ -15,7 +15,7 @@ The bill was put forward by Democratic State Senator Kevin de León who is runni
 
 #### Who's skeptical?
 
-Investor-owned utilities are unhappy, saying that the bill focused on their sector while transportation remains the highest source of emissions in the state. Critics warn that this will mean higher electricity costs for consumers. Utilities are also concerned that wind and solar power are still unpredictable and that they may not be able to meet electricity needs without fossil fuels.
+Investor-owned utilities are unhappy, saying that the bill focuses too much on their sector while transportation remains the highest source of emissions in the state. Critics warn that this will mean higher electricity costs for consumers. Utilities are also concerned that wind and solar power are still unpredictable and that they may not be able to meet electricity needs without fossil fuels.
 
 #### Why does this matter?
 
