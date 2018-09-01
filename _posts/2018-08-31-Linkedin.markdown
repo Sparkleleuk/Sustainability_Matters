@@ -1,0 +1,41 @@
+---
+layout: post
+title: "De-Link Me"
+excerpt: "Professional networking platform linked to Chinese espionage. Our quote of the day is on Wells Fargo."
+categories: [Privacy, Diversity]
+---
+
+### China accused of using LinkedIn to recruit American spies
+
+The US counter-intelligence chief has <a href="https://www.reuters.com/article/us-linkedin-china-espionage-exclusive/exclusive-chief-u-s-spy-catcher-says-china-using-linkedin-to-recruit-americans-idUSKCN1LG15Y" target="_blank">accused</a> China of running a "super aggressive" recruitment of American spies through LinkedIn. William Evanina, Director of the National Counterintelligence and Security Center, said fake Chinese LinkedIn account owners are contacting "thousands" of LinkedIn members with access to US government and commercial assets.
+
+#### What's the MO?
+
+According to US authorities, China's Ministry of State Security uses "co-optees" or private individuals who set up fake accounts and approach potential recruits particularly in the fields of supercomputing, nuclear energy, nanotechnology, semiconductors, stealth technology, health care, hybrid grains, seeds and green energy. They employ fake business propositions like proposals for academic papers or downright bribery.
+
+#### Case in point
+
+In February 2017, a retired CIA officer, Kevin Mallory, was contacted via LinkedIn by a Chinese national posing as a headhunter who called himself Richard Yang. Yang arranged a telephone call between Mallory and a man who claimed to work at a think tank in Shanghai. Mallory eventually agreed to sell US defense secrets but was caught and tried in court.
+
+#### What's LinkedIn saying?
+
+LinkedIn’s head of trust and safety, Paul Rockwell, confirmed the company, owned by Microsoft, had been talking to US law enforcement agencies about these fake accounts. LinkedIn earlier said it has taken down "less than 40 fake accounts" but did not say if these were Chinese accounts. Rockwell said the company is "doing everything" to stop this activity and weed out the "bad actors".
+
+#### What about China?
+
+China’s foreign ministry denied the allegations. “We do not know what evidence the relevant U.S. officials you cite have to reach this conclusion. What they say is complete nonsense and has ulterior motives,” the ministry said in a statement to Reuters.
+
+#### Why does this matter?
+
+LinkedIn is the latest social media network that has been linked to foreign government activity in the US. This effectively makes us, LinkedIn users, vulnerable. For many users, LinkedIn is the repository of our career history and access to this history by the wrong people leaves us open to identity theft, abuse and other privacy concerns.
+
+#### Our take
+
+So you suddenly get an invite to connect from someone you don't know? Think once, twice, thrice before accepting because you may just end up networking with the wrong crowd.
+
+* * *
+<br />
+
+**QUOTE OF THE DAY**
+
+<b><i>Women should be at home taking care of their children.</i></b> Words of wisdom reportedly said by Jay Welker, president of Wells Fargo's private bank division. The Wall Street Journal reported that Wells Fargo is conducting an internal investigation into allegations of gender bias in the bank, and Welker is said to be one of the subjects of the probe. Then there are the <a href="https://www.wsj.com/articles/wells-fargo-fires-bankers-amid-probe-of-dinner-receipts-that-were-allegedly-doctored-1535637745" target="_blank">doctored dinner receipts</a>. Wells Fargo did not have much fun this summer.
