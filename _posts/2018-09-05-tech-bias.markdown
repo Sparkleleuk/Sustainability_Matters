@@ -13,7 +13,7 @@ Allegations of bias by social media companies have just taken a turn for the wor
 
 Republicans in the House of Representatives questioned Twitter CEO Jack Dorsey over alleged bias against conservatives. Dorsey <a href="https://docs.house.gov/meetings/IF/IF00/20180905/108642/HHRG-115-IF00-Wstate-DorseyJ-20180905.pdf" target="_blank">admitted</a> that Twitter had "unfairly" filtered 600,000 accounts from its search auto-suggestions, although this was due to faulty algorithms and was not intentional. Most accounts affected were not political and the issues was "resolved" within 24 hours.
 
-COO Sheryl Sandberg represented Facebook but Google snubbed the whole affair. The members of the House were not pleased. Sandberg and Dorsey are also expected to face questions about their companies' efforts to weed out trolls and fake accounts, as well as stop online harassment and bullying.
+COO Sheryl Sandberg represented Facebook but Google said, nah, we're not playing this game. Members of the House were not pleased. Sandberg and Dorsey are also expected to face questions about their companies' efforts to weed out trolls and fake accounts, as well as stop online harassment and bullying.
 
 #### Justice wants in
 
