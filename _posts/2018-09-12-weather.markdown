@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Oh the Weather Outside Is Frightful"
-excerpt: "Large weather disturbances from the Atlantic to the Pacific."
-categories: [Environment]
+excerpt: "Large weather disturbances from the Atlantic to the Pacific. FDA goes after e-cigarette makers, retailers."
+categories: [Environment, Health]
 ---
 
 ### US, Asia bracing for strong storms at the same time
