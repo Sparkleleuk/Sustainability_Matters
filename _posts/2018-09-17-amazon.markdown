@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Bribed"
+excerpt: "Amazon investigating bribery reports. ICYMI, Typhoon Mangkhut was the world's strongest storm this year."
+categories: [Ethics, CSR, Environment]
+---
+
+### Amazon employees reportedly bribed for sales data, reviews
+
+The Wall Street Journal <a href="https://www.wsj.com/articles/amazon-investigates-employees-leaking-data-for-bribes-1537106401" target="_blank">reported</a> that Amazon employees have been bribed to leak confidential sales data as well as to remove negative reviews of products. Amazon has reportedly opened an investigation into these allegations.
+
+#### The rundown
+
+The Journal, citing anonymous sellers, brokers and sources familiar with the investigation, reported that Amazon employees have been bribed into releasing sales and search data to independent merchants selling products in Amazon, giving them an edge over competitors. The practice was reportedly prevalent in China. Employees were also paid off to remove negative reviews of certain products. Intermediaries working for some sellers also in China reportedly paid bribes of between $80 and $2,000.  
+
+#### Amazon fights back
+
+Amazon opened the investigation in May. The company <a href="https://www.cnet.com/news/amazon-reportedly-probing-employees-leaking-data-for-bribes/" target="_blank">warned</a> that employees found to have committed a misconduct face tough punishment, like legal and criminal penalties and loss of job. Merchants too, could face lawsuits and other consequences. Since 2015, the company has sued more than 1,000 entities involved in allegedly creating fake product reviews on its sites.
+
+#### Why does this matter?
+
+In the age of e-commerce, online sellers like Amazon need the trust of customers and sellers themselves to retain market share. Thus, it's important to maintain the integrity of its platform and review system. Because who wants to buy from a retailer full of fake reviews?
+
+* * *
+<br />
+
+**ICYMI**
+
+#### **Mangkhut wrecks havoc in Asia**
+
+Typhoon Mangkhut rampaged through Asia over the weekend, killing <a href="https://edition.cnn.com/2018/09/16/asia/typhoon-mangkhut-ompong-philippines-intl/index.html" target="_blank">at least 54 people in the Philippines</a>, and causing significant damage in Hong Kong. The Hong Kong Observatory declared a <a href="https://www.scmp.com/news/hong-kong/health-environment/article/2164523/its-official-typhoon-mangkhut-was-most-intense" target="_blank">typhoon signal No. 10</a> even as Mangkhut weakened upon entering the island. Mangkhut was officially <a href="https://www.cnn.com/2018/09/16/asia/typhoon-mangkhut-china-hong-kong-intl/index.html" target="_blank">the world's strongest storm</a> in 2018 so far.
