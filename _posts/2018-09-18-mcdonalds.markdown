@@ -32,4 +32,4 @@ Because low-wage workers are typically more vulnerable to sexual harassment. Stu
 
 #### **Facebook hit for job ad discrimination, again**
 
-A labor union filed a complaint with the EEOC for <a href="https://www.bbc.com/news/technology-45569227" target="_blank">alleged gender discrimination in its job ads</a>. Job ads in traditionally male-dominated professions like mechanic, roofer and security engineer allegedly do not show up in newsfeeds of women. <a href="https://www.propublica.org/article/facebook-is-letting-job-advertisers-target-only-men" target="_blank"> the first time</a> for Facebook, which relies on ads for a living.
+A labor union filed a complaint with the EEOC for <a href="https://www.bbc.com/news/technology-45569227" target="_blank">alleged gender discrimination in its job ads</a>. Job ads in traditionally male-dominated professions like mechanic, roofer and security engineer allegedly do not show up in newsfeeds of women. <a href="https://www.propublica.org/article/facebook-is-letting-job-advertisers-target-only-men" target="_blank">Not the first time</a> for Facebook, which relies on ads for a living.
