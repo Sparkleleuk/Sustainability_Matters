@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Laundered"
+excerpt: "Danish Bank facing fallout from suspicious transactions. ICYMI, NYC pension goes green, and CEO girl power."
+categories: [Ethics, Finance, Diversity]
+---
+
+### Danish Bank suspects billions laundered through Estonian branch
+
+Danske Bank is reeling from the fallout of suspicious transactions that went through its branch in Estonia.
+
+#### What's the story?
+
+Earlier this month, Danske said it was investigating suspicious transactions in its branch in Estonia, but already admitted to weaknesses in its anti-money laundering controls.  This occurred at about the same time that prosecutors in the Netherlands fined ING Groep NV, one of Europe's largest financial services firms, for failing to prevent money laundering in its branches for many years. ING paid EUR EUR 775 million to settle the Dutch government investigation, while Danske commissioned a third-party firm to carry out the probe of the suspicious transactions.  
+
+#### The investigation
+
+The law firm Bruun & Hjejle investigated approximately 15,000 customers and 9.5 million payments worth a total of EUR 200 billion. "Overall, we expect a significant part of the payments to be suspicious," the company said in a <a href="https://danskebank.com/news-and-insights/news-archive/press-releases/2018/pr19092018" target="_blank">press statement</a>. The investigation also revealed "major deficiencies" in the bank's governance and controls. In particular, its bank in Estonia took in a large number of non-resident customers who carried out "large volumes of transactions that should never have happened." These customers were registered Russia, Britain, the British Virgin Islands and Finland. Did you just say Russia? Hmmm.
+
+#### And?
+
+The fallout has been severe. While he was not found to be at fault, CEO Thomas Borgen resigned and the chairman. Danske said it has taken actions against individuals responsible for these transactions although most of them have left the bank. The company's stock price also <a href="https://www.reuters.com/article/us-danske-bank-moneylaundering/danske-bank-ceo-quits-in-234-billion-money-laundering-scandal-idUSKCN1LZ0QX" target="_blank">tanked</a>.
+
+#### Why does this matter?
+
+This case could be the largest money laundering case in Europe. It puts Danske Bank at risk of  regulatory action, which could impact the bank for the next few years. We care about money laundering  because it enables bad apples to move money without getting noticed or taxed, and allows them to continue doing whatever they're doing. In the end, society loses. Ikke godt.
+
+* * *
+<br />
+
+**ICYMI**
+
+#### **The Big Apple's pension goes green**
+
+The New York City pension fund <a href="https://www1.nyc.gov/office-of-the-mayor/news/469-18/mayor-comptroller-pension-fund-goal-invest-4-billion-climate-change-solutions" target="_blank">plans</a> to invest 2% of its $195-billion portfolio in climate change solutions by 2020. It will invest in renewable energy, energy efficiency and other climate-friendly solutions.
+
+#### **More females taking the corporate reins**
+
+A new <a href="http://www.challengergray.com/press/press-releases/august-2018-ceo-report-154-ceos-out-22-percent-new-ceos-are-women" target="_blank">study</a> says 22% of CEO replacements this year were women, up from last year's 18%. The report noted that of the 716 replacements for CEOs who left their posts in the US this year, 161 were women, up from 119 last year.
