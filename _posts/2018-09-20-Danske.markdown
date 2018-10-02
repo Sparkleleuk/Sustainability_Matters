@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laundered"
-excerpt: "Danish Bank facing fallout from suspicious transactions. ICYMI, NYC pension goes green, and CEO girl power."
+excerpt: "Danish Bank facing fallout from suspicious transactions. ICYMI: NYC pension goes green, and CEO girl power."
 categories: [Ethics, Finance, Diversity]
 ---
 
