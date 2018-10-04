@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Work-Life Balance"
-excerpt: "Sustainability Matters is on vacation. Back in action in two weeks. "
+excerpt: "Sustainability Matters is on vacation. We will be back in action in two weeks."
 categories:
 ---
