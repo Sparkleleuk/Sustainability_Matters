@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Go Out and Vote"
+excerpt: "Companies urge employees to carry out civic duty in US midterms. On our reading list is a story on the degradation of California's underwater forests."
+categories: [CSR, Environment]
+---
+
+### Companies offer incentives for employees to vote
+
+Companies across the US are <a href="https://www.bloomberg.com/news/articles/2018-10-22/ceos-give-employees-time-off-to-vote-in-hotly-contested-midterms?srnd=premium" target="_blank">offering incentives</a> ranging from "no meetings" policies to outright paid time off to encourage employees to vote on November 6.
+
+#### Beam me up, Scotty
+
+The Society for Human Resources Management said that a record 44% of US companies are offering employees paid time off to vote this year, up from 37% in 2016. Bloomberg reported that more than 400 companies have signed on the ElectionDay.org, an initiative to provide employees the means to vote. Companies that are giving paid time off to employees include Levi Strauss & Co., Etsy, Lyft, CAVA, the Bank of Southern California and Patagonia.
+
+#### Going the extra mile
+
+Speaking of our favorite jacket maker, Patagonia is going the extra mile by <a href="https://www.ecowatch.com/patagonia-ceo-politics-2613614515.html" target="_blank">endorsing two Democrats</a> in two crucial Senate races: Sen. Jon Tester of Montana and Rep. Jacky Rosen in Nevada. It is the first time that Patagonia is openly endorsing political candidates and the endorsement is driven by its support for the protection of public lands.
+
+#### So companies are going political?
+
+Yes, but in a slightly different way. In 2010. Citizens United, the landmark Supreme Court ruling, paved the way for companies to actively participate in politics through Political Action Committees (PACs). But this time, the focus seems to be on getting people to vote rather than supporting certain candidates (except for Patagonia of course). Now this does not mean that companies won't be supporting PACs and super PACs and whathaveyous. They might still do so and we might still dislike it, but encouraging people to vote is a noble enough effort.
+
+* * *
+<br />
+
+**WE'RE READING**
+
+#### **The slow death of California's underwater forest**
+
+The New York Times reports that seaweed, which absorbs carbon emissions, are being devoured by purple urchins. Sea urchins multiplied as a result of warming oceans. Read about it <a href="https://www.nytimes.com/2018/10/22/climate/kelp-climate-change-california.html?action=click&module=Top%20Stories&pgtype=Homepage" target="_blank">here</a>.
