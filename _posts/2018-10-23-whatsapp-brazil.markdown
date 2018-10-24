@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wassup, hot stuff?"
+title: "Wassup, Hot Stuff?"
 excerpt: "WhatsApp purge in Brazil. ICYMI: Uber's fare raise in London for a good cause."
 categories: [CSR, Environment]
 ---
