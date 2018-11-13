@@ -7,7 +7,7 @@ categories: [Environment]
 
 ### Latest California wildfires are the deadliest ever
 
-The figures are out. The <a href="https://www.usatoday.com/story/news/nation-now/2018/11/12/california-wildfires-death-tolls-damage-camp-woolsey-hill-what-we-know/1974551002/" target="_blank">death toll</a> from the wildfires in California rose to 31 today, with more than 200 people still unaccounted for and more than 150,000 people still displaced. The wildfires are estimated to amount to $19 billion in damages.
+The figures are out. The <a href="https://www.cbsnews.com/live-news/california-fires-camp-woolsey-containment-evacuations-death-toll-2018-11-13-live-updates/" target="_blank">death toll</a> from the wildfires in California rose to 44 today, with more than 200 people still unaccounted for and more than 150,000 people still displaced. The wildfires are estimated to amount to $19 billion in damages.
 
 #### What we know
 
