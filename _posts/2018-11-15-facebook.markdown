@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delay, Deny and Deflect"
-excerpt: "NY Times reveals strategy to conceal fake news findings. And read the ironic news of the week."
+excerpt: "NY Times reveals Facebook's attempt to conceal fake news warnings. And read the ironic news of the week."
 categories: [CSR, Ethics]
 ---
 
