@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Delay, Deny and Deflect"
+excerpt: "NY Times reveals strategy to conceal fake news findings. And read the ironic news of the week."
+categories: [CSR, Ethics]
+---
+
+### Investigation reignites Facebook governance concerns
+
+A <a href="https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html?module=inline" target="_blank">New York Times investigation</a> published on November 14 revealed that Facebook's top executives sought to conceal warning signs that the social network has been used to disrupt elections.
+
+#### Tell me more
+
+The Times reported that top execs CEO and Chairman Mark Zuckerberg and COO Sheryl Sandberg had been distracted by personal projects and failed to focus on warning signs that the company's platform was being used to disrupt elections in some parts of the world. When the <a href="https://www.vox.com/policy-and-politics/2018/3/23/17151916/facebook-cambridge-analytica-trump-diagram" target="__blank">Cambridge Analytica scandal</a> exploded, they were caught with their pants down.
+
+#### What did Zuck and Sheryl do?
+
+The Times said they went on an offensive. Zuck went on a public apology tour while Sandberg reportedly oversaw an "aggressive lobbying campaign" against Facebook critics. Facebook reportedly employed a Republic opposition research firm, Definers Public Affairs, to discredit activists and shift public attention to rival companies such as Google and Apple. Linking Facebook critics to liberal billionaire George Soros also became a target of the firm's reputation management strategy. Yes, attacking Soros has been a sport.
+
+#### What are Zuck and Sheryl saying?
+
+Sandberg said allegations are <a href="https://www.cnbc.com/2018/11/16/facebooks-sheryl-sandberg-responds-to-new-york-times-investigation.html" target="_blank">"simply untrue"</a> although she acknowledged that the company was "too slow" in responding to the Russia interference. Zuck <a href="https://www.nytimes.com/2018/11/17/technology/facebook-mark-zuckerberg.html" target="_blank">reportedly</a> convened a company-wide meeting and denied the allegations and in a press conference, defended Sandberg.
+
+#### But it's not looking good...
+
+The Times report came a week after Facebook <a href="https://www.bbc.com/news/world-asia-46105934" target="_blank">admitted</a> that its platform had been used to incite violence against Rohingyas in Myanmar. FB commissioned an independent investigation to look into allegations that anti-Rohingya messages were widely spread through Facebook, inciting violence against the Rohingya minority. The UN has warned that the anti-Rohingya campaign may amount to genocide.
+
+#### Why does these matter?
+
+Because the New York Times report and Facebook's investigation disproves the company's narrative that it too was caught by surprise by the malicious use of its platform. These investigations indicate that company management was warned, but as the Times reported, they delayed, denied and deflected the criticism. If the report is true, the company cannot just be accused of negligence, it can also be accused of wilfully misleading, well, everyone.
+
+#### What happens now?
+
+The report has reignited <a href="https://www.telegraph.co.uk/technology/2018/11/16/facebook-investors-call-mark-zuckerberg-resign-chairman-following/" target="_blank">calls for Zuck to step down as chairman. Since last year, institutional investors have filed <a href="https://www.reuters.com/article/us-facebook-shareholders/at-facebook-public-funds-join-push-to-remove-zuckerberg-as-chairman-idUSKCN1MR2GY" target="_blank">shareholder resolutions</a> for the company to appoint an independent chairman so that the board can act as a credible check and balance of management. But Zuck <a href="https://www.businessinsider.com/mark-zuckerberg-is-not-going-to-step-down-as-facebook-chairman-2018-11" target="_blank">doesn't think its the way to go. Y tho?
+
+* * *
+<br />
+
+**IRONY OF THE WEEK**
+
+#### **Arctic drilling hits a snag**
+
+Remember the Liberty Project? It's the project that had been given the go-ahead by the US federal gov to drill oil and gas in the Alaskan Arctic. The first phase of the project was to build a nine-acre artificial gravel island about 15 east of Prudhoe Bay, not far from the Arctic National Wildlife Refuge. The island will sit about six miles offshore in 19 feet of water. And it <a href="https://www.theguardian.com/environment/2018/nov/15/arctic-oil-drilling-texas-hilcorp-beaufort-sea" target="_blank">hit a snag because of lack of sea ice. So there's literally inadequate sea ice upon which to build an island. Hmm, a sign of the times.
