@@ -23,4 +23,13 @@ To release it on a slow news day, when most of the country is on a long Thanksgi
 
 #### Why is this important?
 
-Trump has been skeptical of climate change and global warming. His administration has systematically rolled back environmental regulations set in place by the Obama administration. His policies have been decidedly friendly towards the extractives industry, for example, allowing oil and gas exploration near a a wildlife refuge in Alaska, and mining in protected lands in Utah. His statement that he does not believe the economic consequences of unmitigated global warming indicates that unlike previous presidents, he is unlikely to be influenced by this report in policy-making. Not a big surprise but enough to make you go UGGGHHH. 
+Trump has been skeptical of climate change and global warming. His administration has systematically rolled back environmental regulations set in place by the Obama administration. His policies have been decidedly friendly towards the extractives industry, for example, allowing oil and gas exploration near a a wildlife refuge in Alaska, and mining in protected lands in Utah. His statement that he does not believe the economic consequences of unmitigated global warming indicates that unlike previous presidents, he is unlikely to be influenced by this report in policy-making. Not a big surprise but enough to make you go UGGGHHH.
+
+* * *
+<br />
+
+**TO MAKE THINGS WORSE**
+
+#### **Brazil recorded its worst deforestation rate in 10 years**
+
+Between August 2017 and July 2018, approximately 7,900 square kilometers of land were deforested in Brazil, equivalent to 987,000 football pitches. According to preliminary reports by a government ministry, the deforestation rate during that period was 13.7% higher than the previous rate and the biggest area deforested since 2008. Read more <a href="https://www.theguardian.com/environment/2018/nov/24/brazil-records-worst-annual-deforestation-for-a-decade?CMP=twt_a-environment_b-gdneco" target="_blank">here</a> or <a href="http://www.mma.gov.br/informma/item/15259-governo-federal-divulga-taxa-de-desmatamento-na-amaz%C3%B4nia.html" target="_blank">here</a> if you speak Brazilian Portuguese. 
