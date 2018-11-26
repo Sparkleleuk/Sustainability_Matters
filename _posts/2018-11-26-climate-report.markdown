@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Believe It or Not"
-excerpt: "The US government's climate change report is unbelievable to the US president."
+excerpt: "The US government's climate change report is unbelievable to the US president. And read about the rate of deforestation in Brazil."
 categories: [Environment]
 ---
 
@@ -32,4 +32,4 @@ Trump has been skeptical of climate change and global warming. His administratio
 
 #### **Brazil recorded its worst deforestation rate in 10 years**
 
-Between August 2017 and July 2018, approximately 7,900 square kilometers of land were deforested in Brazil, equivalent to 987,000 football pitches. According to preliminary reports by a government ministry, the deforestation rate during that period was 13.7% higher than the previous rate and the biggest area deforested since 2008. Read more <a href="https://www.theguardian.com/environment/2018/nov/24/brazil-records-worst-annual-deforestation-for-a-decade?CMP=twt_a-environment_b-gdneco" target="_blank">here</a> or <a href="http://www.mma.gov.br/informma/item/15259-governo-federal-divulga-taxa-de-desmatamento-na-amaz%C3%B4nia.html" target="_blank">here</a> if you speak Brazilian Portuguese. 
+Between August 2017 and July 2018, approximately 7,900 square kilometers of land were deforested in Brazil, equivalent to 987,000 football pitches. According to preliminary reports by a government ministry, the deforestation rate during that period was 13.7% higher than the previous rate and the biggest area deforested since 2008. Read more <a href="https://www.theguardian.com/environment/2018/nov/24/brazil-records-worst-annual-deforestation-for-a-decade?CMP=twt_a-environment_b-gdneco" target="_blank">here</a> or <a href="http://www.mma.gov.br/informma/item/15259-governo-federal-divulga-taxa-de-desmatamento-na-amaz%C3%B4nia.html" target="_blank">here</a> if you speak Brazilian Portuguese.
